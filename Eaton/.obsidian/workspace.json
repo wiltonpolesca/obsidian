@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "2026-03-05"
             }
+          },
+          {
+            "id": "a2f62531f768c9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Permanent/Eaton system and patterns notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eaton system and patterns notes"
+            }
+          },
+          {
+            "id": "28c0319aa72480fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/cymdist-changes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cymdist-changes"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,32 +237,35 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8f9e5eae3ce19e26",
+  "active": "c9d8ed9ebd76c336",
   "lastOpenFiles": [
+    "3 - Permanent/Eaton system and patterns notes.md",
+    "_inbox/cymdist-changes.md",
+    "1 - Resourses/Daily notes/2026-03-05.md",
+    "3 - Permanent/Tips/scripts/TestHasGitChangedFilesByExt.ps1",
+    "3 - Permanent/Tips/scripts/SetRcBuildVersion.ps1",
+    "3 - Permanent/Tips/scripts/InvokeVcxprojUpdate.ps1",
+    "3 - Permanent/Tips/scripts/InvokeRobocopy.ps1",
+    "3 - Permanent/Tips/scripts/InvokeCymdistArtifactsCreation.ps1",
+    "3 - Permanent/Tips/scripts/GetYesNo.ps1",
+    "3 - Permanent/Tips/scripts/GetGitChangedFilesByExt.ps1",
+    "3 - Permanent/Tips/scripts",
+    "3 - Permanent/Tips/ApplyConfigChanges.ps1",
+    "3 - Permanent/Tips/Powershell",
+    "3 - Permanent/Tips/Powershell/Powershell.md",
     "1 - Resourses/Daily notes/2026-03-04.md",
     "1 - Resourses/Daily notes/2026-03-03.md",
-    "1 - Resourses/Daily notes/2026-03-05.md",
-    "3 - Permanent/Eaton system and patterns notes.md",
     "3 - Permanent/Eaton important notes.md",
-    "1 - Resourses/Daily notes",
     "2026-03-05.md",
     "3.md",
-    "3 - Permanent/images",
     "3 - Permanent/Tips/Git commands.md",
-    "Untitled.base",
     "Untitled.canvas",
     "3 - Permanent/Tips/git-commands.md",
     "3 - Permanent/Tips/# Git commands.md",
-    "3 - Permanent/Tips",
-    "2 - Projects/cymdist plugin",
-    "2 - Projects/Ideas/Untitled",
-    "2 - Projects/@ Ideas",
-    "3 - Permanent",
-    "2 - Projects",
-    "1 - Resourses",
     "Welcome.md"
   ]
 }
