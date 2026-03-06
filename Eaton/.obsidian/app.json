@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "openBehavior": "daily",
   "showUnsupportedFiles": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "readableLineLength": false
 }

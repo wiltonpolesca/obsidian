@@ -16,6 +16,11 @@ $hasChanges = Test-HasGitChangedFilesByExt `
   -Extensions @('cpp', 'h')
 
 if (!$hasChanges) {
+
+  # Revert possible changes on cymdist project files
+  git restore "$srcFolder/GATEWAY/CYMDISTGIS/FirstGen/CYMDistGIS_FirstGen.vcxproj"
+  git restore "$srcFolder/GATEWAY/CYMDISTGIS/SecGen/CYMDistGIS_SecGen.vcxproj"
+
   Write-Host "No changes detected in generated files. No need to update version or run CI tests." -ForegroundColor Green
   exit 0
 }
@@ -30,10 +35,37 @@ Set-RcBuildVersion `
   -RepoFilePath "FME Plugins/src/GATEWAY/CYMDISTGIS/SecGen/CYMDistGISVer.rc" `
   -LocalFile "$srcFolder\GATEWAY\CYMDISTGIS\SecGen\CYMDistGISVer.rc"  
 
+. "$PSScriptRoot/scripts/BuildCymdistPlugin.ps1"
+Write-Host 'Building the plugin ...' -ForegroundColor Yellow
+
+Write-Host '-------------------------------' -ForegroundColor Yellow
+Invoke-BuildCymdistPlugin `
+  -solutionPath "$srcFolder\GATEWAY\CYMDISTGIS\FirstGen\CYMDistGIS_FirstGen.vcxproj" `
+  -configuration "Release_FirstGen" `
+  -platform "Win32"
+
+Write-Host '-------------------------------' -ForegroundColor Yellow
+Invoke-BuildCymdistPlugin `
+  -solutionPath "$srcFolder\GATEWAY\CYMDISTGIS\FirstGen\CYMDistGIS_FirstGen.vcxproj" `
+  -configuration "Release_FirstGen" `
+  -platform "x64"
+
+Write-Host '-------------------------------' -ForegroundColor Yellow
+Invoke-BuildCymdistPlugin `
+  -solutionPath "$srcFolder\GATEWAY\CYMDISTGIS\SecGen\CYMDistGIS_SecGen.vcxproj" `
+  -configuration "Release_SecGen" `
+  -platform "x64"
+
 # Ask if user wants to run the integration test (default: No)
 $runIntegration = Get-YesNo -Prompt 'Do you want to run the integration test?' -Default 'N'
 
 if ($runIntegration -eq 'N') {
+  
+  Write-Host "Deleting temporary files..." -ForegroundColor Green
+  if (Test-Path "$outputArtifactsFolder") {
+    Remove-Item "$outputArtifactsFolder" -Recurse -Force
+  }
+  
   Write-Host "Integration tests will be skipped." -ForegroundColor Green
   exit 0
 }
@@ -52,26 +84,34 @@ if ($testAllFeatures -eq 'N') {
   }
 }
 
-Write-Host 'Building the plugin ...' -ForegroundColor Yellow
-
 Write-Host 'Preparing environment to run integration tests...' -ForegroundColor Yellow
+Write-Host "Artifacts folder: $outputArtifactsFolder" -ForegroundColor Gray
+
+Write-Host 'Creating directories...' -ForegroundColor Yellow
 
 $dinamicFolder = (Get-Date).ToString("yyyyMMddHHmmss")
 $testFolder = Join-Path $diFmeTestServerFolder $dinamicFolder
-New-Item -ItemType Directory -Path "$testFolder" -Force
+$null = New-Item -ItemType Directory -Path "$testFolder" -Force
 
-Write-Host "Artifacts folder: $outputArtifactsFolder" -ForegroundColor Gray
+$null = New-Item -ItemType Directory -Path "$testFolder\Plugins\FirstGen\x64" -Force
+$null = New-Item -ItemType Directory -Path "$testFolder\Plugins\FirstGen\x86" -Force
+$null = New-Item -ItemType Directory -Path "$testFolder\Plugins\SecGen\x64" -Force
+$null = New-Item -ItemType Directory -Path "$testFolder\Schema" -Force
 
 Write-Host 'Copying files...' -ForegroundColor Yellow
-
-New-Item -ItemType Directory -Path "$testFolder/Plugins" -Force
-New-Item -ItemType Directory -Path "$testFolder/Schema" -Force
-
 $pluginsFolder = Join-Path $srcFolder "Released plugins"
-Invoke-Robocopy -Source "$pluginsFolder\FirstGen" -Destination "$testFolder\Plugins\FirstGen"
-Invoke-Robocopy -Source "$pluginsFolder\SecGen" -Destination "$testFolder\Plugins\SecGen"
+Write-Host '   - cymdist pluigins...' -ForegroundColor Yellow
+Copy-Item -Path "$pluginsFolder\FirstGen\x86\CYMDist.dll" -Destination "$testFolder\Plugins\FirstGen\x86\CYMDist.dll"
+Copy-Item -Path "$pluginsFolder\FirstGen\x64\CYMDist.dll" -Destination "$testFolder\Plugins\FirstGen\x64\CYMDist.dll"
+Copy-Item -Path "$pluginsFolder\SecGen\x64\CYMDist.dll" -Destination "$testFolder\Plugins\SecGen\x64\CYMDist.dll"
+
+Write-Host '   - Source files...' -ForegroundColor Yellow
 Invoke-Robocopy -Source "$outputArtifactsFolder\json_files" -Destination "$testFolder\Sources"
+
+Write-Host '   - Script files...' -ForegroundColor Yellow
 Invoke-Robocopy -Source "$srcFolder\FMEPluginsTools\FMEPluginsTester\Tests\CymdistGIS\Scripts" -Destination "$testFolder\Scripts"
+
+Write-Host '   - Others...' -ForegroundColor Yellow
 Copy-Item -Path "$outputArtifactsFolder\cymdist.sch" -Destination "$testFolder\Schema\cymdist.sch"
 Copy-Item -Path "$PSScriptRoot\CYMENetworkWriter.config" -Destination "$testFolder\CYMENetworkWriter.config"
 
@@ -80,13 +120,18 @@ $remoteTestProject = Join-Path $srcFolder "..\test\FMEPluginsTools\FMERemotePlug
 
 if ($testAllFeatures -eq 'N') {
   dotnet run --project $remoteTestProject "c:\Tests\$dinamicFolder" --feature $feature
-} else {
+}
+else {
   dotnet run --project $remoteTestProject "c:\Tests\$dinamicFolder"
 }
 
 Write-Host "Deleting test files ..." -ForegroundColor Cyan
-if (Test-Path "$testFolder") {
-    Remove-Item "$testFolder" -Recurse -Force
+# if (Test-Path "$testFolder") {
+#   Remove-Item "$testFolder" -Recurse -Force
+# }
+
+if (Test-Path "$outputArtifactsFolder") {
+  Remove-Item "$outputArtifactsFolder" -Recurse -Force
 }
 
 Write-Host "Done." -ForegroundColor Gray

@@ -86,13 +86,13 @@ function Invoke-CymdistArtifactsCreation {
     $firstGenProject = Join-Path $CYMDIST_FILES "FirstGen\CYMDistGIS_FirstGen.vcxproj"
     $firstGenInc = Join-Path $CYMDIST_FILES "FirstGen\inc"
     $firstGenSrc = Join-Path $CYMDIST_FILES "FirstGen\src"
-    Invoke-VcxprojUpdate -ProjectPath $firstGenProject -IncludeDir $firstGenInc -SourceDir $firstGenSrc
+    Invoke-VcxprojUpdate -ProjectPath $firstGenProject -IncludeDir $firstGenInc -SourceDir $firstGenSrc -ResourceFiles @('CYMDistGISVer.rc')
 
     Write-Host "Updating SecondGen Visual Studio project files..." -ForegroundColor Cyan
     $secondGenProject = Join-Path $CYMDIST_FILES "SecGen\CYMDistGIS_SecGen.vcxproj"
     $secondGenInc = Join-Path $CYMDIST_FILES "SecGen\inc"
     $secondGenSrc = Join-Path $CYMDIST_FILES "SecGen\src"
-    Invoke-VcxprojUpdate -ProjectPath $secondGenProject -IncludeDir $secondGenInc -SourceDir $secondGenSrc
+    Invoke-VcxprojUpdate -ProjectPath $secondGenProject -IncludeDir $secondGenInc -SourceDir $secondGenSrc -ResourceFiles @('CYMDistGISVer.rc')
    
    $global:LASTEXITCODE = 0
 

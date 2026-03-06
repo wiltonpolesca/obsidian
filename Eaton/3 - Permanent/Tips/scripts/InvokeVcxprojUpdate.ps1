@@ -12,12 +12,23 @@ function Invoke-VcxprojUpdate {
         [string]$IncludeDir,
 
         [Parameter(Mandatory = $true)]
-        [string]$SourceDir
+        [string]$SourceDir,
+
+        [Parameter(Mandatory = $false)]
+        [string[]]$ResourceFiles = @()
     )
 
-    $ErrorActionPreference = "Stop"
-
     $PRE_COMPILE_FILES = @('StdAfx.h')
+    $DO_NOT_REMOVE = @('resource.h')
+    $PRE_COMPILE_CONFIGS = @(
+        'Release_FirstGen|Win32', 
+        'Debug_FirstGen|Win32', 
+        'Release_FirstGen|x64', 
+        'Debug_FirstGen|x64', 
+        'Release_SecGen|x64', 
+        'Debug_SecGen|x64', 
+        'Release_SecGen|Win32', 
+        'Debug_SecGen|Win32')
 
     $resolvedProjectPath = (Resolve-Path -LiteralPath $ProjectPath).Path
     $resolvedIncludeDir = (Resolve-Path -LiteralPath $IncludeDir).Path
@@ -47,6 +58,11 @@ function Invoke-VcxprojUpdate {
         $toRemove = @()
         foreach ($child in $group.ChildNodes) {
             if ($child.Name -eq "ClInclude" -or $child.Name -eq "ClCompile") {
+                $includeValue = $child.GetAttribute("Include")
+                if ($DO_NOT_REMOVE -contains $includeValue) {
+                    continue
+                }
+
                 $toRemove += $child
             }
         }
@@ -63,18 +79,14 @@ function Invoke-VcxprojUpdate {
 
     # Get project directory for relative path calculation
     $projectDir = Split-Path -Parent $resolvedProjectPath
+    $projectName = [System.IO.Path]::GetFileNameWithoutExtension($resolvedProjectPath)
 
-    # Create new ItemGroup for headers
-    $headerGroup = $project.CreateElement("ItemGroup", $project.DocumentElement.NamespaceURI)
-    $headerFiles = Get-ChildItem -Path $resolvedIncludeDir -Filter *.h -Recurse | Sort-Object FullName
-    if ($headerFiles) {
-        foreach ($file in $headerFiles) {
-            $relativePath = $file.FullName.Substring($projectDir.Length + 1)
-            $include = $project.CreateElement("ClInclude", $project.DocumentElement.NamespaceURI)
-            $include.SetAttribute("Include", $relativePath)
-            $headerGroup.AppendChild($include) | Out-Null
-        }
-        $project.DocumentElement.AppendChild($headerGroup) | Out-Null
+    $filteredPreCompileConfigs = $PRE_COMPILE_CONFIGS
+    if ($projectName -match "First") {
+        $filteredPreCompileConfigs = $PRE_COMPILE_CONFIGS | Where-Object { $_ -match "First" }
+    }
+    elseif ($projectName -match "Sec") {
+        $filteredPreCompileConfigs = $PRE_COMPILE_CONFIGS | Where-Object { $_ -match "Sec" }
     }
 
     # Create new ItemGroup for source files
@@ -90,15 +102,66 @@ function Invoke-VcxprojUpdate {
             $correspondingHeader = $file.BaseName + ".h"
         
             if ($PRE_COMPILE_FILES -contains $correspondingHeader) {
-                $pchElement = $project.CreateElement("PrecompiledHeader", $project.DocumentElement.NamespaceURI)
-                $pchElement.InnerText = "Create"
-                $compile.AppendChild($pchElement) | Out-Null
+                foreach ($config in $filteredPreCompileConfigs) {
+                    $pchElement = $project.CreateElement("PrecompiledHeader", $project.DocumentElement.NamespaceURI)
+                    $pchElement.SetAttribute("Condition", ("'`$(Configuration)|`$(Platform)'=='{0}'" -f $config))
+                    $pchElement.InnerText = "Create"
+                    $compile.AppendChild($pchElement) | Out-Null
+                }
             }
-        
             $sourceGroup.AppendChild($compile) | Out-Null
         }
         $project.DocumentElement.AppendChild($sourceGroup) | Out-Null
     }
+
+    # Create new ItemGroup for headers
+    $headerGroup = $project.CreateElement("ItemGroup", $project.DocumentElement.NamespaceURI)
+    $headerFiles = Get-ChildItem -Path $resolvedIncludeDir -Filter *.h -Recurse | Sort-Object FullName
+    # $secResourceHeaderPath = Join-Path $projectDir "resource.h"
+    # $addSecResourceHeader = $projectName -match "Sec" -and (Test-Path -LiteralPath $secResourceHeaderPath -PathType Leaf)
+
+    if ($headerFiles) {
+        foreach ($file in $headerFiles) {
+            $relativePath = $file.FullName.Substring($projectDir.Length + 1)
+            $include = $project.CreateElement("ClInclude", $project.DocumentElement.NamespaceURI)
+            $include.SetAttribute("Include", $relativePath)
+            $headerGroup.AppendChild($include) | Out-Null
+        }
+
+        # if ($addSecResourceHeader) {
+        #     $resourceHeaderInclude = $project.CreateElement("ClInclude", $project.DocumentElement.NamespaceURI)
+        #     $resourceHeaderInclude.SetAttribute("Include", "resource.h")
+        #     $headerGroup.AppendChild($resourceHeaderInclude) | Out-Null
+        # }
+
+        $project.DocumentElement.AppendChild($headerGroup) | Out-Null
+    }
+
+    # Ensure required resources are present (idempotent: skip if already included).
+    if ($ResourceFiles -and $ResourceFiles.Count -gt 0) {
+        $resourceGroup = $project.CreateElement("ItemGroup", $project.DocumentElement.NamespaceURI)
+
+        foreach ($resourceFile in $ResourceFiles) {
+            if ([string]::IsNullOrWhiteSpace($resourceFile)) {
+                continue
+            }
+
+            $resourceFileName = [System.IO.Path]::GetFileName($resourceFile)
+            $existingResource = $project.SelectSingleNode("//ms:ResourceCompile[@Include='${resourceFileName}']", $ns)
+            if ($existingResource -ne $null) {
+                continue
+            }
+
+            $resourceCompile = $project.CreateElement("ResourceCompile", $project.DocumentElement.NamespaceURI)
+            $resourceCompile.SetAttribute("Include", $resourceFileName)
+            $resourceGroup.AppendChild($resourceCompile) | Out-Null
+        }
+
+        if ($resourceGroup.HasChildNodes) {
+            $project.DocumentElement.AppendChild($resourceGroup) | Out-Null
+        }
+    }
+
 
     # Save with proper formatting
     $project.Save($resolvedProjectPath)
