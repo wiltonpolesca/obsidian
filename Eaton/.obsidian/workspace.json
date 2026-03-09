@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "76abf04002c347ff",
+        "id": "9d46daf9d1cd70bb",
         "type": "tabs",
         "children": [
           {
-            "id": "59e7043a4f3bfe29",
+            "id": "8287aa4d44f01c32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Resourses/Daily notes/2026/02/2026-02-27.md",
+                "file": "3 - Permanent/Eaton system and patterns notes.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-27"
+              "title": "Eaton system and patterns notes"
             }
           }
         ]
@@ -206,19 +206,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c9d8ed9ebd76c336",
+  "active": "8287aa4d44f01c32",
   "lastOpenFiles": [
-    "1 - Resourses/Daily notes/2026-03-06.md",
-    "1 - Resourses/Daily notes/2026-03-09.md",
-    "1 - Resourses/Daily notes/2026/02/2026-03-05.md",
+    "2 - Projects/cymdist plugin/Integration-Test-Architecture-Technical-Note.md",
+    "_inbox/temp.md",
+    "3 - Permanent/Eaton system and patterns notes.md",
+    "3 - Permanent/Eaton important notes.md",
     "1 - Resourses/Daily notes/@timesheet.md",
+    "1 - Resourses/Daily notes/2026-03-09.md",
+    "1 - Resourses/Daily notes/2026/02/2026-02-27.md",
+    "1 - Resourses/Daily notes/2026-03-06.md",
+    "1 - Resourses/Daily notes/2026/02/2026-03-05.md",
     "1 - Resourses/Learning/Obsidian slides/slides with-speaker-notes.md",
     "1 - Resourses/Learning/Obsidian slides/simple-slide.md",
-    "_inbox/temp.md",
     "1 - Resourses/Daily notes/2026/02/2026-03-04.md",
     "1 - Resourses/Daily notes/2026/02/2026-03-03.md",
     "1 - Resourses/Daily notes/2026/02/2026-03-02.md",
-    "2 - Projects/cymdist plugin/Integration-Test-Architecture-Technical-Note.md",
     "Untitled.base",
     "1 - Resourses/Learning/Obsidian slides",
     "1 - Resourses/Learning",
@@ -234,10 +237,6 @@
     "1 - Resourses/Daily notes/2026/02/2026-02-20.md",
     "1 - Resourses/Daily notes/2026/02/2026-02-19.md",
     "1 - Resourses/Daily notes/2026/02/2026-02-18.md",
-    "1 - Resourses/Daily notes/2026/02/2026-02-17.md",
-    "1 - Resourses/Daily notes/2026/02/2026-02-13.md",
-    "1 - Resourses/Daily notes/2026/02/2026-02-12.md",
-    "1 - Resourses/Daily notes/2026/02/2026-02-11.md",
     "3 - Permanent/Tips/scripts/BuildCymdistPlugin.ps1",
     "3 - Permanent/Tips/scripts/TestHasGitChangedFilesByExt.ps1",
     "3 - Permanent/Tips/scripts/SetRcBuildVersion.ps1",
