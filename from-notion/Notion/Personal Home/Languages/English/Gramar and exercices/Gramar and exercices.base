@@ -1,0 +1,22 @@
+# Gramar and exercices
+
+filters:
+  and:
+    - note["base"] == link("Gramar and exercices.base")
+properties:
+  file.name:
+    displayName: Nom
+  Date de création:
+    displayName: Date de création
+  Étiquettes:
+    displayName: Étiquettes
+  Modifié:
+    displayName: Modifié
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Date de création
+      - Étiquettes
+      - Modifié

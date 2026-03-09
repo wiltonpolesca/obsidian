@@ -1,0 +1,34 @@
+---
+
+---
+- Gestão de parâmetros
+- Gestão plano de lavra
+    - Importação do plano
+    - Visualização do plano
+    - Gerência do plano
+    - Aderência ao plano
+- Iniciar turno
+- Definir plano de alocação
+- Monitoramento da operação
+    - Pedido de tempo
+    - Controle de velocidade
+    - Quebra de máquina
+    - Horímetro do equipamento
+    - Nível de combustível
+    - Carga média para os equipamentos que tem balança
+    - Índice por equipamento
+    - Índice de erro por equipamento (alocado na frente x e trabalhando na y)
+    - Identificação da quantidade de material marcado de forma indevida no planejamento (marcado com minério e ser estéril), relação de todos os ajustes realizados
+    - 
+- Realocar fluxo
+- Receber alocação de transporte
+- Receber alocação de carga
+- Acompanhar próximos carregamentos
+- Gerar novo plano de alocação
+- Redefinir automaticamente o plano de alocação corrente
+- Alocar automaticamente equipamento de transporte
+- Troca de estado automática
+- Otimização de abastecimento
+- Mapa 3D
+- SmartMonitor
+- Desenho de rotas

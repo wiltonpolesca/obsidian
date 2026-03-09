@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "795aa437897af4ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "a17fff4d50a969ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d944061366747292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Personal Home/Receitas/Lombo desfiado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lombo desfiado"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d245b0c99739e47f",
+    "type": "split",
+    "children": [
+      {
+        "id": "70db3ded80eee5a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05b4303228c38aa7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53e3d91e3935a561",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f8275bf5e9ae0f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 495.5
+  },
+  "right": {
+    "id": "66213a1403fcea0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b97d78e5e53cef8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e7d614fc0698598",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f6d212ccc51f1bb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "41e91bd394690e2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dfefe570ee29d725",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8d149cce6cc4f828",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "google-drive-sync:Push to Google Drive": false
+    }
+  },
+  "active": "d944061366747292",
+  "lastOpenFiles": [
+    "Notion/Personal Home/Receitas/Lombo na panela de pressão.md",
+    "Notion/Personal Home/Receitas/Lombo desfiado.md",
+    "Notion/Develop/Angular/Tips.md",
+    "Notion/Develop/Angular/PWA.md",
+    "Notion/Develop/Angular/Performance-bundle size.md",
+    "Notion/Develop/Angular/Componentes para avaliar.md",
+    "Notion/Develop/Angular/Como criar componentes - validações.md",
+    "Notion/Develop/Angular/Angular.md",
+    "Notion/Develop/Angular/Accessibility.md",
+    "Untitled.png",
+    "Personal Home.jpeg",
+    "Untitled 16.png",
+    "Untitled 15.png",
+    "Untitled 14.png",
+    "Untitled 13.png",
+    "Untitled 12.png",
+    "Untitled 11.png",
+    "Untitled 10.png",
+    "Untitled 9.png",
+    "Notion/Personal Home/Languages/Frances/TCF/Tâche 1.md",
+    "Notion/Personal Home/Languages/Frances/TCF/TCF.md",
+    "Notion/Personal Home/Languages/Frances/TCF/Preparation pout le test TCF.md",
+    "Notion/Personal Home/Languages/Frances/TCF/Preparation pour le test TEF.md",
+    "Notion/Personal Home/Languages/Frances/TCF/Preparation pour le test orale.md",
+    "Notion/Personal Home/Languages/Frances/Livre Je me remets à l’anglais pour les nuls/Livre Je me remets à l’anglais pour les nuls.md",
+    "Notion/Personal Home/Languages/Frances/Livre Je me remets à l’anglais pour les nuls/Jour 1.md",
+    "Notion/Personal Home/Languages/Frances/Francisation/Pronom reflexive.md",
+    "Notion/Personal Home/Languages/Frances/Francisation/Perguntas e expressões.md",
+    "Notion/Personal Home/Languages/Frances/Francisation/Passé composé.md",
+    "Notion/Personal Home/Languages/Frances/Francisation/Passé compossé verbes les plus courants.md",
+    "Notion/Personal Home/Languages/Frances/Francisation/Mois, Jours de la Semaine et les saisons.md",
+    "Notion/Personal Home/Languages/Frances/Francisation/Les elements de la phrase.md",
+    "Notion/Personal Home/Languages/Frances/Francisation/Le phrase interrogative.md",
+    "Notion/Personal Home/Languages/Frances/Francisation/Le passé composé VS l'imparfait.md",
+    "Notion/Personal Home/Languages/Frances/Francisation/L'alphabet français.md",
+    "Notion/Personal Home/Languages/Frances/Francisation/Francisation.md",
+    "Notion/Personal Home/Languages/English/Gramar and exercices/Gramar and exercices.base",
+    "Notion/Personal Home/Languages/Frances/TCF",
+    "Notion/Personal Home/Languages/Frances/Livre Je me remets à l’anglais pour les nuls",
+    "Notion/Personal Home/Languages/Frances/Francisation",
+    "Notion/Personal Home/Languages/English/Gramar and exercices",
+    "Notion/Personal Home/Languages/Frances",
+    "Notion/Personal Home/Languages/English",
+    "Notion/Develop/Useful commands line/Useful commands line.base",
+    "Notion/Work/Newtrax",
+    "Notion/Work/Mine"
+  ]
+}

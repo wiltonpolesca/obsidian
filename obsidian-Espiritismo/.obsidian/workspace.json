@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "2d66b5f7d021b46d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba00c10d26cb0277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "016fff0eae2c00a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c88e746d88a33cc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef047e846415c5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b893a68c721b70fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1a6deb9d513f481c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b86523f4abdcb70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae9bf6d25f6e7d6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "128b0f1273446d12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9092d39e1a56ec3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "44e90829d8ba77d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d2e89a74cb8cc8d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bdbca75c0120e627",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "654b25b30a63fa0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_inbox/Test.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "google-drive-sync:Push to Google Drive": false
+    }
+  },
+  "active": "016fff0eae2c00a7",
+  "lastOpenFiles": [
+    "_inbox/Estudo sistematizado.md",
+    "_inbox",
+    "Livros/Estudo Sistematizado da Doutrina Espírita/Tomo 1",
+    "test.md",
+    "Livros/Estudo Sistematizado da Doutrina Espírita",
+    "Livros",
+    "bla.md",
+    "oi",
+    "Welcome.md",
+    "_inbox/Test.md",
+    "Apresentações",
+    "Estudos",
+    "Livros"
+  ]
+}

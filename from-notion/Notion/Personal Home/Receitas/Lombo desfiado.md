@@ -1,0 +1,1 @@
+1kg de lombo de porco 2 cebola 1 limão espremido 1 colher de sobremesa de sal 1 colher de sobremesa de páprica defumada 1 colher de sobremesa de tempero lemon Pepper pimenta do reino a gosto alecrim a gosto molho shoyu 4 dentes de alho grande

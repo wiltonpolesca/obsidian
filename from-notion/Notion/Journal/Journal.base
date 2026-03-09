@@ -1,0 +1,19 @@
+# Journal
+
+filters:
+  and:
+    - note["base"] == link("Journal.base")
+properties:
+  file.name:
+    displayName: Entrée
+  Étiquettes:
+    displayName: Étiquettes
+  Date de création:
+    displayName: Date de création
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Étiquettes
+      - Date de création
