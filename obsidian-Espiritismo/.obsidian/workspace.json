@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ba00c10d26cb0277",
+        "id": "7f96332a0f550c5e",
         "type": "tabs",
         "children": [
           {
-            "id": "016fff0eae2c00a7",
+            "id": "73e36f8b4caf1926",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro II - Fenômenos que antecederam a codificação.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Roteiro II - Fenômenos que antecederam a codificação"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -57,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -67,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Signets"
             }
           }
         ]
@@ -168,31 +172,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "google-drive-sync:Push to Google Drive": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
-  "active": "016fff0eae2c00a7",
+  "active": "73e36f8b4caf1926",
   "lastOpenFiles": [
     "_inbox/Estudo sistematizado.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro II - Fenômenos que antecederam a codificação.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo/Roteiro I - Tríplice aspecto da Doutrina Espírita.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Rotiero I - Contexto histórico do século XIX na europa.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo/Roteiro II - Prinçipios básicos da doutrina espírita.md",
+    "Personagens/Allan Kardec.md",
+    "Personagens/Joanna D'Arc.md",
+    "_ Sumário.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/_Objetivo geral.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo/_Objetivo geral.md",
+    "Personagens/Bezerra de Menezes.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/00 - Capa/003 - Explicações necessárias.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/01 - Programa fundamental",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/00 - Capa/002 - Atualização do programa ESDE.md",
+    "Personagens",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/00 - Capa/001 - Apresentação.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/00 - Capa",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/00 - Capa/000 - Capa.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1",
+    "Livros/Estudo sistematizado da doutrina esírita",
+    "Livros",
     "_inbox",
     "Livros/Estudo Sistematizado da Doutrina Espírita/Tomo 1",
     "test.md",
-    "Livros/Estudo Sistematizado da Doutrina Espírita",
-    "Livros",
     "bla.md",
-    "oi",
     "Welcome.md",
-    "_inbox/Test.md",
-    "Apresentações",
-    "Estudos",
-    "Livros"
+    "_inbox/Test.md"
   ]
 }
