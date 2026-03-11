@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c1a2fd0ca08463dc",
+        "id": "ceaf4c0cfacf061a",
         "type": "tabs",
         "children": [
           {
-            "id": "498f131cdbde5897",
+            "id": "69ac9ad491d9d098",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3 - Permanent/Tips/copilot-prompts.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": true,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "copilot-prompts"
             }
           }
         ]
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "3 - Permanent/Tips/copilot-prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Rétrolien pour copilot-prompts"
             }
           },
           {
@@ -109,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "3 - Permanent/Tips/copilot-prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Liens sortants de copilot-prompts"
             }
           },
           {
@@ -172,12 +186,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,16 +205,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "498f131cdbde5897",
+  "active": "58b3ed6cb30805a6",
   "lastOpenFiles": [
-    "2 - Projects/cymdist plugin/Integration-Test-Architecture-Technical-Note.md",
+    "3 - Permanent/Tips/Git commands.md",
+    "1 - Resourses/Daily notes/2026-03-11.md",
+    "1 - Resourses/Daily notes/@timesheet.md",
+    "1 - Resourses/Daily notes/2026-03-10.md",
     "1 - Resourses/Daily notes/2026-03-09.md",
+    "1 - Resourses/Daily notes/2026-03-06.md",
+    "2 - Projects/cymdist plugin/Integration-Test-Architecture-Technical-Note.md",
     "_inbox/temp.md",
     "3 - Permanent/Eaton system and patterns notes.md",
     "3 - Permanent/Eaton important notes.md",
-    "1 - Resourses/Daily notes/@timesheet.md",
     "1 - Resourses/Daily notes/2026/02/2026-02-27.md",
-    "1 - Resourses/Daily notes/2026-03-06.md",
     "1 - Resourses/Daily notes/2026/02/2026-03-05.md",
     "1 - Resourses/Learning/Obsidian slides/slides with-speaker-notes.md",
     "1 - Resourses/Learning/Obsidian slides/simple-slide.md",
@@ -221,8 +237,6 @@
     "1 - Resourses/Daily notes/2026/02/2026-02-24.md",
     "1 - Resourses/Daily notes/2026/02/2026-02-23.md",
     "1 - Resourses/Daily notes/2026/02/2026-02-20.md",
-    "1 - Resourses/Daily notes/2026/02/2026-02-19.md",
-    "1 - Resourses/Daily notes/2026/02/2026-02-18.md",
     "3 - Permanent/Tips/scripts/BuildCymdistPlugin.ps1",
     "3 - Permanent/Tips/scripts/TestHasGitChangedFilesByExt.ps1",
     "3 - Permanent/Tips/scripts/SetRcBuildVersion.ps1",

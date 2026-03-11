@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro II - Fenômenos que antecederam a codificação.md",
+                "file": "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-5 - Obras básicas.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Roteiro-5 - Obras básicas"
+            }
+          },
+          {
+            "id": "a2b9e778cbddd5b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vídeos Doutrinários.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roteiro II - Fenômenos que antecederam a codificação"
+              "title": "Vídeos Doutrinários"
             }
           }
         ]
@@ -183,34 +197,41 @@
   },
   "active": "73e36f8b4caf1926",
   "lastOpenFiles": [
-    "_inbox/Estudo sistematizado.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro II - Fenômenos que antecederam a codificação.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo/Roteiro I - Tríplice aspecto da Doutrina Espírita.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Rotiero I - Contexto histórico do século XIX na europa.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo/Roteiro II - Prinçipios básicos da doutrina espírita.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-4 - Metodologia e critérios utilizados na codificação espírita.md",
     "Personagens/Allan Kardec.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-3 - Allan Kardec, O Professor e o codificador.md",
+    "Vídeos Doutrinários.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-2 - Fenômenos que antecederam a codificação.md",
+    "Personagens/Irmãs Fox.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-1 - Contexto histórico do século XIX na europa.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/Roteiro-4 - Progressão dos espíritos.md",
+    "_inbox/Estudo sistematizado.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/Roteiro-3 - Provas da existência e da sobrevivência do espírito.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/Roteiro-2 - Perispírito, conceito e natureza.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/Sans titre.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/Roteiro-1 - Origem e natureza do Espírito.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 3 - Deus/Roteiro-1 - Deus, conceito e provas filosóficas de sua existência.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/_Objetivo geral.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 3 - Deus/_Objetivo geral.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 3 - Deus/Roteiro-3 - A providêcia divina.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 3 - Deus/Roteiro-2 - Atributos da divindade.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-6 - Expoentes do espiritismo nascente.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 3 - Deus",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-5 - Obras básicas.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/z_Anexos.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo/Roteiro-2 - Prinçipios básicos da doutrina espírita.md",
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo/Roteiro-1 - Tríplice aspecto da Doutrina Espírita.md",
     "Personagens/Joanna D'Arc.md",
     "_ Sumário.md",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/_Objetivo geral.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo/_Objetivo geral.md",
-    "Personagens/Bezerra de Menezes.md",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/00 - Capa/003 - Explicações necessárias.md",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/01 - Programa fundamental",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/00 - Capa/002 - Atualização do programa ESDE.md",
     "Personagens",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/00 - Capa/001 - Apresentação.md",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/00 - Capa",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/00 - Capa/000 - Capa.md",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1",
     "Livros/Estudo sistematizado da doutrina esírita",
-    "Livros",
-    "_inbox",
-    "Livros/Estudo Sistematizado da Doutrina Espírita/Tomo 1",
-    "test.md",
-    "bla.md",
-    "Welcome.md",
-    "_inbox/Test.md"
+    "Livros"
   ]
 }

@@ -4,8 +4,8 @@
 [[003 - Explicações necessárias]]
 ## MÓDULO I
 [[Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo/_Objetivo geral|Objetivo geral]]
-[[Roteiro I - Tríplice aspecto da Doutrina Espírita|Roteiro I: Espiritismo ou Doutrina Espírita: conceito e  objeto. Tríplice aspecto da Doutrina Espírita]]
-[[Roteiro II - Fenômenos que antecederam a codificação|Roteiro II: : Princípios básicos da Doutrina Espírita]]
+[[Roteiro-1 - Tríplice aspecto da Doutrina Espírita|Roteiro I: Espiritismo ou Doutrina Espírita: conceito e  objeto. Tríplice aspecto da Doutrina Espírita]]
+[[Roteiro-2 - Fenômenos que antecederam a codificação|Roteiro II: : Princípios básicos da Doutrina Espírita]]
 
 ## MÓDULO II
 [[Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/_Objetivo geral|Objetivo geral]]
