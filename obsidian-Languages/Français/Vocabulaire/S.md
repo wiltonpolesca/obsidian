@@ -14,3 +14,4 @@ noun:
 5. salva-das-boticas
 
 ---
+[Survivre](https://usito.usherbrooke.ca/définitions/survivre) - sobreviver
