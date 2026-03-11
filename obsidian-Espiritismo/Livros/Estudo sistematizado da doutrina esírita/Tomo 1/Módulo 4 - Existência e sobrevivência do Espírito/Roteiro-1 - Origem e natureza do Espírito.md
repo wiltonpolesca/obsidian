@@ -1,268 +1,129 @@
-ROTEIRO 1
+# ROTEIRO 1 - ORIGEM E NATUREZA DO ESPÍRITO
+## 1 OBJETIVOS ESPECÍFICOS
 
-  
-  
-  
+>» Refletir sobre a origem e a natureza do Espírito, conforme os en-sinamentos espíritas.
+>» Refletir sobre a natureza do Espírito, como individualização do princípio inteligente.
 
-ORIGEM E NATUREZA DO ESPÍRITO
+## 2 CONTEÚDO BÁSICO
 
-  
-  
-  
-  
-  
+>» “[...] Os Espíritos são a individualização do princípio inteligente, como os corpos são a individualização do princípio material. A época e o modo por que essa formação se operou é que são desconhecidos” (Allan Kardec, *O livro dos espíritos*, q. 79).
+>
+>» O *[...] princípio inteligente, distinto do princípio material, se individualiza e se elabora, passando pelos diversos graus da animalidade. É aí que a alma se ensaia para a vida e desenvolve, pelo exercício, suas primeiras faculdades [...] (Allan Kardec, A gênese, cap. 11, it. 23).*
+>
+>		» Os [...] *Espíritos são imateriais?* “[...] Imaterial não é bem o termo; incorpóreo seria mais exato, pois deves compreender que, sendo uma criação, o Espírito há de ser alguma coisa. É a matéria *quintessenciada, mas sem analogia para vós outros*, e tão etérea que escapa inteiramente ao alcance dos vossos sentidos.”*Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem de tudo o que conhecemos sob o nome de matéria [...] (Allan Kardec, O livro dos espíritos, q. 82 e comentário de Kardec à q. 82).*
 
-1 OBJETIVOS ESPECÍFICOS
+## 3 SUGESTÕES DIDÁTICAS
+### 3.1 SUGESTÃO 1:
+#### Introdução
 
-  
-
-» Refletir sobre a origem e a natureza do Espírito, conforme os en-sinamentos espíritas.
-
-  
-
-» Refletir sobre a natureza do Espírito, como individualização do princípio inteligente.
-
-  
-  
-
-2 CONTEÚDO BÁSICO
-
-  
-
-» “[...] Os Espíritos são a individualização do princípio inteligente, como os corpos são a individualização do princípio material. A época e o modo por que essa formação se operou é que são desco-nhecidos” (Allan Kardec, O livro dos espíritos, q. 79).
-
-» O [...] princípio inteligente, distinto do princípio material, se indivi-dualiza e se elabora, passando pelos diversos graus da animalidade. É aí que a alma se ensaia para a vida e desenvolve, pelo exercício, suas primeiras faculdades [...] (Allan Kardec, A gênese, cap. 11, it. 23).
-
-» Os [...] Espíritos são imateriais? “[...] Imaterial não é bem o termo; incorpóreo seria mais exato, pois deves compreender que, sendo uma criação, o Espírito há de ser alguma coisa. É a matéria quin-tessenciada, mas sem analogia para vós outros, e tão etérea que escapa inteiramente ao alcance dos vossos sentidos.” Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem de tudo o que conhecemos sob o nome de matéria [...](Allan Kardec, O livro dos espíritos, q. 82 e comentário de Kardec à q. 82).
-
-  
-  
-  
-  
-  
-  
-
-139  
-
-Estudo Sistematizado da Doutrina Espírita – TOMO I – MÓDULO IV – Existência e sobrevivência do Espírito
-
-  
-  
-
-3 SUGESTÕES DIDÁTICAS
-
-  
-  
-
-3.1 SUGESTÃO 1:
-
-  
-
-Introdução
-
-Introduzir o tema, explicando em linhas gerais: a) a origem e a natureza do Espírito, segundo a Doutrina Espírita; b) a diferença que existe entre princípio inteligente e Espírito.
+Introduzir o tema, explicando em linhas gerais: 
+>a) a origem e a natureza do Espírito, segundo a Doutrina Espírita; 
+>b) a diferença que existe entre princípio inteligente e Espírito.
 
 Em seguida, fazer aos participantes perguntas objetivas a respeito do conteúdo exposto, realizando breves comentários sobre as respostas dadas, se necessário.
 
-  
-
-Desenvolvimento
+#### Desenvolvimento
 
 Dividir a turma em quatro grupos. Cada grupo recebe uma ficha que contém, em uma de suas faces, uma questão (ver exemplos no Anexo 1), extraída do item 4.2 dos subsídios (Evolução do princípio inteligente).
 
 Orientar os grupos na realização das seguintes atividades: » ler e debater a questão constante da ficha recebida;
 
-» escrever no verso da ficha o entendimento do grupo a respeito da questão proposta;
-
-» escolher o relator que deverá apresentar as conclusões da atividade, em plenário.
-
-  
+>» escrever no verso da ficha o entendimento do grupo a respeito da questão proposta;
+>» escolher o relator que deverá apresentar as conclusões da atividade, em plenário.
 
 Apresentar, em recurso visual, as questões propostas, à medida que os relatores apresentam as conclusões do trabalho em grupo.
 
 Dirimir dúvidas.
 
-  
+Propor a seguinte reflexão individual (não há a necessidade de comentário): 
+- Que ideia faço da origem e da natureza do Espírito?
 
-Propor a seguinte reflexão individual (não há a necessidade de comen-tário): Que ideia faço da origem e da natureza do Espírito?
+#### Conclusão
 
-  
+Fazer as considerações finais do assunto, enfatizando o seguinte: a evolução do princípio inteligente, ocorrendo nos dois planos de vida, é necessária para a construção do veículo perispiritual e do corpo físico. Sendo assim, quando o princípio inteligente se individualiza, tornando-se Espírito, a modelagem do perispírito atinge o ápice da escala anímica, estando, então, preparado para produzir o corpo humano.
 
-Conclusão
-
-Fazer as considerações finais do assunto, enfatizando o seguinte: a evolução do princípio inteligente, ocorrendo nos dois planos de vida, é ne-cessária para a construção do veículo perispiritual e do corpo físico. Sendo assim, quando o princípio inteligente se individualiza, tornando-se Espírito, a modelagem do perispírito atinge o ápice da escala anímica, estando, então, preparado para produzir o corpo humano.
-
-  
-  
-  
-  
-
-140  
-
-ROTEIRO 1 – Origem e natureza do Espírito
-
-  
-  
-
-Avaliação
+#### Avaliação
 
 O estudo será considerado satisfatório se as explicações dadas pelos grupos às questões propostas na fichas, e expressas nos relatos subsequentes, demonstrarem que houve entendimento do tema.
 
-Técnica(s): exposição; fichas de estudo.
+- Técnica(s): exposição; fichas de estudo.
+- Recurso(s): subsídiosdo Roteiro; recursos multimídia; fichas contendo questões; lápis/caneta.
 
-  
+### 3.2 SUGESTÃO 2
 
-Recurso(s): subsídiosdo Roteiro; recursos multimídia; fichas contendo questões; lápis/caneta.
+#### Introdução
 
-  
-  
+Introduzir o tema, explicando em linhas gerais: 
+>a) a origem e a natureza do Espírito, segundo a Doutrina Espírita; 
+>b) a diferença que existe entre princípio inteligente e Espírito.
 
-3.2 SUGESTÃO 2
-
-  
-
-Introdução
-
-Introduzir o tema, explicando em linhas gerais: a) a origem e a natureza do Espírito, segundo a Doutrina Espírita; b) a diferença que existe entre princípio inteligente e Espírito.
-
-  
-
-Desenvolvimento
+#### Desenvolvimento
 
 Em seguida, dividir a turma em grupos.
-
-  
-
 Propor aos grupos a reflexão das seguintes questões, com base na leitura dos subsídios:
-
-» Onde e como se inicia o processo de individualização do princípio inteligente?
-
-  
-
-» Quais são as principais conquistas do princípio inteligente ao longo das etapas evolutivas até as faixas inaugurais da razão?
-
-  
+>» Onde e como se inicia o processo de individualização do princípio inteligente?
+>» Quais são as principais conquistas do princípio inteligente ao longo das etapas evolutivas até as faixas inaugurais da razão?
 
 Após a atividade nos grupos propor uma reflexão circular:
+- Qual a origem do Espírito (princípio inteligente individualizado) segundo a Doutrina Espírita?
 
-  
+Nesse momento, o facilitador esclarece dúvidas e complementa informações enriquecendo a discussão em construção coletiva.
 
-Qual a origem do Espírito (princípio inteligente individualizado) segundo a Doutrina Espírita?
+Propor a seguinte reflexão individual (não há a necessidade de comentário): 
+- Que ideia faço da origem e da natureza do Espírito?
 
-Nesse momento, o facilitador esclarece dúvidas e complementa infor-mações enriquecendo a discussão em construção coletiva.
-
-Propor a seguinte reflexão individual (não há a necessidade de comen-tário): Que ideia faço da origem e da natureza do Espírito?
-
-  
-
-Conclusão
+#### Conclusão
 
 Fazer as considerações finais do assunto, enfatizando o seguinte:
 
-  
+O Espírito é a individualização do princípio inteligente assim como o corpo é a individualização do princípio material.<sup>11</sup>
 
-O Espírito é a individualização do princípio inteligente assim como o corpo é a individualização do princípio material.11
+Essa individualização do princípio inteligente se efetua numa série de existências que precedem o período da Humanidade,<sup>22</sup> existências essas onde o princípio inteligente passa a primeira fase do seu desenvolvimento, ensaiando-se para a vida. Esse seria para o Espírito, por assim dizer, o seu período de incubação.<sup>4</sup>
 
-  
-  
-  
+É, de certo modo, um trabalho preparatório, como o da germinação, por efeito do qual o princípio inteligente sofre uma transformação e se torna Espírito. Entra então no período da humanização, começando a ter consciência do seu futuro, capacidade de distinguir o bem do mal e a responsabilidade dos seus atos.<sup>23</sup>
 
-141  
-
-Estudo Sistematizado da Doutrina Espírita – TOMO I – MÓDULO IV – Existência e sobrevivência do Espírito
-
-  
-  
-
-Essa individualização do princípio inteligente se efetua numa série de existências que precedem o período da Humanidade,22 existências essas onde o princípio inteligente passa a primeira fase do seu desenvolvimento, ensaiando-se para a vida. Esse seria para o Espírito, por assim dizer, o seu período de incubação.4
-
-É, de certo modo, um trabalho preparatório, como o da germinação, por efeito do qual o princípio inteligente sofre uma transformação e se torna Espírito. Entra então no período da humanização, começando a ter consciência do seu futuro, capacidade de distinguir o bem do mal e a res-ponsabilidade dos seus atos.23
-
-  
-
-Avaliação
+#### Avaliação
 
 O estudo será considerado satisfatório se as ideias dos participantes refletirem entendimento do assunto.
 
-Técnica(s): explosão de ideias; exposição dialógica, estudo em grupo, discussão circular.
+- Técnica(s): explosão de ideias; exposição dialógica, estudo em grupo, discussão circular.
+- Recurso(s): visual(cartaz ou outro), subsídios do Roteiro.
 
-Recurso(s): visual(cartaz ou outro), subsídios do Roteiro.
+## 4 SUBSÍDIOS
 
-  
-  
+### 4.1 ORIGEM DO ESPÍRITO
 
-4 SUBSÍDIOS
+Ensina a Doutrina Espírita que o espírito (escrito em letra minúscula) é o *[...] princípio inteligente do Universo*,<sup>6</sup> sendo a inteligência seu atributo essencial.<sup>6</sup> Esse princípio inteligente, que tem sua origem no [...] *elemento inteligente universal*,<sup>21</sup> passa por um processo de elaboração e individualização até transformar-se no ser denominado Espírito.<sup>4</sup>, <sup>23</sup>
 
-  
+Assim, a palavra Espírito, tanto é empregada para designar o princípio inteligente do Universo, quanto para designar esse mesmo princípio após a sua individualização. O Espírito (princípio inteligente individualizado) é criado por Deus. Não é, porém, uma emanação ou uma porção da Divindade. É sua obra, *[...] exatamente como uma máquina o é do homem que a fabrica. Esta máquina é obra do homem, não é o próprio homem [...].<sup>10</sup>*
 
-4.1 ORIGEM DO ESPÍRITO
+Deus cria o Espírito pela sua vontade, como o faz em relação a tudo no Universo.<sup>13</sup> Como Deus jamais deixou de criar, a criação dos Espíritos é permanente.<sup>12</sup>
 
-  
+O Espírito é a individualização do princípio inteligente assim como o corpo é a individualização do princípio material.<sup>11</sup> Essa individualização do princípio inteligente se efetua numa série de existências que precedem o período da Humanidade,<sup>22</sup> existências essas em que o princípio inteligente passa a primeira fase do seu desenvolvimento, ensaiando-se para a vida. Esse seria para o Espírito, por assim dizer, o seu período de incubação.<sup>4</sup>
 
-Ensina a Doutrina Espírita que o espírito (escrito em letra minúscula) é o [...] princípio inteligente do Universo,6 sendo a inteligência seu atributo essencial.7 Esse princípio inteligente, que tem sua origem no [...] elemento inteligente universal,21 passa por um processo de elaboração e individuali-zação até transformar-se no ser denominado Espírito.4, 23
+>*[...] É, de certo modo, um trabalho preparatório, como o da germinação, por efeito do qual o princípio inteligente sofre uma transformação e se torna Espírito. Entra então no período da humanização, começando a ter consciência do seu futuro, capacidade de distinguir o bem do mal e a responsabilidade dos seus atos [...].<sup>24</sup>*
 
-Assim, a palavra Espírito,tanto é empregada para designar o princípio inteligente do Universo, quanto para designar esse mesmo princípio após a sua individualização. O Espírito (princípio inteligente individualiza-do) é criado por Deus. Não é, porém, uma emanação ou uma porção da Divindade. É sua obra, [...] exatamente como uma máquina o é do homem que a fabrica. Esta máquina é obra do homem, não é o próprio homem [...].10
+### 4.2 EVOLUÇÃO DO PRINCÍPIO INTELIGENTE
 
-Deus cria o Espírito pela sua vontade, como o faz em relação a tudo no Universo.13 Como Deus jamais deixou de criar, a criação dos Espíritos é permanente.12
+A propósito, ensinam os Espíritos Superiores que os elementos orgânicos formadores dos germens que propiciaram a união do princípio inteligente à matéria achavam-se, *“[...] por assim dizer, em estado de fluido no Espaço, no meio dos Espíritos, ou em outros planetas, à espera da criação da Terra para começarem existência nova em novo globo”.<sup>9</sup>* Depois de criada a Terra, esses germens ficaram aguardando as condições propícias para se desenvolverem no planeta.<sup>8</sup> Assim, podemos dizer que o princípio inteligente se individualiza
 
-  
-  
-  
-  
-  
+>*[...] lentamente por um processo de elaboração das formas inferiores da natureza, a fim de atingir gradativamente a Humanidade [...]. Por meio de mil modelos inferiores, nos labirintos de uma escalada ininterrupta; por meio das mais bizarras formas; sob a pressão dos instintos e a sevícia de forças inverossímeis [...] vai tendendo para a luz, para a consciência esclarecida, para a liberdade... Esses inúmeros avatares, em milhares de organismos diferentes, devem dotar [...] [o princípio inteligente] de todas as forças que lhe hajam de servir mais tarde. Eles têm por objeto desenvolver o envoltório fluídico, dar-lhe a necessária plasticidade, fixando nele as leis cada vez mais complexas que regem as formas vivas, criando-lhes, assim, um tesouro [potencial], mediante o qual possam, um dia, manipular a matéria, de modo inconsciente, para que o Espírito possa operar sem o entrave dos liames terrestres.*
+>
+>*Quem recusará ver nos milhões de existências a palpitarem no planeta a elaboração sublime da inteligência, prosseguindo incessante na extensão indefinita do tempo e do espaço?*
+>
+>*São as eternas leis da evolução que arrastam o princípio inteligente a destinos cada vez mais altanados, para um futuro sempre melhor, desdobrando-se em panorama de renovadas perspectivas, a partir da idade primária aos nossos dias.*
+>
+>[...]
+>
+>*Não foi o acaso que gerou essas espécies animais e vegetais. No seu desfile, a consequente possui sempre algo mais que a antecedente e, quando a Ciência nos desvenda os quadros sucessivos dessas transmutações, é que vemos a inapreciável riqueza nelas contida, a ampliar-se sempre. Quanta majestade nessas fases de transição! Que grandeza nessa marcha lenta, porém firme, para chegar ao homem, florescência da força criadora joia que resume e sintetiza todo o progresso [...]<sup>24</sup>*
 
-142  
+Tudo no Universo está submetido à Lei do Progresso.*
 
-ROTEIRO 1 – Origem e natureza do Espírito
+>*[...] Desde a célula verde, desde o embrião errante, boiando à flor das águas, a cadeia das espécies [diferentes manifestações do princípio inteligente] tem-se desenrolado através de séries variadas, até nós.*
+>
+>*Cada elo dessa cadeia representa uma forma da existência que conduz a uma forma superior, a um organismo mais rico, mais bem adaptado às necessidades, às manifestações crescentes da vida; mas, na escala da evolução, o pensamento, a consciência e a liberdade só aparecem passados muitos graus. Na planta, a inteligência dormita; no animal, sonha; só no homem acorda, conhece-se, pos-sui-se, e torna-se consciente [...].<sup>25</sup>*
 
-  
-  
-
-O Espírito é a individualização do princípio inteligente assim como o corpo é a individualização do princípio material.11 Essa individualização do princípio inteligente se efetua numa série de existências que precedem o período da Humanidade,22 existências essas em que o princípio inteligente passa a primeira fase do seu desenvolvimento, ensaiando-se para a vida. Esse seria para o Espírito, por assim dizer, o seu período de incubação.4
-
-[...] É, de certo modo, um trabalho preparatório, como o da germinação, por efeito do qual o princípio inteligente sofre uma transformação e se torna Espírito. Entra então no período da humanização, começando a ter consciência do seu futuro, capacidade de distinguir o bem do mal e a responsabilidade dos seus atos [...].23
-
-  
-  
-
-4.2 EVOLUÇÃO DO PRINCÍPIO INTELIGENTE
-
-  
-
-A propósito, ensinam os Espíritos Superiores que os elementos orgânicos formadores dos germens que propiciaram a união do princípio inteligente à matéria achavam-se, “[...] por assim dizer, em estado de fluido no Espaço, no meio dos Espíritos, ou em outros planetas, à espera da criação da Terra para começarem existência nova em novo globo”.9 Depois de criada a Terra, esses germens ficaram aguardando as condições propícias para se desenvolverem no planeta.8Assim, podemos dizer que o princípio inteligente se individualiza
-
-[...] lentamente por um processo de elaboração das formas inferiores da natureza, a fim de atingir gradativamente a Humanidade [...]. Por meio de mil modelos inferiores, nos labirintos de uma escalada ininterrupta; por meio das mais bizarras formas; sob a pressão dos instintos e a sevícia de forças inverossímeis [...] vai tendendo para a luz, para a consciência esclarecida, para a liberdade... Esses inúmeros avatares, em milhares de organismos diferentes, devem dotar [...] [o princípio inteligente] de todas as forças que lhe hajam de servir mais tarde. Eles têm por objeto desenvolver o envoltório fluídico, dar-lhe a necessária plasticidade, fixando nele as leis cada vez mais complexas que regem as formas vivas, criando-lhes, assim, um tesouro [potencial], mediante o qual possam, um dia, manipular a matéria, de modo inconsciente, para que o Espírito possa operar sem o entrave dos liames terrestres.
-
-Quem recusará ver nos milhões de existências a palpitarem no planeta a elabo-ração sublime da inteligência, prosseguindo incessante na extensão indefinita do tempo e do espaço?
-
-São as eternas leis da evolução que arrastam o princípio inteligente a destinos cada vez mais altanados, para um futuro sempre melhor, desdobrando-se em panorama de renovadas perspectivas, a partir da idade primária aos nossos dias.
-
-[...]
-
-  
-  
-  
-  
-  
-
-143  
-
-Estudo Sistematizado da Doutrina Espírita – TOMO I – MÓDULO IV – Existência e sobrevivência do Espírito
-
-  
-  
-
-Não foi o acaso que gerou essas espécies animais e vegetais. No seu desfile, a consequente possui sempre algo mais que a antecedente e, quando a Ciência nos desvenda os quadros sucessivos dessas transmutações, é que vemos a ina-preciável riqueza nelas contida, a ampliar-se sempre. Quanta majestade nessas fases de transição! Que grandeza nessa marcha lenta, porém firme, para chegar ao homem, florescência da força criadora joia que resume e sintetiza todo o progresso [...]24
-
-Tudo no Universo está submetido à Lei do Progresso.
-
-  
-
-[...] Desde a célula verde, desde o embrião errante, boiando à flor das águas, a cadeia das espécies [diferentes manifestações do princípio inteligente] tem-se desenrolado através de séries variadas, até nós.
-
-Cada elo dessa cadeia representa uma forma da existência que conduz a uma forma superior, a um organismo mais rico, mais bem adaptado às necessidades, às manifestações crescentes da vida; mas, na escala da evolução, o pensamento, a consciência e a liberdade só aparecem passados muitos graus. Na planta, a inteligência dormita; no animal, sonha; só no homem acorda, conhece-se, pos-sui-se, e torna-se consciente [...].25
-
-A união do princípio inteligente à matéria, assim como o processo evolutivo desse mesmo princípio inteligente, até atingir a sua individuali-zação plena, são descritos pelo Espírito André Luiz da seguinte maneira:
+A união do princípio inteligente à matéria, assim como o processo evolutivo desse mesmo princípio inteligente, até atingir a sua individualização plena, são descritos pelo Espírito André Luiz da seguinte maneira:
 
 A matéria elementar [...] dera nascimento à província terrestre, no estado solar a que pertencemos [...].
 

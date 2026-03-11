@@ -1,4 +1,4 @@
-﻿graph TD
+graph TD
     Main[O LIVRO DOS ESPÍRITOS] --> Nucleo[<b>Núcleo Central:</b><br/>Parte Primeira Cap. 1 ao 4<br/>Parte Segunda Cap. 1 ao 6]
 
     %% Second Level Connections
