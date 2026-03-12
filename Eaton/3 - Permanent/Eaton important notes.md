@@ -17,6 +17,4 @@ Email: wiltonLPolescadeSouza@eaton.com
     - [Assurance](https://www.sunnet.sunlife.com)
     - [Programme de subvention du bien-être](https://eaton.sharepoint.com/sites/ERG_EatonCanadaHumanResourcesERG/Total%20Rewards/Forms/AllItems.aspx?id=%2Fsites%2FERG%5FEatonCanadaHumanResourcesERG%2FTotal%20Rewards%2FWellness%20Subsidy%5FSubvention%20pour%20le%20bien%2D%C3%AAtre%2FFran%C3%A7ais&viewid=ce3dcd6e%2Db570%2D4d65%2D9c73%2D2b89ec980dce)
     - [Aide aux études](https://eaton.sharepoint.com/sites/ERG_EatonCanadaHumanResourcesERG/Total%20Rewards/Forms/AllItems.aspx?id=%2Fsites%2FERG%5FEatonCanadaHumanResourcesERG%2FTotal%20Rewards%2FEducational%20Assistance%20%5F%20Aide%20%C3%A0%20l%27%C3%A9ducation%2FFran%C3%A7ais&viewid=ce3dcd6e%2Db570%2D4d65%2D9c73%2D2b89ec980dce)
-  
-## Vacation
-Regarding : "Hi, please fill his vacation bank with 114.50 hours for 2026. Please note that he's accruing 120hours of vacation per year as per his contract. Please fill his floating days bank with 32 hours. Thank you!"
+

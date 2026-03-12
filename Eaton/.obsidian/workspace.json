@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ceaf4c0cfacf061a",
+        "id": "b801fbf9fb5739b8",
         "type": "tabs",
         "children": [
           {
-            "id": "69ac9ad491d9d098",
+            "id": "a5b952d4c7b6b2dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Permanent/Tips/copilot-prompts.md",
-                "mode": "preview",
+                "file": "_inbox/Sans titre.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": true,
+                  "collapseAll": false,
+                  "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "copilot-prompts"
+              "title": "Sans titre"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Permanent/Tips/copilot-prompts.md",
+                "file": "1 - Resourses/Daily notes/2026-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour copilot-prompts"
+              "title": "Rétrolien pour 2026-03-12"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Permanent/Tips/copilot-prompts.md",
+                "file": "1 - Resourses/Daily notes/2026-03-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de copilot-prompts"
+              "title": "Liens sortants de 2026-03-12"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Projects/cymdist plugin/Integration-Test-Architecture-Technical-Note.md",
+                "file": "1 - Resourses/Daily notes/2026-03-12.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Integration-Test-Architecture-Technical-Note"
+              "title": "Plan de 2026-03-12"
             }
           },
           {
@@ -186,11 +186,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 420.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,18 +206,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "58b3ed6cb30805a6",
+  "active": "a5b952d4c7b6b2dd",
   "lastOpenFiles": [
-    "3 - Permanent/Tips/Git commands.md",
-    "1 - Resourses/Daily notes/2026-03-11.md",
+    "1 - Resourses/Daily notes/2026-03-12.md",
+    "_inbox/Sans titre.md",
+    "3 - Permanent/Eaton important notes.md",
     "1 - Resourses/Daily notes/@timesheet.md",
+    "1 - Resourses/Daily notes/2026-03-11.md",
+    "3 - Permanent/Tips/copilot-prompts.md",
+    "1 - Resourses/Learning/Mermaid/Example - gitaction workflos diagram.md",
+    "1 - Resourses/Learning/Mermaid",
+    "3 - Permanent/Tips/Git commands.md",
     "1 - Resourses/Daily notes/2026-03-10.md",
     "1 - Resourses/Daily notes/2026-03-09.md",
     "1 - Resourses/Daily notes/2026-03-06.md",
     "2 - Projects/cymdist plugin/Integration-Test-Architecture-Technical-Note.md",
     "_inbox/temp.md",
     "3 - Permanent/Eaton system and patterns notes.md",
-    "3 - Permanent/Eaton important notes.md",
     "1 - Resourses/Daily notes/2026/02/2026-02-27.md",
     "1 - Resourses/Daily notes/2026/02/2026-03-05.md",
     "1 - Resourses/Learning/Obsidian slides/slides with-speaker-notes.md",
@@ -233,16 +239,11 @@
     "1 - Resourses/Daily notes/2026/01/2026-01-20.md",
     "1 - Resourses/Daily notes/2026/01/2026-01-22.md",
     "1 - Resourses/Daily notes/2026/01/2026-01-19.md",
-    "1 - Resourses/Daily notes/2026/02/2026-02-26.md",
-    "1 - Resourses/Daily notes/2026/02/2026-02-24.md",
-    "1 - Resourses/Daily notes/2026/02/2026-02-23.md",
-    "1 - Resourses/Daily notes/2026/02/2026-02-20.md",
     "3 - Permanent/Tips/scripts/BuildCymdistPlugin.ps1",
     "3 - Permanent/Tips/scripts/TestHasGitChangedFilesByExt.ps1",
     "3 - Permanent/Tips/scripts/SetRcBuildVersion.ps1",
     "3 - Permanent/Tips/scripts/InvokeVcxprojUpdate.ps1",
     "3 - Permanent/Tips/scripts/InvokeRobocopy.ps1",
-    "3 - Permanent/Tips/scripts/InvokeCymdistArtifactsCreation.ps1",
     "Untitled.canvas"
   ]
 }

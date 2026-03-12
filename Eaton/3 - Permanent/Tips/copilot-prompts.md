@@ -12,6 +12,15 @@ Use these prompts to guide Copilot toward clear, consistent, and high‑quality 
 ---
 ## **Code Review**
 
+### Code review + Summary (v2)
+
+Compare my current branch versus main branch and prepare a document with a short summary with the changes, improvements, key changes, behavior impact and suggestions if any.
+
+Always add sequence diagrams or workflows when it is possible.
+
+Instructions:
+- Use mermaid to write diagrams.
+- Use markdown format output.
 ### Code review + Summary + Documentation
 Compare my current branch versus main branch and prepare two documents
 First document: Short summary with the changes, improvements, key changes, behavior impact and suggestions if any.
