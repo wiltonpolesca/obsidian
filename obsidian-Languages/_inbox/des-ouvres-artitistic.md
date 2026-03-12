@@ -14,3 +14,4 @@ Realisation et animatino: Robert Doucet
 Anné de prodcution: 1996
 Duré: 10m 39s
 
+![[pour-parler-de-bd.png]]

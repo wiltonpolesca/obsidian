@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_inbox/Notes.md",
+                "file": "Français/Vocabulaire/C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "C"
             }
           }
         ]
@@ -185,7 +185,10 @@
   },
   "active": "bc1d30403210f5dd",
   "lastOpenFiles": [
+    "Français/Vocabulaire/B.md",
+    "Français/Vocabulaire/D.md",
     "_inbox/des-ouvres-artitistic.md",
+    "_inbox/images/pour-parler-de-bd.png",
     "_inbox/Notes.md",
     "Français/Vocabulaire/S.md",
     "Français/Vocabulaire/A.md",
