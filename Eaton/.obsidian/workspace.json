@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_inbox/Sans titre.md",
+                "file": "1 - Resourses/Daily notes/2026-03-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sans titre"
+              "title": "2026-03-11"
             }
           }
         ]
@@ -208,6 +208,13 @@
   },
   "active": "a5b952d4c7b6b2dd",
   "lastOpenFiles": [
+    "1 - Resourses/Daily notes/2026-03-12.md",
+    "1 - Resourses/Daily notes/2026-03-13.md",
+    "_inbox/Sans titre.md",
+    "_inbox/temp.md",
+    "80 - Clients/LADWP/Notes.md",
+    "99 - Permanent/Eaton system and patterns notes.md",
+    "99 - Permanent/Eaton important notes.md",
     "99 - Permanent/Tips/scripts/TestHasGitChangedFilesByExt.ps1",
     "99 - Permanent/Tips/scripts/InvokeVcxprojUpdate.ps1",
     "99 - Permanent/Tips/scripts/SetRcBuildVersion.ps1",
@@ -221,13 +228,8 @@
     "99 - Permanent/Tips/Git commands.md",
     "99 - Permanent/Tips/copilot-prompts.md",
     "99 - Permanent/Tips/Powershell",
-    "99 - Permanent/Tips/ApplyConfigChanges.ps1",
     "99 - Permanent/images/server-diagram.png",
     "99 - Permanent/images/local-resources-windows-credentials.png",
-    "99 - Permanent/Eaton system and patterns notes.md",
-    "99 - Permanent/Eaton important notes.md",
-    "80 - Clients/LADWP/Notes.md",
-    "1 - Resourses/Daily notes/2026-03-13.md",
     "3 - Permanent/Tips/Powershell/Powershell.md",
     "3 - Permanent/Tips/Git commands.md",
     "3 - Permanent/Tips/copilot-prompts.md",
@@ -235,8 +237,6 @@
     "3 - Permanent/images/local-resources-windows-credentials.png",
     "3 - Permanent/Eaton important notes.md",
     "3 - Permanent/Eaton system and patterns notes.md",
-    "_inbox/Sans titre.md",
-    "1 - Resourses/Daily notes/2026-03-12.md",
     "1 - Resourses/Daily notes/@timesheet.md",
     "1 - Resourses/Daily notes/2026-03-11.md",
     "1 - Resourses/Learning/Mermaid/Example - gitaction workflos diagram.md",
@@ -244,11 +244,9 @@
     "1 - Resourses/Daily notes/2026-03-09.md",
     "1 - Resourses/Daily notes/2026-03-06.md",
     "2 - Projects/cymdist plugin/Integration-Test-Architecture-Technical-Note.md",
-    "_inbox/temp.md",
     "1 - Resourses/Daily notes/2026/02/2026-02-27.md",
     "1 - Resourses/Daily notes/2026/02/2026-03-05.md",
     "1 - Resourses/Learning/Obsidian slides/slides with-speaker-notes.md",
-    "1 - Resourses/Learning/Obsidian slides/simple-slide.md",
     "Untitled.canvas"
   ]
 }
