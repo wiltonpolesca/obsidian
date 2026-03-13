@@ -3,12 +3,12 @@
 [[002 - Atualização do programa ESDE]]
 [[003 - Explicações necessárias]]
 ## MÓDULO I
-[[Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo/_Objetivo geral|Objetivo geral]]
+[[_inbox/ESDE/Tomo 1/Módulo 1/_Objetivo geral|Objetivo geral]]
 [[Roteiro-1 - Tríplice aspecto da Doutrina Espírita|Roteiro I: Espiritismo ou Doutrina Espírita: conceito e  objeto. Tríplice aspecto da Doutrina Espírita]]
 [[Roteiro-2 - Fenômenos que antecederam a codificação|Roteiro II: : Princípios básicos da Doutrina Espírita]]
 
 ## MÓDULO II
-[[Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/_Objetivo geral|Objetivo geral]]
+[[_inbox/ESDE/Tomo 1/Módulo 2/_Objetivo geral|Objetivo geral]]
 ROTEIRO 1 – O contexto histórico do século XIX na Europa..... 35
 
   
