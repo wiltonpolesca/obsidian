@@ -67,7 +67,7 @@ pwd: gateway
 
 **IMPORTANT:** To do not have problems to access the local resources, this credential must be added into Windows Credential
 
-![Windows Credential](./images/local-resources-windows-credentials.png)
+![Windows Credential](local-resources-windows-credentials.png)
 
 
 
