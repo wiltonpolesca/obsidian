@@ -191,48 +191,24 @@ As modalidades de fenômenos que referimos são, como dissemos, apenas ilustrati
 
   
 
-1 KARDEC, Allan. O livro dos médiuns. Trad. Guillon Ribeiro. 81. ed. 5. imp. (Edição Histórica). Brasília: FEB, 2016. 1ª pt., cap. 1, it. 1.
-
-2 ______. ______. cap. 2, it. 7.
-
-3 ______. ______. 2ª pt., cap. 2, it. 60. 4 ______. ______. cap. 6, it. 102.
-
-5 ______. ______. it. 104.
-
-6 ______. ______. cap. 8, it. 127. 7 ______. ______. it. 152.
-
-8 ______. ______. it. 156.
-
-9 ______. ______. cap. 13, it. 157. 10 ______. ______. cap. 14, it. 165. 11 ______. ______. it. 166.
-
-12 ______. Obras póstumas. Trad. Guillon Ribeiro. 1. ed. 1. reimp. (Edição Histórica). Brasília: FEB, 2011. 1ª pt., Causa e natureza da clarividência so-nambúlica, it. Explicação do fenômeno da lucidez.
-
-13 ANDRADE, Hernani G. Morte: uma luz no fim do túnel. 2. ed. São Paulo: FE, 1999. Prefácio, p. 16.
-
-14 ______. ______. cap. 3, p. 29.
-
-15 BOZZANO, Ernesto. Xenoglossia. Trad. Guillon Ribeiro. 6. ed. 1. imp. Brasília: FEB, 2019. (Casos de xenoglossia obtidos com o automatismo escrevente), p. 60.
-
-16 DELANNE, Gabriel. O espiritismo perante a ciência. Trad. Carlos Imbassahy. 5. ed. 1. imp. Brasília: FEB, 2010. Pt. 3, cap. 1 – Provas da imortalidade da alma pela experiência.
-
-17 DENIS, Léon. No invisível.Trad. Leopoldo Cirne. 26. ed. 1. imp. Brasília: FEB, 2014. 2ª pt., cap. 12 – Exteriorização do ser humano. Telepatia. Desdobramento. Os fantasmas dos vivos.
-
-18 ______. ______. cap. 16 – Fenômenos espontâneos. Casas mal-assombradas. Tiptologia.
-
-19 ______. ______.
-
-20 ______. ______. cap. 21 – Identidade dos Espíritos.
-
-21 MOURA, Marta Antunes. (Org.). Mediunidade: estudo e prática. Programa 2. 2. ed. 5. imp. Brasília: FEB, 2017. Módulo II – Tema 7, it. 4.
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-168  
+1. KARDEC, Allan. O livro dos médiuns. Trad. Guillon Ribeiro. 81. ed. 5. imp. (Edição Histórica). Brasília: FEB, 2016. 1ª pt., cap. 1, it. 1.
+2. ______. ______. cap. 2, it. 7.
+3. ______. ______. 2ª pt., cap. 2, it. 60. 
+4. ______. ______. cap. 6, it. 102.
+5. ______. ______. it. 104.
+6. ______. ______. cap. 8, it. 127. 
+7. ______. ______. it. 152.
+8. ______. ______. it. 156.
+9. ______. ______. cap. 13, it. 157. 
+10. ______. ______. cap. 14, it. 165. 
+11. ______. ______. it. 166.
+12. ______. Obras póstumas. Trad. Guillon Ribeiro. 1. ed. 1. reimp. (Edição Histórica). Brasília: FEB, 2011. 1ª pt., Causa e natureza da clarividência so-nambúlica, it. Explicação do fenômeno da lucidez.
+13. ANDRADE, Hernani G. Morte: uma luz no fim do túnel. 2. ed. São Paulo: FE, 1999. Prefácio, p. 16.
+14. ______. ______. cap. 3, p. 29.
+15. BOZZANO, Ernesto. Xenoglossia. Trad. Guillon Ribeiro. 6. ed. 1. imp. Brasília: FEB, 2019. (Casos de xenoglossia obtidos com o automatismo escrevente), p. 60.
+16. DELANNE, Gabriel. O espiritismo perante a ciência. Trad. Carlos Imbassahy. 5. ed. 1. imp. Brasília: FEB, 2010. Pt. 3, cap. 1 – Provas da imortalidade da alma pela experiência.
+17. DENIS, Léon. No invisível.Trad. Leopoldo Cirne. 26. ed. 1. imp. Brasília: FEB, 2014. 2ª pt., cap. 12 – Exteriorização do ser humano. Telepatia. Desdobramento. Os fantasmas dos vivos.
+18. ______. ______. cap. 16 – Fenômenos espontâneos. Casas mal-assombradas. Tiptologia.
+19. ______. ______.
+20. ______. ______. cap. 21 – Identidade dos Espíritos.
+21. MOURA, Marta Antunes. (Org.). Mediunidade: estudo e prática. Programa 2. 2. ed. 5. imp. Brasília: FEB, 2017. Módulo II – Tema 7, it. 4.

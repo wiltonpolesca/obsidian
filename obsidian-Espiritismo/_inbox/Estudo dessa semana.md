@@ -17,9 +17,14 @@ Conceituação de Perispírito
 Livro dos espíritos:
 - O livro dos espíritos, Introdução, it. VI
 - questões 93 e 135 – comentário
+- 100 a 107 características dos espíritos
+- 150a
+- 257
+
+Cada planeta tem uma caracteristica material diferente, isso significa que, para cada planeta, os espíritos precisam se adaptar ao fluido cósmico do planeta ao qual ele se encontra, se um espírito "muda" de planeta, ele precisa "reconstruir" seu perispírito, caso contrário ele não consegue ficar nesse mundo.
 
 Vídeos: 
-- Haroldo Dutra – formação do perispírito (5:10)
+- [Haroldo Dutra – Perispírito e Fluído Vital](https://www.youtube.com/watch?v=I3DzIHyl3Ak) (5:10)
 - Chico Xavier – Pinga Fogo: O Corpo Espiritual, Fotografias Kirlian e as Doenças
 ## Reflexão
 #### Introdução do tema
