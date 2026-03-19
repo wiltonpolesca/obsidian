@@ -4,6 +4,6 @@
   "openBehavior": "daily",
   "showUnsupportedFiles": true,
   "showInlineTitle": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "alwaysUpdateLinks": true
 }

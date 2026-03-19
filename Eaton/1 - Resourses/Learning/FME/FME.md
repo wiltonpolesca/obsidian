@@ -1,0 +1,13 @@
+# FME
+
+| FME                 | Description                                                                                                                                                                                                            |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NullAttributeMapper | Convert null value to other thing                                                                                                                                                                                      |
+| AttributeTrimmer    | Trim characteres on one or both directions                                                                                                                                                                             |
+| FeatureMerge        | Combine data from two (or more) different sources and creates a new output with all properties. The output returns the <br>"Merged" values (rows on all sources) and "Unused" data (rows ignored because didn't match) |
+| Tester Parameters   | Condition clauses, it returns "Passed" or "Failed" as output with the tested value.                                                                                                                                    |
+| DuplicateFilter     | Split the Database between "Unique" and "Duplicate" according to "Key Attributes"                                                                                                                                      |
+| AttributeKeeper     | It keeps onlyt the attributes selected, removing the others.                                                                                                                                                           |
+| AttributeManager    | It allows to map one property to another one (column name), convert the value, remove properties and others                                                                                                            |
+| DatabaseJoiner      | It creates a "join" between sources and returns a new data collection, adding the "fields to add" defined from second source                                                                                           |
+| NeighborFinder      | NeighborFinder finds the closest spatial feature(s) to another feature based on geometry and distance.                                                                                                                 |

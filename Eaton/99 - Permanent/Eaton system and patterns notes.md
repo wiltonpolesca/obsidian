@@ -1,16 +1,3 @@
-
-## System flow... data flow...
-
-  
-Client database -> SAFE ETL -> Gateway/DDP -> Exported File -> CYME
-
-       1              2            3               4             5
-
-1 -> mdb, SQLlite, Sql Server, Oracle
-2 -> Tool to extract and transform data from client database (GIS data)
-3 -> Eaton tools to export data from client database
-4 -> New database/file generated from client database
-5 ->
 ## Git rules
 
 - [Branch name](https://eaton-corp.atlassian.net/wiki/spaces/CYME/pages/133238451/GitHub+Tutorial+-+Fixing+a+simple+bug+in+C+code)
