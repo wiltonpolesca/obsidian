@@ -12,5 +12,6 @@ Default connection:
 
 | Client               | VM                      |
 | -------------------- | ----------------------- |
+| Softwares to install, including cyme| pnq2448-01.cyme.local |
 | CYMDist plugin tests | vm-PluginFME.cyme.local |
 | Artifacts            |                         |

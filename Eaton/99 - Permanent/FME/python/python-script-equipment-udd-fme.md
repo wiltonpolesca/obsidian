@@ -2,11 +2,10 @@ Author: Wilton L Polesca de Souza,
 Client: `ORU`, 
 Transformateur: `PythonCaller_SetUDD`
 FME Version: **2023.2.4.0**
-[[python-script-equipment-udd-fme-2024.2.2.0|Esse script foi baseado neste]]
+[[python-script-equipment-udd-fme-2024.2.2.0|Ce scénario était basé sur ceci.]]
 ```python
 import fme
 import fmeobjects
-
 
 class FeatureProcessor(object):
 
@@ -50,3 +49,4 @@ class FeatureProcessor(object):
 
 Notes:
 - N'oubliez pas de remplir l'attribut «Attributes to Expose»
+  > `DeviceType DataType DataID DataValue NetworkID DeviceNumber`
