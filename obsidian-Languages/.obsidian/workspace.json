@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Français/Vocabulaire/C.md",
+                "file": "_inbox/des-ouvres-artitistic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C"
+              "title": "des-ouvres-artitistic"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -174,27 +174,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
   "active": "bc1d30403210f5dd",
   "lastOpenFiles": [
+    "_inbox/Notes.md",
+    "Français/Eaton/episode-1.md",
+    "Français/Vocabulaire/C.md",
+    "Français/Eaton",
     "Français/Vocabulaire/B.md",
     "Français/Vocabulaire/D.md",
     "_inbox/des-ouvres-artitistic.md",
     "_inbox/images/pour-parler-de-bd.png",
-    "_inbox/Notes.md",
     "Français/Vocabulaire/S.md",
     "Français/Vocabulaire/A.md",
     "Français/Vocabulaire/F.md",
     "Français/Vocabulaire/M.md",
-    "Français/Vocabulaire/C.md",
     "Français/Vocabulaire/R.md",
     "Français/lex-expression.md",
     "Français/Grammaire/Les pronomes possessifs.md",

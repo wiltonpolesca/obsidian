@@ -2,7 +2,7 @@
 
 Tickets:
 [[CYMDI-5751] Create ADMS Export Python script - Jira](https://eaton-corp.atlassian.net/browse/CYMDI-5751)
-- [[cymdi-5767|Result]]
+- [[CYMDI-5767|Result]]
 [[CYMDI-5767] Modify Substation Import script to support ADMS export requirements - Jira](https://eaton-corp.atlassian.net/browse/CYMDI-5767)
 
 ---
