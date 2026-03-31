@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Resourses/Daily notes/@timesheet.md",
+                "file": "1 - Resourses/Daily notes/2026-03-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "@timesheet"
+              "title": "2026-03-31"
             }
           }
         ]
@@ -221,10 +221,12 @@
   },
   "active": "caf26ceb3e5f5629",
   "lastOpenFiles": [
-    "1 - Resourses/Daily notes/2026-03-20.md",
-    "1 - Resourses/Daily notes/@timesheet.md",
-    "80 - Clients/ORU/CYMDI-5767.md",
+    "99 - Permanent/FME/python/python-script-equipment-udd-fme.md",
     "80 - Clients/ORU/CYMDI-5751.md",
+    "80 - Clients/ORU/CYMDI-5767.md",
+    "1 - Resourses/Daily notes/2026-03-31.md",
+    "1 - Resourses/Daily notes/@timesheet.md",
+    "1 - Resourses/Daily notes/2026-03-20.md",
     "1 - Resourses/Daily notes/2026-03-30.md",
     "1 - Resourses/Daily notes/2026-03-27.md",
     "80 - Clients/ORU/Notes.md",
@@ -237,7 +239,6 @@
     "80 - Clients/ORU/Script-Notes.md",
     "99 - Permanent/Eaton system and patterns notes.md",
     "99 - Permanent/Electrical Terminology and Words.md",
-    "99 - Permanent/FME/python/python-script-equipment-udd-fme.md",
     "2 - Projects/cymdist plugin/Integration-Test-Architecture-Technical-Note.md",
     "1 - Resourses/Daily notes/2026/03/2026-03-06.md",
     "99 - Permanent/FME/python/python-script-equipment-udd-fme-2024.2.2.0.md",
@@ -248,7 +249,6 @@
     "1 - Resourses/usefull-links.md",
     "1 - Resourses/Learning/cyme.md",
     "1 - Resourses/Learning/Mermaid/Example - gitaction workflos diagram.md",
-    "1 - Resourses/Daily notes/2026/03/2026-03-16.md",
     "99 - Permanent/FME",
     "1 - Resourses/Learning/FME",
     "1 - Resourses/Daily notes/2026/03",

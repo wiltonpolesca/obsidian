@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artigos/O perispírito possui órgãos.md",
+                "file": "_inbox/EADE-Jac/Livro 3 - Modulo 2 - Roteiro 5 - impositivo da renovação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O perispírito possui órgãos"
+              "title": "Livro 3 - Modulo 2 - Roteiro 5 - impositivo da renovação"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 712.5
+    "width": 354.5
   },
   "right": {
     "id": "ae9bf6d25f6e7d6c",
@@ -162,6 +162,18 @@
               "icon": "lucide-list",
               "title": "Outline of Test"
             }
+          },
+          {
+            "id": "006f407693f40822",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "_inbox/EADE-Jac/Livro 3 - Modulo 2 - Roteiro 5 - impositivo da renovação.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notes de bas de page"
+            }
           }
         ]
       }
@@ -172,18 +184,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "google-drive-sync:Push to Google Drive": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
   "active": "b68232309b5d5b84",
   "lastOpenFiles": [
+    "Artigos/O perispírito possui órgãos.md",
+    "_inbox/EADE-Jac/Livro 3 - Modulo 2 - Roteiro 5 - impositivo da renovação.md",
+    "_inbox/EADE-Jac",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/_Objetivo geral.md",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/Roteiro-4 - Progressão dos espíritos.md",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/Roteiro-3 - Provas da existência e da sobrevivência do espírito.md",
@@ -215,10 +230,7 @@
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/00 - Capa",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1",
     "Livros/Estudo sistematizado da doutrina esírita",
-    "_inbox/ESDE/Tomo 1/Módulo 1/_Objetivo geral.md",
-    "Artigos/O perispírito possui órgãos.md",
     "Artigos",
-    "Untitled 1.base",
-    "Untitled.base"
+    "Untitled 1.base"
   ]
 }
