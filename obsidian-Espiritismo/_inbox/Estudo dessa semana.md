@@ -1,16 +1,18 @@
 
 # Objetivo
 
-Conceituação de Perispírito
+Conceituação de Perispírito [^1]
 - O que é
 - Suas propriedades
 - Para que serve
 - Nossos 5 principais corpos ( Espírito --> Corpo mental --> Corpo espiritual (perispírito) --> Duplo etérico --> Corpo Físico)
 
+---
+
 # Material de apoio
 
 Livro dos espíritos:
-- O livro dos espíritos, Introdução, it. VI
+- O livro dos espíritos, Introdução, it. VI 
 - questões 93 e 135 – comentário
 - 100 a 107 características dos espíritos
 - 150a
@@ -22,6 +24,9 @@ Cada planeta tem uma caracteristica material diferente, isso significa que, para
 Vídeos: 
 - [Haroldo Dutra – Perispírito e Fluído Vital](https://www.youtube.com/watch?v=I3DzIHyl3Ak) (5:10)
 - Chico Xavier – Pinga Fogo: O Corpo Espiritual, Fotografias Kirlian e as Doenças
+
+---
+
 ## Reflexão
 #### Introdução do tema
 - Qual a natureza do perispírito?
@@ -34,6 +39,8 @@ Vídeos:
 #### Finalização do tema
 - Como será a união da matéria (princípio material) ao Espírito (princípio espiritual)?
 - Como nossos sentimentos, pensamentos e ações impactam no perispírito?
+
+---
 
 ## notes
 Dizem os Espíritos Superiores que o Espírito – na sua condição de princípio inteligente individualizado –, *é incorpóreo, constituído de matéria quintessenciada, ainda sem analogia para nós.<sup>14</sup>* A sua forma é também, para nós, indefinida. *Podemos compreendê-lo como uma chama, um clarão, ou a uma centelha, tendo uma coloração que vai do escuro e opaco a uma cor brilhante, qual a do rubi, de acordo com a sua menor ou maior pureza.<sup>15</sup>, <sup>16</sup>*
@@ -74,3 +81,5 @@ Caso isso não aconteça, a energia do espírito pode  destruir o corpo físico.
 	 - É responsável pela criação das formas-pensamento (que rodeia nosso corpo espiritual)
 	 - sua frequência vibracional é superior à frequência do perispírito (corpo espiritual)
 ---
+
+[^1]: Test

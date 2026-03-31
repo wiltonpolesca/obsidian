@@ -1,1 +1,0 @@
-# Fotografia Kirlian

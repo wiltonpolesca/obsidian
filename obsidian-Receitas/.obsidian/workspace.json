@@ -1,24 +1,36 @@
 {
   "main": {
-    "id": "2b83ef31ffd5d20a",
+    "id": "623b7f29ba2ea927",
     "type": "split",
     "children": [
       {
-        "id": "44eed4ed9e5a4fd6",
+        "id": "fa2fefbcc391b27b",
         "type": "tabs",
         "children": [
           {
-            "id": "bc1d30403210f5dd",
+            "id": "095f9f8f36828186",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_inbox/Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7006df0b3097bf6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e233d1ac353ca85c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,28 +39,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ce582d2763c55df7",
+    "id": "94e7a92fdbbe6d99",
     "type": "split",
     "children": [
       {
-        "id": "aa9fe37a7e478620",
+        "id": "360ed49bc597985e",
         "type": "tabs",
         "children": [
           {
-            "id": "07229822603b9df7",
+            "id": "2e0cc032df324abe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
-            "id": "c212775dfe5bb095",
+            "id": "8e06511b9cfad59c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +77,7 @@
             }
           },
           {
-            "id": "bbd48ab16fc62b30",
+            "id": "57c034bb6f05ae25",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +93,19 @@
     "width": 300
   },
   "right": {
-    "id": "4cd6bc8293429802",
+    "id": "71f3ad7027d53747",
     "type": "split",
     "children": [
       {
-        "id": "9be1135777b01439",
+        "id": "45dd53581707abf9",
         "type": "tabs",
         "children": [
           {
-            "id": "06e79aa436a02ce7",
+            "id": "88be1f3696375e36",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/des-ouvres-artitistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +115,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for des-ouvres-artitistic"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c828d6ef2a75cbd5",
+            "id": "e99e1d3826ac72f6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_inbox/des-ouvres-artitistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from des-ouvres-artitistic"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "aad038ed9c27d199",
+            "id": "fc8203d5f8052bd0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +147,7 @@
             }
           },
           {
-            "id": "9292e1e040fa59f8",
+            "id": "34e00e5a2fd632df",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +161,18 @@
             }
           },
           {
-            "id": "36d0603913c5633b",
+            "id": "7d507928af57cb81",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_inbox/des-ouvres-artitistic.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of des-ouvres-artitistic"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -174,45 +184,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "google-drive-sync:Push to Google Drive": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "bc1d30403210f5dd",
+  "active": "2e0cc032df324abe",
   "lastOpenFiles": [
-    "Français/Grammaire/adverbes-de-comparaison.md",
-    "Français/Grammaire/le-complément-objec-direct-et-indirect-COD-COI.md",
-    "Français/Grammaire/Les pronomes possessifs.md",
-    "Français/lex-expression.md",
-    "Français/Grammaire/passé-composé-imparfait.md",
-    "Français/Grammaire/mots-pour-faire-des-liens.md",
-    "_inbox/Notes.md",
-    "_inbox/images/pour-parler-de-bd.png",
-    "Français/Grammaire/le-complement-objet-indirect-COI.md",
-    "_inbox/des-ouvres-artitistic.md",
-    "_inbox/images/autres-mots-utilies-pour-le-cinema.png",
-    "_inbox/images/des-genres-de-fils.png",
-    "Français/Vocabulaire/C.md",
-    "Français/Vocabulaire/B.md",
-    "Français/Vocabulaire/D.md",
-    "Français/Vocabulaire/S.md",
-    "Français/Vocabulaire/A.md",
-    "Français/Vocabulaire/F.md",
-    "Français/Vocabulaire/M.md",
-    "Français/Vocabulaire/R.md",
-    "_inbox/images",
-    "_inbox",
-    "Français/Vocabulaire.md",
-    "Français/Vocabulaire",
-    "Français/Grammaire",
-    "Français",
-    "Français/Vocabulaire/R",
-    "Welcome.md",
-    "English"
+    "Welcome.md"
   ]
 }

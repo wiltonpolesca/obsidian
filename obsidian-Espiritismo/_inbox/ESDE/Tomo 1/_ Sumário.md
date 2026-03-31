@@ -10,86 +10,45 @@
 ## MÓDULO II
 [[_inbox/ESDE/Tomo 1/Módulo 2/_Objetivo geral|Objetivo geral]]
 ROTEIRO 1 – O contexto histórico do século XIX na Europa..... 35
-
-  
-
 ROTEIRO 2 – Fenômenos mediúnicos que antecederam a Codificação: Hydesville e mesas girantes.................................. 45
-
 ROTEIRO 3 – Allan Kardec: o professor e o codificador............ 54
+ROTEIRO 4 – Metodologia e critérios utilizados na Codificação Espírita..................................................................................70
+ROTEIRO 5 – Obras básicas .......................................................82 
+ROTEIRO 6 – Expoentes do Espiritismo nascente..................... 98  
 
-  
+## MÓDULO III 
+Deus.......................................................................................................111
+ROTEIRO 1 – Deus: conceito e provas filosóficas de sua existência ......................................................................112
+ROTEIRO 2 – Atributos da divindade........................................ 123 
+ROTEIRO 3 – A Providência Divina ........................................... 131
 
-ROTEIRO 4 – Metodologia e critérios utilizados na Codifica-
-
-ção Espírita..................................................................................70
-
-  
-
-ROTEIRO 5 – Obras básicas .......................................................82 ROTEIRO 6 – Expoentes do Espiritismo nascente..................... 98  
-
-  
-
-MÓDULO III Deus.......................................................................................................111
-
-  
-
-ROTEIRO 1 – Deus: conceito e provas filosóficas
-
-de sua existência ......................................................................112
-
-  
-
-ROTEIRO 2 – Atributos da divindade........................................ 123 ROTEIRO 3 – A Providência Divina ........................................... 131
-
-  
-
-MÓDULO IV
+## MÓDULO IV
 
 Existência e sobrevivência do Espírito..................................................138
-
-  
-
-ROTEIRO 1 – Origem e natureza do Espírito............................ 139 ROTEIRO 2 – Perispírito: conceito e natureza.......................... 152 ROTEIRO3–Provas da existência e da sobrevivência do Espírito..159 ROTEIRO 4– Progressão dos Espíritos..................................... 169
-
-  
-
-MÓDULO V
+ROTEIRO 1 – Origem e natureza do Espírito............................ 139 
+ROTEIRO 2 – Perispírito: conceito e natureza.......................... 152 
+ROTEIRO3–Provas da existência e da sobrevivência do Espírito..159 
+ROTEIRO 4– Progressão dos Espíritos..................................... 169
+# MÓDULO V
 
 Comunicabilidade dos Espíritos.............................................................178
 
-  
+ROTEIRO 1 – Influência dos Espíritos em nossos pensamentos e atos, e nos acontecimentos da vida................................ 179
+ROTEIRO 2 – Mediunidade e médium...................................... 187 
+ROTEIRO 3 – Mediunidade com Jesus..................................... 193
 
-ROTEIRO 1 – Influência dos Espíritos em nossos pensamen-
+## MÓDULO VI 
+Reencarnação........................................................................................200
 
-tos e atos, e nos acontecimentos da vida................................ 179
-
-  
-
-ROTEIRO 2 – Mediunidade e médium...................................... 187 ROTEIRO 3 – Mediunidade com Jesus..................................... 193
-
-  
-
-MÓDULO VI Reencarnação........................................................................................200
-
-  
-
-ROTEIRO 1 – Fundamentos e finalidade da reencarnação....... 201 ROTEIRO 2 – Provas da reencarnação...................................... 211
-
-ROTEIRO 3 – Retorno à vida corporal:
-
-o planejamento reencarnatório.................................................222
-
-  
-
-ROTEIRO 4 – Retorno à vida corporal: união da alma ao corpo...234 ROTEIRO 5 – Retorno à vida corporal: a infância..................... 245
-
+ROTEIRO 1 – Fundamentos e finalidade da reencarnação....... 201
+ROTEIRO 2 – Provas da reencarnação...................................... 211
+ROTEIRO 3 – Retorno à vida corporal: o planejamento reencarnatório.................................................222
+ROTEIRO 4 – Retorno à vida corporal: união da alma ao corpo...234 
+ROTEIRO 5 – Retorno à vida corporal: a infância..................... 245
 ROTEIRO 6 – O esquecimento do passado:
-
 justificativas da sua necessidade ............................................ 252  
 
-  
-
-MÓDULO VII
+## MÓDULO VII
 
 Pluralidade dos mundos habitados........................................................260
 
