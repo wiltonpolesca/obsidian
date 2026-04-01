@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "16ef50d374a5be84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1e69ffc4cee05bd",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +210,7 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "b68232309b5d5b84",
+  "active": "e1e69ffc4cee05bd",
   "lastOpenFiles": [
     "Sans titre 1.md",
     "Estudos/JAC-EADE/Livro 3 - Modulo 2 - Roteiro 5 - impositivo da renovação.md",
