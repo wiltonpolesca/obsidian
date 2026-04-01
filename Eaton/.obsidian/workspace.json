@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26c6f51f4f84f54c",
+        "id": "7416b1d579b46aa7",
         "type": "tabs",
         "children": [
           {
-            "id": "caf26ceb3e5f5629",
+            "id": "5e5bc89bb88926a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Resourses/Daily notes/2026-03-31.md",
+                "file": "80 - Clients/ORU/CYMDI-5751.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-31"
+              "title": "CYMDI-5751"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ca3ff4f0a5ba4f64",
@@ -219,15 +220,16 @@
       "markdown-importer:Ouvrir l'importateur Markdown": false
     }
   },
-  "active": "caf26ceb3e5f5629",
+  "active": "5e5bc89bb88926a8",
   "lastOpenFiles": [
-    "99 - Permanent/FME/python/python-script-equipment-udd-fme.md",
-    "80 - Clients/ORU/CYMDI-5751.md",
     "80 - Clients/ORU/CYMDI-5767.md",
+    "80 - Clients/ORU/CYMDI-5751.md",
+    "1 - Resourses/Daily notes/2026-04-01.md",
     "1 - Resourses/Daily notes/2026-03-31.md",
     "1 - Resourses/Daily notes/@timesheet.md",
-    "1 - Resourses/Daily notes/2026-03-20.md",
     "1 - Resourses/Daily notes/2026-03-30.md",
+    "99 - Permanent/FME/python/python-script-equipment-udd-fme.md",
+    "1 - Resourses/Daily notes/2026-03-20.md",
     "1 - Resourses/Daily notes/2026-03-27.md",
     "80 - Clients/ORU/Notes.md",
     "1 - Resourses/Daily notes/2026-03-26.md",
@@ -248,7 +250,6 @@
     "1 - Resourses/Learning/FME/Sans titre",
     "1 - Resourses/usefull-links.md",
     "1 - Resourses/Learning/cyme.md",
-    "1 - Resourses/Learning/Mermaid/Example - gitaction workflos diagram.md",
     "99 - Permanent/FME",
     "1 - Resourses/Learning/FME",
     "1 - Resourses/Daily notes/2026/03",
