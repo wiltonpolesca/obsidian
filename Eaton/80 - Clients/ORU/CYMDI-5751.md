@@ -1,5 +1,32 @@
 ## CYMDI-5751 - [Create ADMS Export Python script](https://eaton-corp.atlassian.net/browse/CYMDI-5751)
 
+
+After review: To ask CYME team which properties should be used.
+
+| Section            | Field                                                        |
+| ------------------ | ------------------------------------------------------------ |
+| Dew_regulator      | controlPhase                                                 |
+| Dew_regulator_type | summerKVA, summerEmergKva, winterKVA, winterEmergKva         |
+| Dew_switches       | OperatingKV                                                  |
+| Dew_trans          | controlPhase, initialTap, tapside                            |
+| Dew_trans_type     | summerKVA, summerEmergKva, winterKVA, winterEmergKva, maxtap |
+
+
+
+
+cyme-di-cust-oncor-plkugings
+
+
+
+
+
+
+
+
+
+---
+
+
 | File               | Field destination | Expected source | Source          |     |
 | ------------------ | ----------------- | --------------- | --------------- | --- |
 | dew_busbar         | OperatingKV       | OperatingKV     | DEW_OperatingKV | OK  |
@@ -20,7 +47,7 @@
 | dew_regulator_type | summerEmergKva    | TBD             |                 |     |
 | dew_regulator_type | winterKVA         | TBD             |                 |     |
 | dew_regulator_type | winterEmergKva    | TBD             |                 |     |
-
+dew_feed -> com problema
 dew_geo
 
 | Device type          | Field destination | Observations                                           |
