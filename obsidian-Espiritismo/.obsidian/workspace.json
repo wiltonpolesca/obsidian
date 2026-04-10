@@ -10,31 +10,37 @@
           {
             "id": "b68232309b5d5b84",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/JAC-EADE/Livro 3 - Modulo 2 - Roteiro 5 - impositivo da renovação.md",
+                "file": "Estudos/Influência dos espíritos/_draft.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Livro 3 - Modulo 2 - Roteiro 5 - impositivo da renovação"
+              "title": "_draft"
             }
           }
         ]
       },
       {
-        "id": "16ef50d374a5be84",
+        "id": "9c894d6cf70533cf",
         "type": "tabs",
         "children": [
           {
-            "id": "e1e69ffc4cee05bd",
+            "id": "825c33c302d23d8e",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Livros/Livro dos Espíritos/Primeiro Livro - Causas primárias/Capítulo 1 - Deus/Provas da existência de Deus/4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Slide Preview"
+              "title": "4"
             }
           }
         ]
@@ -210,10 +216,30 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "e1e69ffc4cee05bd",
+  "active": "b893a68c721b70fa",
   "lastOpenFiles": [
-    "Sans titre 1.md",
+    "Livros/Livro dos Espíritos/Primeiro Livro - Causas primárias/Capítulo 1 - Deus/Deus e o Infinito/1.md",
+    "Livros/Livro dos Espíritos/Primeiro Livro - Causas primárias/Capítulo 1 - Deus/Provas da existência de Deus/4.md",
+    "Livros/Livro dos Espíritos/Primeiro Livro - Causas primárias/Capítulo 1 - Deus/Deus e o Infinito/3 - todo.md",
+    "Livros/Livro dos Espíritos/Primeiro Livro - Causas primárias/Capítulo 1 - Deus/Deus e o Infinito/commentaire.md",
+    "Livros/Livro dos Espíritos/Primeiro Livro - Causas primárias/Capítulo 1 - Deus/Provas da existência de Deus",
+    "Livros/Livro dos Espíritos/Primeiro Livro - Causas primárias/Capítulo 1 - Deus/Deus e o Infinito/2.md",
+    "Estudos/Influência dos espíritos/_draft.md",
+    "Livros/Livro dos Espíritos/Primeiro Livro - Causas primárias/Capítulo 1 - Deus/Deus e o Infinito",
+    "Livros/Livro dos Espíritos/Primeiro Livro - Causas primárias/Capítulo 1 - Deus",
+    "Livros/Livro dos Espíritos/Primeiro Livro - Causas primárias",
+    "Livros/Livro dos Espíritos",
+    "Livros",
+    "_inbox/ESDE/Tomo 1/Módulo 5/Roteiro-1-Influência dos espíritos.md",
+    "Estudos/Influência dos espíritos",
+    "_inbox/Estudo sistematizado.md",
+    "_inbox/ESDE/Tomo 1/Módulo 5/_Objetivo geral.md",
+    "_inbox/ESDE/Tomo 1/Módulo 4/Roteiro-1 - Origem e natureza do Espírito.md",
+    "_inbox/ESDE/Tomo 1/Módulo 4/_Objetivo geral.md",
+    "_inbox/ESDE/Tomo 1/_ Sumário.md",
+    "_inbox/ESDE/Tomo 1/Módulo 5",
     "Estudos/JAC-EADE/Livro 3 - Modulo 2 - Roteiro 5 - impositivo da renovação.md",
+    "Sans titre 1.md",
     "Sans titre.md",
     "_inbox/EADE-Jac/Livro 3 - Modulo 2 - Roteiro 5 - impositivo da renovação.md",
     "Estudos/Perispirito/Ficha de Apoio - O Perispírito e a Constituição Espiritual.md",
@@ -221,32 +247,12 @@
     "Estudos/Perispirito/1-Estudo basico.md",
     "Estudos/Perispirito",
     "Estudos/JAC-EADE",
-    "Estudos",
     "Artigos/Propriedades do perispírito.md",
     "Artigos/Fotografias Kirlian.md",
     "Artigos/O perispírito possui órgãos.md",
-    "_inbox/EADE-Jac",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/_Objetivo geral.md",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/Roteiro-4 - Progressão dos espíritos.md",
     "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/Roteiro-3 - Provas da existência e da sobrevivência do espírito.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/Roteiro-2 - Perispírito, conceito e natureza.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/Roteiro-1 - Origem e natureza do Espírito.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 3 - Deus/_Objetivo geral.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 3 - Deus/Roteiro-3 - A providêcia divina.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 3 - Deus/Roteiro-2 - Atributos da divindade.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 3 - Deus/Roteiro-1 - Deus, conceito e provas filosóficas de sua existência.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/_Objetivo geral.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-6 - Expoentes do espiritismo nascente.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-5 - Obras básicas.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-4 - Metodologia e critérios utilizados na codificação espírita.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-3 - Allan Kardec, O Professor e o codificador.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-2 - Fenômenos que antecederam a codificação.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita/Roteiro-1 - Contexto histórico do século XIX na europa.md",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 3 - Deus",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 2 - Codificação Espírita",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 1 - Introdução ao Estudo do espiritismo",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/00 - Capa",
-    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1"
+    "Livros/Estudo sistematizado da doutrina esírita/Tomo 1/Módulo 4 - Existência e sobrevivência do Espírito/Roteiro-2 - Perispírito, conceito e natureza.md"
   ]
 }

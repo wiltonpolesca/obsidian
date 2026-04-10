@@ -3,29 +3,21 @@
 
 After review: To ask CYME team which properties should be used.
 
-| Section            | Field                                                        |
-| ------------------ | ------------------------------------------------------------ |
-| Dew_regulator      | controlPhase                                                 |
-| Dew_regulator_type | summerKVA, summerEmergKva, winterKVA, winterEmergKva         |
-| Dew_switches       | OperatingKV                                                  |
-| Dew_trans          | controlPhase, initialTap, tapside                            |
-| Dew_trans_type     | summerKVA, summerEmergKva, winterKVA, winterEmergKva, maxtap |
+| Section            | Field                                                                   |     |     |
+| ------------------ | ----------------------------------------------------------------------- | --- | --- |
+| Dew_regulator      | controlPhase                                                            |     |     |
+| Dew_regulator_type | summerKVA, summerEmergKva, winterKVA, winterEmergKva                    |     |     |
+| Dew_switches       | OperatingKV                                                             |     |     |
+| Dew_trans          | controlPhase, initialTap (XfoInitialTap) , tapside (XfoLTCLocation)     |     |     |
+| Dew_trans_type     | summerKVA, summerEmergKva, winterKVA, winterEmergKva, maxtap (XfoNbTap) |     |     |
+|                    |                                                                         |     |     |
 
 
 
-
+: %s: %s" % summerKVA)
 cyme-di-cust-oncor-plkugings
 
-
-
-
-
-
-
-
-
 ---
-
 
 | File               | Field destination | Expected source | Source          |     |
 | ------------------ | ----------------- | --------------- | --------------- | --- |
