@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "2b83ef31ffd5d20a",
+    "id": "041a1ab22a437cd0",
     "type": "split",
     "children": [
       {
-        "id": "44eed4ed9e5a4fd6",
+        "id": "6df8401436acda42",
         "type": "tabs",
         "children": [
           {
-            "id": "bc1d30403210f5dd",
+            "id": "ee568d376011648b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Français/Grammaire/Quelques, plusieurs et chaque.md",
+                "file": "projects/Gallery project architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quelques, plusieurs et chaque"
+              "title": "Gallery project architecture"
+            }
+          },
+          {
+            "id": "ff03ea697bbf160c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-04-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-04"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ce582d2763c55df7",
+    "id": "0788d27871182d04",
     "type": "split",
     "children": [
       {
-        "id": "aa9fe37a7e478620",
+        "id": "a4acc22da6787bd2",
         "type": "tabs",
         "children": [
           {
-            "id": "07229822603b9df7",
+            "id": "6c5b2b0d7ec9fde7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +59,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
-            "id": "c212775dfe5bb095",
+            "id": "e435317f67404fa5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "bbd48ab16fc62b30",
+            "id": "fce72d066478290e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +96,19 @@
     "width": 300
   },
   "right": {
-    "id": "4cd6bc8293429802",
+    "id": "a5dc8e2dcb3999c3",
     "type": "split",
     "children": [
       {
-        "id": "9be1135777b01439",
+        "id": "23fcdb2a73f4a17d",
         "type": "tabs",
         "children": [
           {
-            "id": "06e79aa436a02ce7",
+            "id": "7ca9795872a16838",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/des-ouvres-artitistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +118,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for des-ouvres-artitistic"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c828d6ef2a75cbd5",
+            "id": "7a2170863f2299aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_inbox/des-ouvres-artitistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from des-ouvres-artitistic"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "aad038ed9c27d199",
+            "id": "e458bdf48174fbd7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +150,7 @@
             }
           },
           {
-            "id": "9292e1e040fa59f8",
+            "id": "6079075a62084072",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +164,17 @@
             }
           },
           {
-            "id": "36d0603913c5633b",
+            "id": "26334c3d7666b445",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_inbox/des-ouvres-artitistic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of des-ouvres-artitistic"
+              "title": "Outline"
             }
           }
         ]
@@ -174,45 +186,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "bc1d30403210f5dd",
+  "active": "6c5b2b0d7ec9fde7",
   "lastOpenFiles": [
-    "_inbox/Notes.md",
-    "Français/Grammaire/Quelques, plusieurs et chaque.md",
-    "Français/Grammaire/adverbes-de-comparaison.md",
-    "Français/Grammaire/le-complément-objec-direct-et-indirect-COD-COI.md",
-    "Français/lex-expression.md",
-    "Français/Grammaire/passé-composé-imparfait.md",
-    "Français/Grammaire/mots-pour-faire-des-liens.md",
-    "_inbox/images/pour-parler-de-bd.png",
-    "Français/Grammaire/le-complement-objet-indirect-COI.md",
-    "_inbox/des-ouvres-artitistic.md",
-    "_inbox/images/autres-mots-utilies-pour-le-cinema.png",
-    "_inbox/images/des-genres-de-fils.png",
-    "Français/Vocabulaire/C.md",
-    "Français/Vocabulaire/B.md",
-    "Français/Vocabulaire/D.md",
-    "Français/Vocabulaire/S.md",
-    "Français/Vocabulaire/A.md",
-    "Français/Vocabulaire/F.md",
-    "Français/Vocabulaire/M.md",
-    "Français/Vocabulaire/R.md",
-    "_inbox/images",
+    "Untitled.canvas",
+    "2026-04-04.md",
+    "projects/diagrams/gallert-architecture.drawio.svg",
+    "projects/images",
+    "projects/diagrams/gallery-architecture.svg",
+    "projects/Gallery project architecture.md",
+    "projects/temporal-data.md",
+    "projects/finance/_todo.md",
+    "projects/diagrams",
+    "projects/books",
+    "projects/finance",
     "_inbox",
-    "Français/Vocabulaire.md",
-    "Français/Vocabulaire",
-    "Français/Grammaire",
-    "Français",
-    "Français/Vocabulaire/R",
-    "Welcome.md",
-    "English"
+    "projects",
+    "ideas",
+    "Welcome.md"
   ]
 }

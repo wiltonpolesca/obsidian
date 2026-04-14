@@ -67,7 +67,7 @@ note:
 
 ## Interpretação do texto evangélico
 
-_Ninguém deita remendo de pano novo em veste velha, porque semelhante remendo rompe a veste, e faz-se maior a rotura (Mt 9:16).
+*Ninguém deita remendo de pano novo em veste velha, porque semelhante remendo rompe a veste, e faz-se maior a rotura (Mt 9:16).*
 
 note: 
 
@@ -198,6 +198,7 @@ Todas as medidas e alvitres postos em equação, reduntam improfícuos e ruem fr
 note: 
 
 [^3]:  FEDERAÇÃO ESPÍRITA BRASILEIRA. _Reformador_. Ano 45, n.° 17, setembro de 1927. Editorial, p. 382.
+
 ---
 
 A produção de vinho, de forma correta, indica na mensagem um simbolismo que pode ser assim esclarecido: 
@@ -210,7 +211,7 @@ a maceração da uva é necessária para que surja o substrato ou essência do v
 
 A esta operação Paulo chamou a substituição do homem novo pelo despojamento do _homem velho_; e acrescentou: 
 
-“os que são de Cristo se tornam _novas criaturas_.”[^6]
+“os que são de Cristo se tornam _novas criaturas_.”
 
 note: 
 
@@ -233,7 +234,7 @@ A essa noção precisa ele acrescentar a de uma ética superior, a de uma lei mo
 
 --
 
-Assim e só assim ele compreenderá que o benefício próprio está no alheio benefício; que a postergação dos direitos de outrem vale pela postergação dos seus direitos e que, se na luta pela vida corpórea e no ambiente psíquico, em suma, a reação é sempre igual à ação, o mesmo se dá para o ambiente espiritual, no plano universal.[^3]
+Assim e só assim ele compreenderá que o benefício próprio está no alheio benefício; que a postergação dos direitos de outrem vale pela postergação dos seus direitos e que, se na luta pela vida corpórea e no ambiente psíquico, em suma, a reação é sempre igual à ação, o mesmo se dá para o ambiente espiritual, no plano universal.
 
 note:
 
