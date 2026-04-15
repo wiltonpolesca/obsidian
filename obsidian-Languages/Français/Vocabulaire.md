@@ -65,6 +65,8 @@ est priée -> é solicitado
 
 enivré -> embriagado
 
+(Épanouir)[[épanouir | Usito](https://usito.usherbrooke.ca/d%C3%A9finitions/%C3%A9panouir)]
+
 # Des mots avec F
 
   

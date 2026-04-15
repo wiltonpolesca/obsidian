@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80 - Clients/ORU/CYMDI-5788.md",
+                "file": "1 - Resourses/Daily notes/2026-04-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CYMDI-5788"
+              "title": "2026-04-15"
             }
           }
         ]
@@ -221,8 +221,11 @@
   },
   "active": "5e5bc89bb88926a8",
   "lastOpenFiles": [
-    "80 - Clients/ORU/CYMDI-5889.md",
     "80 - Clients/ORU/CYMDI-5788.md",
+    "1 - Resourses/Daily notes/2026-04-15.md",
+    "1 - Resourses/Daily notes/2026-04-14.md",
+    "1 - Resourses/Daily notes/2026-04-13.md",
+    "80 - Clients/ORU/CYMDI-5889.md",
     "1 - Resourses/Daily notes/2026-04-10.md",
     "99 - Permanent/VMs.md",
     "99 - Permanent/Eaton important notes.md",
@@ -244,9 +247,6 @@
     "80 - Clients/ORU/Infos.md",
     "99 - Permanent/Eaton system and patterns notes.md",
     "80 - Clients/ORU/Script-Notes.md",
-    "_inbox/temp.md",
-    "99 - Permanent/FME/python/cympy.md",
-    "99 - Permanent/FME/FME-tranformers.md",
     "99 - Permanent/FME/python",
     "1 - Resourses/Learning/FME/Sans titre",
     "99 - Permanent/FME",

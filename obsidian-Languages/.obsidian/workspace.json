@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Français/Grammaire/Quelques, plusieurs et chaque.md",
+                "file": "Français/Vocabulaire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quelques, plusieurs et chaque"
+              "title": "Vocabulaire"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "bc1d30403210f5dd",
   "lastOpenFiles": [
-    "_inbox/Notes.md",
+    "_inbox/Sans titre.md",
+    "Français/Vocabulaire.md",
+    "Français/lex-expression.md",
     "Français/Grammaire/Quelques, plusieurs et chaque.md",
+    "_inbox/Notes.md",
     "Français/Grammaire/adverbes-de-comparaison.md",
     "Français/Grammaire/le-complément-objec-direct-et-indirect-COD-COI.md",
     "Français/lex-expression.md",
@@ -207,7 +210,6 @@
     "Français/Vocabulaire/R.md",
     "_inbox/images",
     "_inbox",
-    "Français/Vocabulaire.md",
     "Français/Vocabulaire",
     "Français/Grammaire",
     "Français",
