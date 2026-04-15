@@ -1,7 +1,31 @@
-Questão 459
+## Influência dos espíritos em nossas vidas
 
-### 7 Formas diferentes formas onde a influência dos espíritos influencia em nossas vidas
+## Referências doutrinárias
+- Questões [[459]] - [[472]]
 
+---
+## Objetivos
+
+- O que é essa influência?
+- Tipos de influenciação.
+
+---
+### O que é essa influência?
+
+É a condição que todos os espíritos, encarnados e desencarnados, possuem de interferir, uns nos outros, através do campo das ideias, do pensamento.
+
+---
+
+### Tipos de influenciação
+
+1) Assédio
+2) Obsessão
+		- Kardec divide os casos de obsessão em 3 categorias: simples, fascinação e subjugação [^1], é mais fácil de compreender através do estudo da mediunidade.
+		- Dona Ivone divide os casos em duas famílias: obsessão odiosa e obsessão não odiosa		
+3) Amor
+
+
+---
 #### 1 - Assédio
 
 Ação isolada que os espíritos exercem em nossas vidas, existe um interesse em prejudicar alguém, os espíritos ficam na espreita aguardando o momento onde eles possas agir.
@@ -17,6 +41,7 @@ Existem incontáveis situações no cotidiano que podem ser usados pelos espíri
 - uma situação no trabalho
 - ...
 
+---
 
 #### Obsessão
 
@@ -28,10 +53,6 @@ Exemplo:
 **Os obsessores não plantam uma ideia em nossas cabeças, eles adubam, cuidam, fazem crescer.**
 - Eles estimulamo que já temos em nós.
 
-
-Kardec define a obsessão em três: simples, fascinação e subjugação 
-
-Dona Ivone Pereira do Amaral traz outra classificação, como segue:
 
 ---
 ##### 2 - Obsessão odiosa por vingança
@@ -118,14 +139,16 @@ Após se melhorar e aprender sobre como pode ajudar, esse espírito pode vir a s
 
 ---
 
+##### 7 - Influência por amor Amor
 
-**Por que meio podemos neutralizar a influência dos maus Espíritos?** “Praticando o bem e pondo em Deus toda a vossa confiança [...].” (Allan Kardec, O livro dos espíritos, q. 469).
+A doutrina dos espíritos nos ensina que temos uma família espiritual, que são espíritos que nos amam e nos querem bem.
 
--  narrativa do Espírito Neio Lúcio intitulada O poder das trevas (Jesus no lar, cap. 39)
-## Reflexões
+Eles participam de nossas vidas, querem e fazem de tudo para nos ajudar.
 
-	a) Como distinguir se um pensamento que nos é sugerido procede de um bom Espírito ou de um Espírito imperfeito?
+Não existe somente espíritos que desejam o mau no plano espiritual, existe muitos espíritos que desejam o bem.
 
-	b) Qual a relação entre a nossa conduta moral e a natureza da influência que recebemos dos Espíritos?
+A forma mais simples de nos afastar dos maus, é nos aproximarmos dos bons e, para isso, depende de nossas atitudes, de nossos pensamentos.
 
-	c) Dizem os Espíritos Superiores que temos a liberdade de seguir os bons Espíritos ou os Espíritos imperfeitos. Que procedimentos, então, deveremos adotar para atrair a atenção dos bons Espíritos?
+Por esquecermos das orações, dos momentos de conexão com o mais algo, acabamos por não nos conectar aos espíritos amigos.
+
+[^1]: Livro dos médiuns, itens 237 a 240

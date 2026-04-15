@@ -1,26 +1,4 @@
 
-
-PROGRAMA FUNDAMENTAL
-
-  
-  
-  
-  
-
-
-
-  
-  
-
-
-
-  
-
-ROTEIRO 1
-
-
-  
-
 ROTEIRO 2
 
   
