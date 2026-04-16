@@ -2,23 +2,24 @@
 
   
 
-|app                               |Comments|
-|----------------------------------|-------------------------------|
-|Jitsi: Online meet                | https://meet.jit.si/          |
-|vscode                            |                               |
-|visual studio                     |                               |
-|Respoinsively app                 | https://responsively.app/     |
-|Windows terminal                  | windows store                 |
-|WinSCP or Filezila                |                               |
-|ScreenToGif: GIF recorder         | https://www.screentogif.com/  |
-|OBS Studio: movie maker           |                               |
-|wsl                               | wsl --install                 |
-|Install linux dist.               | windows store                 |
-|Screen maker                      | https://www.screen-marker-recorder.com/ |
-|Podman or docker                  |                               |
-|nvm                               | https://github.com/coreybutler/nvm-windows
-|lcov-report                       | npm install -g lcov-report |
-|Git                               | |
+| app                                | Comments                                                                                                                                                   |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Jitsi: Online meet                 | https://meet.jit.si/                                                                                                                                       |
+| vscode                             |                                                                                                                                                            |
+| visual studio                      |                                                                                                                                                            |
+| Respoinsively app                  | https://responsively.app/                                                                                                                                  |
+| Windows terminal                   | windows store                                                                                                                                              |
+| WinSCP or Filezila                 |                                                                                                                                                            |
+| ScreenToGif: GIF recorder          | https://www.screentogif.com/                                                                                                                               |
+| OBS Studio: movie maker            |                                                                                                                                                            |
+| wsl                                | wsl --install                                                                                                                                              |
+| Install linux dist.                | windows store                                                                                                                                              |
+| Screen maker                       | https://www.screen-marker-recorder.com/                                                                                                                    |
+| Podman or docker                   |                                                                                                                                                            |
+| nvm                                | https://github.com/coreybutler/nvm-windows                                                                                                                 |
+| lcov-report                        | npm install -g lcov-report                                                                                                                                 |
+| Git                                |                                                                                                                                                            |
+| Remote Desktop manager             | [Devolutions Remote Desktop Manager - Download and install on Windows \| Microsoft Store](https://apps.microsoft.com/detail/xpfcxhf337w98s?hl=en-US&gl=CA) |
 
 
   
