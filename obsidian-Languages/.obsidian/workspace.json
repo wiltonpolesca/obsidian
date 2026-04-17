@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Français/Vocabulaire.md",
+                "file": "Français/Grammaire/límperatif-pour-donner-des-conseils.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vocabulaire"
+              "title": "límperatif-pour-donner-des-conseils"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -174,22 +174,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "bc1d30403210f5dd",
   "lastOpenFiles": [
-    "_inbox/Sans titre.md",
+    "_inbox/images/circulation.md",
+    "Français/Grammaire/límperatif-pour-donner-des-conseils.md",
+    "Pasted image 20260416191713.png",
+    "_inbox/Notes.md",
     "Français/Vocabulaire.md",
+    "_inbox/Sans titre.md",
     "Français/lex-expression.md",
     "Français/Grammaire/Quelques, plusieurs et chaque.md",
-    "_inbox/Notes.md",
     "Français/Grammaire/adverbes-de-comparaison.md",
     "Français/Grammaire/le-complément-objec-direct-et-indirect-COD-COI.md",
     "Français/lex-expression.md",

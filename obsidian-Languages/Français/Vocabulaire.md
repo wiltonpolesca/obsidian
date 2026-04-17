@@ -23,7 +23,7 @@ bateau | navio
 # Des mots avec C
 
   
-
+[Carambolage](https://usito.usherbrooke.ca/définitions/carambolage): Batida
 Cents | sous, cennes
 
 Chiens écrasés | Fait divérs | notícias ruins
