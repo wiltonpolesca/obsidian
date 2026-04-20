@@ -1,8 +1,17 @@
 # Clients
 
-| Client | VM                 |
-| ------ | ------------------ |
-| ORU    | vm-oru2.cyme.local |
+
+| Client | VM                 |             |
+| ------ | ------------------ | ----------- |
+| ORU    | vm-oru2.cyme.local | substations |
+| ORU    | vm-oru.cyme.local  |             |
+|        |                    |             |
+
+## vSphere
+
+[To turn on/off VMS](https://usstcnvclab01.vm.etn.com/ui/)
+- user: eaton\E0862524
+- pwd: user password
 
 # Internals
 

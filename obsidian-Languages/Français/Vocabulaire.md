@@ -23,7 +23,7 @@ bateau | navio
 # Des mots avec C
 
   
-
+[Carambolage](https://usito.usherbrooke.ca/définitions/carambolage): Batida
 Cents | sous, cennes
 
 Chiens écrasés | Fait divérs | notícias ruins
@@ -64,6 +64,8 @@ est priée -> é solicitado
 épier -> espiar, espionar
 
 enivré -> embriagado
+
+(Épanouir)[[épanouir | Usito](https://usito.usherbrooke.ca/d%C3%A9finitions/%C3%A9panouir)]
 
 # Des mots avec F
 
