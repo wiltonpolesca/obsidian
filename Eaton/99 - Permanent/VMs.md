@@ -13,6 +13,14 @@
 - user: eaton\E0862524
 - pwd: user password
 
+## Sql Server
+
+Server: 
+- VM-DBSQL2022.CYME.LOCAL\SQLSERVER2022
+- VM-DBSQL2019.CYME.LOCAL\SQLSERVER2019
+User: sa
+Pwd: sa123
+
 # Internals
 
 Default connection:

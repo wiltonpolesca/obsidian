@@ -1,18 +1,66 @@
-Bom dia!
+## Compilers, build tools, and runtimes
 
-A primeira versão do script de exportação de dados ADMS, o script FME e a versão 1.1 do documento de design ADMS já estão disponíveis no repositório GIT do cliente ORU. 
+- MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.44-17-14)
 
-Pilippe, obrigado pela ajuda com essas tarefas, você foi bem paciente, me ajudou muito.
+![[Pasted image 20260423090542.png]]
+### SDKs, libraries, and frameworks
+- C++ ATL for x64/x86 (Latest MSVC)
+![[Pasted image 20260423095657.png]]
 
-Jimmy, você tem um tempo para podermos conversar? Eu tenho uma dúvida sobre a utilização do script Python dentro do CYME e precisaremos contactar a equipe CYME para obter informações sobre os campos restantes a serem exportados (quais atributos utilizar para extrair os dados em alguns arquivos)
+- C++ v14.[xx] (1[x].[xx]) ATL for v143 build tools (x86 & x64)
+- C++ v14.[xx] (1[x].[xx]) MFC for v143 build tools (x86 & x64)
+![[Pasted image 20260423095959.png]]
 
----
 
-**Bonjour,**
 
-La première version du script d’exportation des données ADMS, le script FME ainsi que la version **1.1** du document de conception ADMS sont déjà disponibles dans le dépôt Git du client ORU.
 
-**Philippe**, merci pour ton aide sur ces tâches. Tu as été très patient et tu m’as beaucoup aidé.
 
-**Jimmy**, est‑ce que tu aurais un moment pour qu’on puisse discuter?  
-J’ai une question concernant l’utilisation du script Python dans CYME, et nous devrons également contacter l’équipe **CYME** afin d’obtenir des informations sur les champs restants à exporter (quels attributs utiliser pour extraire les données dans certains fichiers).
+
+
+
+
+
+
+
+- C++ ATL for v141 build tools (x86 &  x64)
+
+- C++ ATL for v141 build tools with Spectre Mitigations (x86 &  x64)
+- C++ ATL for v141 (Latest MSVC)
+
+- C++ 14.29 (16.11) ATL for v142 build tools (x86 &  x64)
+- C++ 14.29 (16.11) ATL for v142 build tools with Spectre Mitigations (x86 &  x64)
+
+- C++ 14.29 (16.11) ATL for v143 build tools (x86 &  x64)
+- C++ 14.29 (16.11) ATL for v143 build tools with Spectre Mitigations (x86 &  x64)
+- C++ 14.29 (16.11) MFC for v143 build tools (x86 &  x64)
+
+![[Pasted image 20260423084951.png]]
+
+![[Pasted image 20260423090139.png]]
+
+![[Pasted image 20260423090907.png]]
+grafana:
+
+    container_name: grafana
+
+    image: grafana/otel-lgtm
+
+    volumes:
+
+      - ./settings/grafana/grafana-datasources.yml:/etc/grafana/provisioning/datasources/datasources.yml
+
+    environment:
+
+      GF_AUTH_ANONYMOUS_ENABLED: "true"
+
+      GF_AUTH_ANONYMOUS_ORG_ROLE: "Admin"
+
+    ports:
+
+      - 3000:3000
+
+      - 4318:4318
+
+    networks:
+
+      - dev_local
