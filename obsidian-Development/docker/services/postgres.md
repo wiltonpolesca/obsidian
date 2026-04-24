@@ -1,4 +1,4 @@
-# Postgres
+# Postgres docker service
 
 ## Service
 
@@ -50,7 +50,9 @@ POSTGRES_PWD=
 POSTGRES_DB=
 ```
 
-### postgres initdb
+### Postgres initdb
+
+Allows you create users, databases you need when the image is being created.
 
 ```sh
 # init.sh file
@@ -64,6 +66,8 @@ EOSQL
 ```
 
 ### Dockefile
+
+Example of how a Dokerfile file can be used to create the image, in this example, the Postgres image is being created with wal2json installed.
 
 ```yaml
 # docker-compose build

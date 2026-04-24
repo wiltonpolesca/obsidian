@@ -27,11 +27,7 @@
 ## Helpful pages to working on CYMDist Plugin
 
 - [CYMDist Plugin](https://eaton-corp.atlassian.net/wiki/spaces/CYME/pages/653527076/CYMDist+Plugin)
-## Tools
 
- How to check if a dll is x86 or x64
-
- - C:\dev\tools\Sigcheck\sigcheck.exe "C:\dev\git\cyme-di-plugins\FME Plugins\src\GATEWAY\dll\x86\Debug\CYMDistd.dll"
 ## Folders
 
 Software's to install: Mapped folder `cyme-install` or `\\png2448-01.cyme.local`
