@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd32fe66240ea656",
+        "id": "e956c2b4efc5cb09",
         "type": "tabs",
         "children": [
           {
-            "id": "050b52784d34141b",
+            "id": "f793f1f239e56596",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,7 +194,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b893a68c721b70fa",
+  "active": "f793f1f239e56596",
   "lastOpenFiles": [
     "Vídeos Doutrinários.md",
     "Sans titre.md",
