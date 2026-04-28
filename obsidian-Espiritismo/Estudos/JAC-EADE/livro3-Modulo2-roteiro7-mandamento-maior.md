@@ -9,13 +9,13 @@ note:
 ---
 ## Texto evangélico
 
-_E eis que se levantou um certo doutor da lei, tentando-o e dizendo: Mestre, que farei para herdar a vida eterna? E ele lhe disse: Que está escrito na lei? Como lês? E, respondendo ele, disse: Amarás ao Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todas as tuas forças, e de todo o teu entendimento e ao teu próximo como a ti mesmo. E disse-lhe: Respondeste bem; faze isso e viverás. Ele, porém, querendo justificar-se a si mesmo, disse a Jesus: E quem_ é o meu próximo?_  Lucas, 10:25-29.
+_E eis que se levantou um certo doutor da lei, tentando-o e dizendo: Mestre, que farei para herdar a vida eterna? E ele lhe disse: Que está escrito na lei? Como lês? E, respondendo ele, disse: Amarás ao Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todas as tuas forças, e de todo o teu entendimento e ao teu próximo como a ti mesmo. E disse-lhe: Respondeste bem; faze isso e viverás. Ele, porém, querendo justificar-se a si mesmo, disse a Jesus: E quem_ é o meu próximo?  Lucas, 10:25-29.
 
 --
 
 O Cristianismo é uma doutrina que se assenta em dois fundamentos: **amor a Deus e ao próximo.**
 
->Com um Deus imparcial, soberanamente justo, bom e misericordioso, Ele fez do amor de Deus e da caridade para com o próximo a condição indeclinável da salvação, dizendo: _Amai a Deus sobre todas as coisas e o vosso próximo como a vós mesmos; nisto estão toda a lei e os profetas; não existe outra lei._ Sobre esta crença, assentou o princípio da igualdade dos homens perante Deus e o da fraternidade universal. [^3]
+Com um Deus imparcial, soberanamente justo, bom e misericordioso, Ele fez do amor de Deus e da caridade para com o próximo a condição indeclinável da salvação, dizendo: _Amai a Deus sobre todas as coisas e o vosso próximo como a vós mesmos; nisto estão toda a lei e os profetas; não existe outra lei._ Sobre esta crença, assentou o princípio da igualdade dos homens perante Deus e o da fraternidade universal. [^3]
 
 note:
 
@@ -29,20 +29,26 @@ Esses dois mandamentos retratam uma síntese dos Dez Mandamentos, recebidos por 
 
 ## Interpretação do texto evangélico
 
->_E eis que se levantou um certo doutor da lei, tentando-o e dizendo: Mestre, que farei para herdar a vida eterna?_ (Lc 10:25).
+_E eis que se levantou um certo doutor da lei, tentando-o e dizendo: Mestre, que farei para herdar a vida eterna?_ (Lc 10:25).
+
+--
 
 Vemos aqui um conhecedor da lei de Moisés procurando o Cristo para testá-lo. Não foram poucos os momentos em que o Mestre foi assediado pelas forças contrárias à sua mensagem, sobretudo porque o Evangelho renovava e ampliava os ensinos da Torá. Jesus, porém, não se afasta e estabelece significativo diálogo com o religioso, aproveitando a feliz oportunidade de esclarecê-lo. Este versículo registra o encontro da lei antiga com o amor.
 
 ---
 Vemos, ainda hoje, que as pessoas que mais resistem aos propósitos do bem são os letrados, as autoridades ou sábios do mundo, altamente intelectualizados, mas, quase sempre, são baldos de entendimento espiritual. Grande número revela interesse pelo processo de renovação espiritual, mas exigem “sinais do céu” na forma de acontecimentos extraordinários.
 
->A pergunta do doutor da lei (“Mestre, que farei para herdar a vida eterna?”) se enquadra nesse contexto, mas também revela intenção de testificar possível contradição doutrinária entre a lei de Moisés e o Cristianismo. Sob certo aspecto, não deixa de ser uma atitude pueril, comum nos que se julgam superiores porque possuem titulações acadêmicas ou religiosas.
+--
+
+A pergunta do doutor da lei (“Mestre, que farei para herdar a vida eterna?”) se enquadra nesse contexto, mas também revela intenção de testificar possível contradição doutrinária entre a lei de Moisés e o Cristianismo. Sob certo aspecto, não deixa de ser uma atitude pueril, comum nos que se julgam superiores porque possuem titulações acadêmicas ou religiosas.
 
 --
 
->_E ele lhe disse: Que está escrito na lei? Como lês?_ (Lc 10:26).
+_E ele lhe disse: Que está escrito na lei? Como lês?_ (Lc 10:26).
 
 A sabedoria se revela inequívoca nesta pergunta. Ignorando a armadilha do doutor da lei, inicia o trabalho de atendimento espiritual, pelo diálogo, fazendo o religioso recordar e expressar o que já possuía de bom e verdadeiro. É a habilidade ou a psicologia do amor, que jamais fere nem agride, mas educa. 
+
+--
 
 Com a primeira pergunta (“Que está escrito na Lei?”) Jesus faz o interlocutor recordar o ensinamento aprendido. 
 
@@ -58,7 +64,7 @@ ME LEMBRO QUE HAROLDO TEM ALGO SOBRE ISSO.
 
 O diálogo que se segue fez o religioso esquecer o teste, inicialmente proposto, deixando-se mergulhar nas águas profundas das verdades superiores, para onde o Mestre habilmente o conduziu.
 
->_E, respondendo ele, disse: Amarás ao Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todas as tuas forças, e de todo o teu entendimento e ao teu próximo como a ti mesmo._  Lc 10:27
+_E, respondendo ele, disse: Amarás ao Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todas as tuas forças, e de todo o teu entendimento e ao teu próximo como a ti mesmo._  Lc 10:27
 
 --
 
@@ -72,7 +78,9 @@ note:
 
 O entendimento espírita de Deus — *“[...] a inteligência suprema, causa primária [primeira] de todas as coisas”*—,[^4] dos seus atributos e da Providência divina segue a orientação de Jesus que, ao apresentá-lo como Pai, justo e misericordioso, ensina que não se deve temê-lo, tal como acontecia na orientação moisaica.
 
->Entretanto, perguntarás, como amarei a Deus que se encontra longe de mim? Cala, porém, as tuas indagações e recorda que, se os pais e as mães do mundo vibram na experiência dos filhos, se o artista está invisível em suas obras, também Deus permanece em suas criaturas. Lembra que, se deves esperar por Deus onde te encontras, Deus igualmente espera por ti em todos os ângulos do caminho. Ele é o Todo em que nos movemos e existimos. [^6]
+--
+
+Entretanto, perguntarás, como amarei a Deus que se encontra longe de mim? Cala, porém, as tuas indagações e recorda que, se os pais e as mães do mundo vibram na experiência dos filhos, se o artista está invisível em suas obras, também Deus permanece em suas criaturas. Lembra que, se deves esperar por Deus onde te encontras, Deus igualmente espera por ti em todos os ângulos do caminho. Ele é o Todo em que nos movemos e existimos. [^6]
 
 note:
 
@@ -88,7 +96,11 @@ Por este motivo é que a assertiva *“Amarás ao Senhor teu Deus de todo o teu 
 
 Esse entendimento abrange o conhecimento de si mesmo.
 
->Conhecer implica a pesquisa das causas. A causa primária de tudo o que existe é Deus, o Criador. Conhecer-nos significa a busca de todos os potenciais de nosso ser, compreendendo o uso da razão e a conquista das virtudes, realizando o destino na luta permanente pelo auto aperfeiçoamento. Para bem dirigir esse esforço incessante de cada criatura, o Pai celestial enviou à Humanidade seu Filho, o Mestre por excelência de cada um, o Cristo de Deus, que nos mostra como encontrar “o caminho, a verdade e a vida”. [^5]
+Conhecer implica a pesquisa das causas. A causa primária de tudo o que existe é Deus, o Criador. Conhecer-nos significa a busca de todos os potenciais de nosso ser, compreendendo o uso da razão e a conquista das virtudes, realizando o destino na luta permanente pelo auto aperfeiçoamento. 
+
+--
+
+Para bem dirigir esse esforço incessante de cada criatura, o Pai celestial enviou à Humanidade seu Filho, o Mestre por excelência de cada um, o Cristo de Deus, que nos mostra como encontrar “o caminho, a verdade e a vida”. [^5]
 
 note:
 
@@ -110,6 +122,8 @@ Conforme Emmanuel:
 
 Incontestavelmente, muitos séculos antes da vinda do Cristo já era ensinada no mundo a Regra Áurea, trazida por embaixadores de sua sabedoria e misericórdia. Importa esclarecer, todavia, que semelhante princípio era transmitido com maior ou menor exemplificação de seus expositores. 
 
+--
+
 Diziam os gregos: *“Não façais ao próximo o que não desejais receber dele.”* 
 
 Afirmavam os persas: *“Fazei como quereis que se vos faça.”* 
@@ -123,6 +137,8 @@ Doutrinavam os hebreus: *“O que não quiserdes para vós, não desejeis para o
 
 Insistiam os romanos: *“A lei gravada nos corações humanos é amar os membros da sociedade como a si mesmo.”*[...] 
 
+--
+
 Com o Mestre, todavia, a Regra Áurea é a novidade divina, porque Jesus a ensinou e exemplificou, não com virtudes parciais, mas em plenitude de trabalho, abnegação e amor, à claridade das praças públicas, revelando-se aos olhos da Humanidade inteira. [^7]
 
 note: 
@@ -133,7 +149,11 @@ note:
 
 Mas, o que significa amar ao próximo como a si mesmo?
 
-*“Amar o próximo como a si mesmo: fazer pelos outros o que quereríamos que os outros fizessem por nós”*, é a expressão mais completa da caridade, porque resume todos os deveres do homem para com o próximo. [...] A prática dessas máximas **tende à destruição do egoísmo**. Quando as adotarem para regra de conduta e para base de suas instituições, os homens compreenderão a verdadeira fraternidade e farão que entre eles reinem a paz e a justiça. Não mais haverá ódios, nem dissensões, mas, tão somente, união, concórdia e benevolência mútua.[^1]
+*“Amar o próximo como a si mesmo: fazer pelos outros o que quereríamos que os outros fizessem por nós”*, é a expressão mais completa da caridade, porque resume todos os deveres do homem para com o próximo. [...] A prática dessas máximas **tende à destruição do egoísmo**. 
+
+--
+
+Quando as adotarem para regra de conduta e para base de suas instituições, os homens compreenderão a verdadeira fraternidade e farão que entre eles reinem a paz e a justiça. Não mais haverá ódios, nem dissensões, mas, tão somente, união, concórdia e benevolência mútua.[^1]
 
 note:
 
@@ -141,9 +161,13 @@ note:
 
 ---
 
->_E disse-lhe: Respondeste bem; faze isso e viverás_ (Lc 10:28).
+_E disse-lhe: Respondeste bem; faze isso e viverás_ (Lc 10:28).
 
-Jesus elogia o doutor da lei, o conhecimento que Ele tinha da Torá, mas exorta-o a vivenciá-lo quando afirma: *“faze isso, e viverás.”* O Mestre demonstra de maneira fraterna que ter conhecimento dos preceitos divinos não é suficiente para ganhar a vida eterna. É preciso vivenciá-los. Este deve ser também o nosso esforço cotidiano. *“O discípulo de Jesus, porém — aquele homem que já se entediou das substâncias deterioradas da experiência transitória —, pede a luz da sabedoria, a fim de aprender a semear o amor em companhia do Mestre...”* [^10]
+Jesus elogia o doutor da lei, o conhecimento que Ele tinha da Torá, mas exorta-o a vivenciá-lo quando afirma: *“faze isso, e viverás.”* O Mestre demonstra de maneira fraterna que ter conhecimento dos preceitos divinos não é suficiente para ganhar a vida eterna. 
+
+--
+
+É preciso vivenciá-los. Este deve ser também o nosso esforço cotidiano. *“O discípulo de Jesus, porém — aquele homem que já se entediou das substâncias deterioradas da experiência transitória —, pede a luz da sabedoria, a fim de aprender a semear o amor em companhia do Mestre...”* [^10]
 
 note:
 
@@ -151,7 +175,7 @@ note:
 
 ---
 
->_Ele, porém, querendo justificar-se a si mesmo, disse a Jesus: E quem_ é _o meu próximo?_ (Lc 10:29).
+_Ele, porém, querendo justificar-se a si mesmo, disse a Jesus: E quem_ é _o meu próximo?_ (Lc 10:29).
 
 Esta é, em geral, a posição mental do religioso que desperta do sono das práticas ritualísticas, por julgá-las estéreis e sem sentido, e que se abre para as verdades espirituais. Assim, se nos depararmos com tais companheiros em nosso caminho, devemos exercitar a tolerância, uma vez que o despertamento espiritual nem sempre se realiza abrupto, mas aos poucos.
 

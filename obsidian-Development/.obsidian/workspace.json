@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/services/@_docker-compose.md",
+                "file": "git/commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@_docker-compose"
+              "title": "commands"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "commands"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +58,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -189,23 +188,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "c39c40c6a193dbc6",
+  "active": "b69f452e273ed7da",
   "lastOpenFiles": [
     "docker/services/postgres.md",
     "copilot/dev-prompts-commands.md",
     "git/commands.md",
     "copilot",
     "useful-links.md",
-    "docker/services/@_docker-compose.md",
     "git",
     "z-FAQ.md",
     "new-machine-from-scratch.md",

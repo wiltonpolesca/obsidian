@@ -19,7 +19,12 @@
     restart: always
     networks:
       - [[NETWORK NAME]]
-
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER}"]
+      interval: 10s
+      retries: 5
+      start_period: 30s
+      timeout: 10s
 
 volumes:
   postgresql-pgdata:
