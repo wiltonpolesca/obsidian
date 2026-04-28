@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Resourses/usefull-links.md",
+                "file": "99 - Permanent/VMs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "usefull-links"
+              "title": "VMs"
             }
           },
           {
@@ -233,10 +233,12 @@
   },
   "active": "5e5bc89bb88926a8",
   "lastOpenFiles": [
+    "1 - Resourses/usefull-links.md",
+    "1 - Resourses/Daily notes/2026-04-28.md",
+    "99 - Permanent/VMs.md",
     "99 - Permanent/Tips/copilot-prompts.md",
     "99 - Permanent/Tips/Powershell/Powershell.md",
     "99 - Permanent/Tips/Git commands.md",
-    "1 - Resourses/usefull-links.md",
     "80 - Clients/ORU/CYMDI-5751.md",
     "_inbox/Sans titre.md",
     "_inbox/temp.md",
@@ -249,7 +251,6 @@
     "99 - Permanent/Eaton important notes.md",
     "99 - Permanent/Electrical Terminology and Words.md",
     "99 - Permanent/github-recovery-codes.md",
-    "99 - Permanent/VMs.md",
     "1 - Resourses/Daily notes/2026-04-24.md",
     "Pasted image 20260423095959.png",
     "Pasted image 20260423095900.png",
@@ -266,7 +267,6 @@
     "99 - Permanent/FME/python/Sans titre.md",
     "1 - Resourses/Daily notes/2026-04-20.md",
     "1 - Resourses/Daily notes/2026-04-17.md",
-    "1 - Resourses/Daily notes/2026-04-16.md",
     "99 - Permanent/FME/python",
     "1 - Resourses/Learning/FME/Sans titre",
     "99 - Permanent/FME",

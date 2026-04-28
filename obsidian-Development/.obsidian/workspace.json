@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copilot/dev-prompts-commands.md",
+                "file": "docker/services/postgres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dev-prompts-commands"
+              "title": "postgres"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "c39c40c6a193dbc6",
   "lastOpenFiles": [
-    "git/commands.md",
     "copilot/dev-prompts-commands.md",
+    "git/commands.md",
     "copilot",
     "useful-links.md",
     "docker/services/@_docker-compose.md",

@@ -27,8 +27,14 @@ Default connection:
   **user**: cyme\gateway
   **pwd**: gateway
 
-| Client               | VM                      |
-| -------------------- | ----------------------- |
-| Softwares to install, including cyme| pnq2448-01.cyme.local |
-| CYMDist plugin tests | vm-PluginFME.cyme.local |
-| Artifacts            |                         |
+| Client                               | VM                      |
+| ------------------------------------ | ----------------------- |
+| Softwares to install, including cyme | pnq2448-01.cyme.local   |
+| CYMDist plugin tests                 | vm-PluginFME.cyme.local |
+| Artifacts                            |                         |
+
+## Configurations
+
+### NPM certificate
+
+[_New Employee for UDPS-UI - UDS - ADPS - Confluence](https://eaton-corp.atlassian.net/wiki/spaces/UA/pages/1394475069/_New+Employee+for+UDPS-UI)
