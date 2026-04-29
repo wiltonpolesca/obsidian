@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/services/postgres.md",
+                "file": "git/commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "postgres"
+              "title": "commands"
             }
           }
         ],
@@ -200,6 +200,7 @@
   },
   "active": "c39c40c6a193dbc6",
   "lastOpenFiles": [
+    "docker/services/postgres.md",
     "copilot/dev-prompts-commands.md",
     "git/commands.md",
     "copilot",
@@ -213,7 +214,6 @@
     "dotnet/runnint-unit-tests.md",
     "docker/services/open-telemetry.md",
     "docker/services/sql-server.md",
-    "docker/services/postgres.md",
     "docker/services/portainer.md",
     "docker/services/oracle.md",
     "docker/services",

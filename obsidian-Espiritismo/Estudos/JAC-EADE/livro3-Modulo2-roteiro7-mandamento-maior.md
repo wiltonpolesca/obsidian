@@ -2,6 +2,10 @@
 
 ##### EADE: Livro 3 - Módulo 2 - Roteiro 7
 
+note:
+
+- Você só apreende e, consequentemente só aprende quando o conteúdo tem significado
+
 ---
 ## Texto evangélico
 
