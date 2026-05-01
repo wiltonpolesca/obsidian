@@ -15,6 +15,9 @@ _Os Espíritos exercem, sobre o mundo moral e mesmo sobre o mundo físico, uma a
 
 ## Tentar encontrar a referência sobre a teia de comunicação que existe sobre a terra
 
+
+Pegar o capítulo XXVI -> Afinidade, do livro Roteiro para usar como base do estudo
+
 ---
 ## Referências
 
