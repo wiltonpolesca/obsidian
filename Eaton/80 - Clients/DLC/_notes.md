@@ -1,5 +1,21 @@
 # Notes
 
+
+## Questions
+
+O que é um `Tier`
+
+O que são os "sources"? cabos?
+
+Multiplos subnetwork per circuit
+
+One file per sub-network
+- SS -> sub-station (file example `HighlandSS_2026-02-23_133957.json`)
+
+all is 23 KVa
+
+ 
+
 # Dates
 - Detailed design specification: `2026-03-06`
 - Development complete: `2026-08-26` *(It's better to finish before August)*

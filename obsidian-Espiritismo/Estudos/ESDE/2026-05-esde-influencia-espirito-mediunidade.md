@@ -18,6 +18,15 @@ _Os Espíritos exercem, sobre o mundo moral e mesmo sobre o mundo físico, uma a
 
 Pegar o capítulo XXVI -> Afinidade, do livro Roteiro para usar como base do estudo
 
+## Referências
+
+### Livro dos espíritos
+
+[Vídeo para ilustrar a sintonia](https://youtu.be/0tKyzVF3Szs?list=TLPQMDgwNTIwMjYRK7VNbLrTzg)
+
+Transmissão oculta do pensamento, perguntas 419-421
+Faculdade que tem os espíritos de penetrar os nossos pensamentos, perguntas 456-458
+
 ---
 ## Referências
 

@@ -1,29 +1,20 @@
-Bom dia Silvan e Sthephane,
+[Confluence TCC reference]([Circuit Breaker Trip Units - Critical Power Solutions Wiki - Confluence](https://eaton-corp.atlassian.net/wiki/spaces/wiki/pages/12815170/Circuit+Breaker+Trip+Units))
 
-Na última semana, Jimmy me orientou a estudar o script "Extract.fmw", os arquivos recebidos de DLC e me passou também os arquivos `DataDictionary_19Jan2026.xlsx` e`Equipment_Template_Master_19Jan2026.xlsx` para que eu tenha um melhor entendimento sobre a estrutura dos dados que irei trabalhar.
+### [CYMDI-6123]([[CYMDI-6123] Evaluate importing transformer with status 'Proposed to Install' - Jira](https://eaton-corp.atlassian.net/browse/CYMDI-6123))
+Reader: EO_POWER_XFRMR_INST -> Tester_55
 
-Porém eu me encontro um pouco perdido em o que fazer nesse momento, apesar de ter analisados os arquivos me enviados, eu não se exatamente qual o próximo passo que devo dar. Jimmy me disse que o documento de design para as sub-estações ainda está em desenvolvimento, acredito que ele é o ponto de partida para os trabalhos do lado do FME, gostaria de saber se à algo que eu possa iniciar do lado do C# enquanto aguardo esse documento.
+Le script fonctionne avec exclusion, je crois que si on modifie Tester_55 le problème du client sera résolu.
+Cette condition existe également dans d’autres « Readers ».
 
-Vocês sabem se tem alguma página no Confluence que possa me guiar nesse início?
 
-Vocês conseguem me ajudar nisso? 
+L'importation de charge, il cherche un moin the savoir pourquoi il n'ai pa imprrter.
 
-Eu não sei se as tarefas para já foram criadas no Jira, eu procurei mas não encontrei.
+Secondary Source point => counter/emplacement d'un counter eletrique
+ -> maison 1 counter
+  -> app: 1 dezaine de counter
+vm-pseg-ng -> extract.fmw
 
-Obrigado.
+Meters (counter) => CustomerLoad
 
----
 
-Bonjour Silvan et Stéphane,
-
-La semaine dernière, Jimmy m’a demandé d’analyser le script « Extract.fmw » ainsi que les fichiers JSON reçus de DLC. Il m’a aussi partagé les fichiers «DataDictionary_19Jan2026.xlsx» et «Equipment_Template_Master_19Jan2026.xlsx» pour m’aider à mieux comprendre la structure des données avec lesquelles je vais travailler.
-
-Par contre, je suis un peu perdu sur la suite des choses. Même si j’ai pris le temps d’analyser les fichiers, je ne suis pas certain du prochain step. Jimmy m’a mentionné que le document de design pour les substations est encore en cours de développement. J’ai l’impression que ce sera le point de départ pour le travail côté FME. En attendant, je me demandais s’il y a quelque chose que je pourrais déjà commencer côté C#.
-
-Est-ce que vous savez s’il existe une page Confluence qui pourrait me guider pour bien démarrer ?
-
-Est-ce que vous pourriez m’aider avec ça ?
-
-Je ne sais pas non plus si des tâches ont déjà été créées dans Jira. J’ai regardé, mais je n’ai rien trouvé.
-
-Merci !
+==? => customer _ load (withour secondary_
