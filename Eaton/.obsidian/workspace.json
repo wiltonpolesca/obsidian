@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Resourses/Daily notes/2026-05-08.md",
+                "file": "99 - Permanent/VMs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-08"
+              "title": "VMs"
             }
           }
         ]
@@ -221,8 +221,8 @@
   },
   "active": "66a59e4064cb02ce",
   "lastOpenFiles": [
-    "80 - Clients/DLC/_notes.md",
     "1 - Resourses/Daily notes/2026-05-08.md",
+    "80 - Clients/DLC/_notes.md",
     "_notes.md",
     "1 - Resourses/Daily notes/2026-05-07.md",
     "99 - Permanent/VMs.md",

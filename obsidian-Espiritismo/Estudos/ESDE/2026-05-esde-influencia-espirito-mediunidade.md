@@ -1,35 +1,39 @@
-# Percepção, influência e comunicabilidade com os espíritos.
+# Afinidade
 
-Ivonne do amaral nos diz que:
+## Retrospectiva
 
-[...]
-*O caminho que leva até o Pai é cercado por uma natureza belíssima, mas que a todo momento exige do espírito uma mudança efetiva de seus valores, para que, verdadeiramente, possa usufruir das benesses que nele existem, e existem em abundância!* [^1]
+### Tipos de influenciação
 
-_Os Espíritos exercem, sobre o mundo moral e mesmo sobre o mundo físico, uma ação incessante. Agem sobre a matéria e sobre o pensamento, e constituem uma das forças da Natureza, causa eficiente de uma multidão de fenômenos, até agora inexplicados, ou mal explicados, e que não encontram uma solução racional senão no Espiritismo._ **O livro dos espíritos, introdução, parte VI**
+#### Obsessiva
 
+##### Segundo Yvone do Amaral Pereira
 
-[...]. Esse intercâmbio exige do intermediário posturas íntimas trabalhadas no bem, com afinco e determinação, sem as quais o conteúdo da comunicarão ficará descaracterizado, por lhe faltar o critério da verdade.
+1) Assédio
+2) Obsessão Odiosa
+	1) Por vingança
+	2) Causa defendida
+	3) Inveja
+3) Obsessão Não Odiosa
+	1) Afinidade
+	2) Apego
 
- Partindo da premissa de que todas as criaturas trazem consigo o sentido da percepção extrassensorial, entende-se que a comunicação entre os dois planos se dá sem que mesmo os espíritos tenham um exato conhecimento do que se passa. [...] [^2]
+##### Segundo Allan Kardec
+1) Simples
+2) Fanatismo
+3) Subjugação
 
+#### Cuidado consciente
+- Amor!
 
-## Tentar encontrar a referência sobre a teia de comunicação que existe sobre a terra
+## Afinidade
 
+[[26 - Afinidade|Livro Roteiro, capítulo 26 - Afinidade]]
 
-Pegar o capítulo XXVI -> Afinidade, do livro Roteiro para usar como base do estudo
+### Referencial de apoio, livro dos espíritos
 
-## Referências
+- Transmissão oculta do pensamento, perguntas 419-421
+- Faculdade que tem os espíritos de penetrar os nossos pensamentos, perguntas 456-458
 
-### Livro dos espíritos
+### Finalização
 
-[Vídeo para ilustrar a sintonia](https://youtu.be/0tKyzVF3Szs?list=TLPQMDgwNTIwMjYRK7VNbLrTzg)
-
-Transmissão oculta do pensamento, perguntas 419-421
-Faculdade que tem os espíritos de penetrar os nossos pensamentos, perguntas 456-458
-
----
-## Referências
-
-[^1]: Livro: Mediunidade: tarefa com Jesus, Alda Maria, pelo espírito Yvonne do Amaral Pereira, capítulo 1, caminhos da existência
-
-[^2]: Livro: Mediunidade: tarefa com Jesus, Alda Maria, pelo espírito Yvonne do Amaral Pereira, capítulo 2, Comunicação entre os espíritos
+[Vídeo 'Amigos da Luz', para ilustrar a sintonia](https://youtu.be/0tKyzVF3Szs?list=TLPQMDgwNTIwMjYRK7VNbLrTzg)

@@ -2,13 +2,32 @@
 
 O homem permanece envolto em largo oceano de pensamentos, nutrindo-se de substância mental, em grande proporção. 
 
+--
+**note:**
+- Estamos imersos nos pensamentos de todos, nos conectamos de acordo com nossa sintonia
+---
+
 Toda criatura absorve, sem perceber, a influência alheia nos recursos imponderáveis que lhe equilibram a existência. 
 
 Em forma de impulsos e estímulos, a alma recolhe, nos pensamentos que atrai, as forças de sustentação que lhe garantem as tarefas no lugar em que se coloca. 
 
+--
+**note:**
+- A todo momento estamos compartilhando, ativamente de tudo a nosso redor
+- Quando nos sintonizamos, somos influenciados por todos os espíritos naquela mesma sintonia do planeta, encarnados e desencarnados.
+
+---
+
 O homem poderá estender muito longe o raio de suas próprias realizações, na ordem material do mundo, mas, sem a energia mental na base de suas manifestações, efetivamente nada conseguirá. 
 
 Sem os raios vivos e diferenciados dessa força, os valores evolutivos dormiriam latentes, em todas as direções. 
+
+--
+**note:**
+- A vontade é decisiva nesse processo, ela que nos direciona e nos conecta.
+- O pensamento firme em propósitos bons permite aos nossos amigos espirituais nos auxiliarem em nosso progresso.
+
+---
 
 A mente, em qualquer plano, emite e recebe, dá e recolhe, renovando-se constantemente para o alto destino que lhe compete atingir. 
 
@@ -16,11 +35,25 @@ Estamos assimilando correntes mentais, de maneira permanente.
 
 De modo imperceptível, “ingerimos pensamentos”, a cada instante, projetando, em torno de nossa individualidade, as forças que acalentamos em nós mesmos. 
 
+--
+**note:**
+- Qualidade dos pensamentos
+- Natureza de nossas ações
+
+---
+
 Por isso, quem não se habilite a conhecimentos mais altos, quem não exercite a vontade para sobrepor-se às circunstâncias de ordem inferior, padecerá, invariavelmente, a imposição do meio em que se localiza. 
 
 Somos afetados pelas vibrações de paisagens, pessoas e coisas que cercam. 
 
 Se nos confiamos às impressões alheias de enfermidade e amargura, apressadamente se nos altera o “tônus mental”, inclinando-nos à franca receptividade de moléstias indefiníveis.
+
+--
+**note:**
+- Emmanuel exemplifica o momento onde abrimos a porta para a atuação dos que não nos querem bem.
+- Fraqueza física em resposta a nossa sintonia desequilibrada
+
+---
 
 Se nos devotamos ao convívio com pessoas operosas e dinâmicas, encontramos valioso sustentáculo aos nossos propósitos de trabalho e realização. 
 
