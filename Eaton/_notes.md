@@ -1,20 +1,16 @@
-[Confluence TCC reference]([Circuit Breaker Trip Units - Critical Power Solutions Wiki - Confluence](https://eaton-corp.atlassian.net/wiki/spaces/wiki/pages/12815170/Circuit+Breaker+Trip+Units))
+Je ne sais pas si tu es la bonne personne (peut-être que c’est plutôt Jimmy), mais j’aimerais avoir un feedback sur comment je me débrouille jusqu’à présent.
 
-### [CYMDI-6123]([[CYMDI-6123] Evaluate importing transformer with status 'Proposed to Install' - Jira](https://eaton-corp.atlassian.net/browse/CYMDI-6123))
-Reader: EO_POWER_XFRMR_INST -> Tester_55
+- Je me sens un peu inconfortable en ce moment, j’ai pas mal de temps mort
+- Avant son absence, Jimmy m’avait demandé de travailler sur DLC, mais Stéphane est encore en train de préparer le document de design
+- J’ai encore de la difficulté à avancer sur des tâches à partir de Jira sans aide
+- Mon expérience est plutôt en développement (frontend et backend), ce qui semble être une demande assez limitée dans l’équipe. J’aimerais savoir si je progresse dans la bonne direction par rapport aux attentes chez Eaton
 
-Le script fonctionne avec exclusion, je crois que si on modifie Tester_55 le problème du client sera résolu.
-Cette condition existe également dans d’autres « Readers ».
-
-
-L'importation de charge, il cherche un moin the savoir pourquoi il n'ai pa imprrter.
-
-Secondary Source point => counter/emplacement d'un counter eletrique
- -> maison 1 counter
-  -> app: 1 dezaine de counter
-vm-pseg-ng -> extract.fmw
-
-Meters (counter) => CustomerLoad
+---
 
 
-==? => customer _ load (withour secondary_
+Não sei se você é a pessoa adequada, talvez seja o Jimmy, mas eu gostaria de um feedback sobre mim até agora.
+
+- Me sinto pouco desconfortável, tenho ficado ocioso
+- Jimmy me pediu, antes de sua ausência, para trabalhar com DLC, porém Stephane ainda está trabalhando para construir o documento de design
+- Ainda tenho tido dificuldade em executar as tarefas com base no Jira sem auxílio
+- Minha experiência é maior em desenvolvimento (Frontend e Backend) uma demanda que aparentemente é pequena no time, eu gostaria de ter uma ideia se eu tenho caminhado dentro da equipe no rumo esperado pela Eaton

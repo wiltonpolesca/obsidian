@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/PI-System/_notes.md",
+                "file": "Diagrams/Examples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_notes"
+              "title": "Examples"
             }
           }
         ]
@@ -185,10 +185,12 @@
   },
   "active": "b53430615680b041",
   "lastOpenFiles": [
-    "Databases/Oracle/_drafts.md",
-    "Databases/PI-System/_notes.md",
-    "Databases/PI-System",
+    "Diagrams/mermaid.md",
+    "Diagrams/Examples.md",
     "git/commands.md",
+    "Databases/PI-System/_notes.md",
+    "Databases/Oracle/_drafts.md",
+    "Databases/PI-System",
     "new-machine-from-scratch.md",
     "Databases/Oracle",
     "Databases",
