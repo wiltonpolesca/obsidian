@@ -28,6 +28,9 @@ J’ai planifié une réunion avec Jimmy lundi prochain pour discuter de comment
 
 >👉 Meeting prévu lundi avec Jimmy pour discuter de la solution.
 
+### **DLC
+
+Stéphane m’a invité aux _workshops_ avec le client, ce qui m’aide à mieux comprendre le système.**
 
 ---
 
@@ -67,3 +70,7 @@ Essa tarefa cria novas mensagens de log para facilitar a identificação de poss
 PORTLAND - CYMDI-6154
 
 Essa tarefa corresponde a um problema observado pelo cliente no comportamento do DDP. Stephane me pediu para fazer uma pesquisa no código e, aparentemente, a observação do cliente está correta, eu agendei uma reunião com o Jimmy na próxima segunda para conversarmos sobre como podemos resolver esse problema.
+
+DLC
+
+Stephane tem me convidado para as reuniões de Workshop com o cliente,  que tem me ajudado a entender um pouco mais do sistema.
