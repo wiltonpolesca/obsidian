@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44eed4ed9e5a4fd6",
+        "id": "d2c6667c18d254be",
         "type": "tabs",
         "children": [
           {
-            "id": "bc1d30403210f5dd",
+            "id": "873a21df88e085dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cd6bc8293429802",
@@ -183,14 +184,13 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "bc1d30403210f5dd",
+  "active": "873a21df88e085dd",
   "lastOpenFiles": [
     "Français/Grammaire/pronome EN.md",
     "_inbox/_a-renforcer.md",
     "Français/Grammaire/límperatif-pour-donner-des-conseils.md",
     "_inbox/images/circulation.md",
     "Pasted image 20260416191713.png",
-    "_inbox/Notes.md",
     "Français/Vocabulaire.md",
     "Français/lex-expression.md",
     "Français/Grammaire/Quelques, plusieurs et chaque.md",
