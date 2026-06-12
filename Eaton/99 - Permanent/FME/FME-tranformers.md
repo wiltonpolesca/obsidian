@@ -11,3 +11,12 @@
 | AttributeManager    | It allows to map one property to another one (column name), convert the value, remove properties and others                                                                                                            |
 | DatabaseJoiner      | It creates a "join" between sources and returns a new data collection, adding the "fields to add" defined from second source                                                                                           |
 | NeighborFinder      | NeighborFinder finds the closest spatial feature(s) to another feature based on geometry and distance.                                                                                                                 |
+
+### FeatureMerge
+ - **Requestor** → Feature A (the features you _want to enrich_)
+- **Supplier** → Feature B (the features that _provide attributes_)
+- Outputs:
+    - **Merged** ✅ → A matched with B
+    - **UnmergedRequestor** ❌ → A did **not** find a matching B
+    - **UnusedSupplier** ❌ → B did **not** match any A
+    - `<Rejected>` → errors
