@@ -29,6 +29,10 @@
 
 [[26 - Afinidade|Livro Roteiro, capítulo 26 - Afinidade]]
 
+
+![[mar-de-vibracoes.png]]
+
+![[afinidade-vibracional.png]]
 ### Referencial de apoio, livro dos espíritos
 
 - Transmissão oculta do pensamento, perguntas 419-421
