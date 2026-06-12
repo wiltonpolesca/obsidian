@@ -9,7 +9,7 @@
 	- Origem e natureza do espírito
 	- Progressão dos espíritos entre os reinos da natureza
 	- Perispírito (básico)
-	- Diferentes ordens, escapa e progressão dos espíritos
+	- Diferentes ordens, escala e progressão dos espíritos
 - #### Influência dos espíritos em nossos pensamentos e atos
 	- Classificação dos tipos de relação entre os espíritos (segundo D. Yvone, livro devassando o invisível)
 		- Relação doente
