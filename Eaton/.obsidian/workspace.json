@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6bfd4d37933d8aa",
+        "id": "a503438c96e7cdec",
         "type": "tabs",
         "children": [
           {
-            "id": "f284f17c2b82a80d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Resourses/Daily notes/2026-05-28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-28"
-            }
-          },
-          {
-            "id": "5219580ab8ec7081",
+            "id": "010abf811d8708c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,9 +30,57 @@
               "icon": "lucide-file",
               "title": "_notes"
             }
+          },
+          {
+            "id": "c760fb75fea3bead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_notes"
+            }
+          },
+          {
+            "id": "fbeb63e0fac2fc9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Permanent/Eaton system and patterns notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Eaton system and patterns notes"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NOTE",
+                "query": "feat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +120,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -109,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -244,34 +269,34 @@
       "markdown-importer:Ouvrir l'importateur Markdown": false
     }
   },
-  "active": "5219580ab8ec7081",
+  "active": "fbeb63e0fac2fc9e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-30 10.51.54.excalidraw.md",
-    "1 - Resourses/Daily notes/2026-06-01.md",
-    "_notes.md",
-    "1 - Resourses/Daily notes/2026-05-28.md",
-    "1 - Resourses/Daily notes/2026-05-29.md",
+    "80 - Clients/ORU/CYMDI-5788.md",
+    "1 - Resourses/Daily notes/2026/01/2026-01-23.md",
+    "Sans titre.md",
     "_sprint-meetings.md",
-    "1 - Resourses/Daily notes/2026-05-27.md",
+    "_notes.md",
+    "1 - Resourses/Daily notes/2026-06-12.md",
+    "Sans titre 1.md",
+    "1 - Resourses/Daily notes/2026-06-11.md",
+    "1 - Resourses/Daily notes/2026-06-10.md",
+    "1 - Resourses/Daily notes/2026-05-28.md",
+    "1 - Resourses/usefull-links.md",
+    "1 - Resourses/laptop-from-scratch.md",
+    "1 - Resourses/Learning/Mermaid/Example - gitaction workflos diagram.md",
+    "1 - Resourses/Daily notes/2026-06-09.md",
+    "99 - Permanent/VMs.md",
     "99 - Permanent/Eaton system and patterns notes.md",
     "99 - Permanent/Eaton important notes.md",
+    "1 - Resourses/Daily notes/2026-06-08.md",
+    "1 - Resourses/Daily notes/2026-06-04.md",
+    "Excalidraw/Drawing 2026-04-30 10.51.54.excalidraw.md",
+    "1 - Resourses/Daily notes/2026-06-01.md",
+    "1 - Resourses/Daily notes/2026-05-29.md",
+    "1 - Resourses/Daily notes/2026-05-27.md",
     "99 - Permanent/cyme.md",
-    "1 - Resourses/Learning/Mermaid/Example - gitaction workflos diagram.md",
-    "1 - Resourses/laptop-from-scratch.md",
-    "1 - Resourses/usefull-links.md",
     "99 - Permanent/Electrical Terminology and Words.md",
     "99 - Permanent/github-recovery-codes.md",
-    "1 - Resourses/Daily notes/2026-05-22.md",
-    "99 - Permanent/VMs.md",
-    "1 - Resourses/Daily notes/2026-05-05.md",
-    "1 - Resourses/Daily notes/2026-05-06.md",
-    "1 - Resourses/Daily notes/2026-05-07.md",
-    "1 - Resourses/Daily notes/2026-05-08.md",
-    "1 - Resourses/Daily notes/2026-05-11.md",
-    "1 - Resourses/Daily notes/2026-05-12.md",
-    "1 - Resourses/Daily notes/2026-05-14.md",
-    "1 - Resourses/Daily notes/2026-05-15.md",
-    "1 - Resourses/Daily notes/2026-05-19.md",
     "80 - Clients/DLC",
     "Excalidraw",
     "Pasted image 20260423095959.png",
