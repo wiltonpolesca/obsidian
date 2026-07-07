@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy/Oracle/_básico.md",
+                "file": "Udemy/2026 - Formação completa em IA/sessão 2/02 - Introdução a Classificação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_básico"
+              "title": "02 - Introdução a Classificação"
             }
           }
         ]
@@ -185,12 +185,30 @@
   },
   "active": "196a462284c7d340",
   "lastOpenFiles": [
-    "Udemy/Oracle/Seção-2/Section 2.md",
-    "Udemy/Oracle/_básico.md",
+    "Udemy/2026 - Formação completa em IA/sessão 2/01 - Fundamentos de ML.md",
+    "Udemy/2026 - Formação completa em IA/sessão 2/02 - Introdução a Classificação.md",
+    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-supervisoned-vs-no-supervisioned.png",
+    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/secion-2-product-recommendation.png",
+    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-example-client-segmentation.png",
+    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-regression-house-price.png",
+    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-ml-types.png",
+    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-data-structure.png",
+    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-using-the-model.png",
+    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-model.png",
+    "Udemy/2026 - Formação completa em IA/sessão 2/imgs",
+    "Udemy/2026 - Formação completa em IA/_Instructions.md",
+    "Sans titre.base",
+    "Udemy/2026 - Formação completa em IA/env-validation.ipynb",
+    "Udemy/2026 - Formação completa em IA/env-validation.ipynb.md",
+    "Udemy/2026 - Formação completa em IA/sessão 2",
+    "Udemy/2026 - Formação completa em IA/first.ipynb",
+    "Udemy/2026 - Formação completa em IA",
+    "Udemy/DBA Oracle curso completo/_básico.md",
+    "Udemy/DBA Oracle curso completo/Seção-2/Section 2.md",
     "Udemy/Oracle/Seção-2/Section 2 - lab - 1.md",
-    "Udemy/Oracle/Seção-2",
+    "Udemy/DBA Oracle curso completo/Seção-2",
     "Bienvenue.md",
-    "Udemy/Oracle",
+    "Udemy/DBA Oracle curso completo",
     "Udemy"
   ]
 }

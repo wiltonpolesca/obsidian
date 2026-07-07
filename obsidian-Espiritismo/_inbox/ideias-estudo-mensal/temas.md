@@ -77,3 +77,6 @@
 - **Lei de Igualdade:** A igualdade de todos perante o Criador e a ausência de privilégios espirituais.
 - **Lei de Liberdade:** O livre-arbítrio e a capacidade de escolha.
 - **Lei de Justiça, Amor e Caridade:** Considerada a mais importante de todas, sintetiza o ensinamento máximo de Jesus e a essência da evolução moral.
+
+
+
