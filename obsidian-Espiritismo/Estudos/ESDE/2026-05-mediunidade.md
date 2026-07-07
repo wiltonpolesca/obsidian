@@ -1,5 +1,7 @@
 # A História da mediunidade
 
+Desde o aparecimento da raça humana, esta reverenciou algo, criou ritos religiosos/mortuários.
+
 ## O que é mediunidade?
 
 - Um sentido, tal como o olfato, a visão, paladar... , inerente ao espírito e que, no geral, ainda não está bem desenvolvido na criatura encarnada (corpo material)
@@ -10,9 +12,13 @@ Está presente na humanidade desde o princípio.
 	
 #### MEDIUNIDADE NO HINDUÍSMO
 
+(sistema de castas)
+
  **Código dos Vedas**, o mais antigo código religioso que se tem notícia, onde se encontra o registro da existência dos espíritos: *"Os espíritos dos antepassados, no estado invisível, acompanham certos brâmanes, convidados para cerimônia em comemoração dos mortos, sob uma forma aérea; seguem-nos e tomam lugar ao seu lado quando eles se assentam"*.
 
-Sacerdotes brâmanes, iniciados nos mistérios sagrados, preparavam indivíduos chamados "faquires" para a obtenção dos mais notáveis fenômenos mediúnicos:
+*brâmanes: membros da alta casta da sociendade hindu na Índia.*
+
+Sacerdotes brâmanes, iniciados nos mistérios sagrados, preparavam indivíduos chamados "**faquires**" para a obtenção dos mais notáveis fenômenos mediúnicos:
 -  levitação
 -  o estado sonambúlico até o nível de êxtase
 - a insensibilidade hipnótica à dor
@@ -21,19 +27,21 @@ Sacerdotes brâmanes, iniciados nos mistérios sagrados, preparavam indivíduos 
 
 No Egito antigo, os **magos** dos faraós **evocavam os morto**s e muitos comercializavam os dons de comunicabilidade com os mundos invisíveis.
 
+MOISÉS FOI UM INICIADO.
+
 A iniciação nos templos egípcios era cercada de numerosos obstáculos e exigia-se o juramento de sigilo.
 
 [...]Todos os historiadores estão de acordo em atribuir aos sacerdotes do antigo Egito poderes que pareciam sobrenaturais e misteriosos. [...]
 
-[...] Os sacerdotes do antigo Egito eram tidos como pessoas sobrenaturais, em face dos poderes mediúnicos que eram misturados maliciosamente com práticas mágicas [...]
+[...] Os sacerdotes do antigo Egito eram tidos como pessoas sobrenaturais, em face dos **poderes mediúnicos** que eram misturados maliciosamente com **práticas mágicas** [...]
 
 #### A MEDIUNIDADE NA SUMÉRIA, BABILÔNIA E GRÉCIA ANTIGA
 
-A medicina entre os **sumarianos** era um curioso misto de ervanaria e magia, cujo receituário consistia principalmente em feitiços para exorcizar os maus espíritos que acreditavam ser a causa das moléstias.
+A medicina entre os **sumarianos** era um curioso misto de **ervanaria e magia**, cujo receituário consistia principalmente em feitiços para **exorcizar os maus espíritos** que acreditavam ser a causa das moléstias.
 
 Já os **babilônios primitivo**s viviam cercados de superstições. **Acreditavam que hordas de espíritos malévolos se escondiam na escuridão** e cruzavam os ares, espalhando em seu caminho o terror e a destruição, para os quais a única defesa eram os sacrifícios e os sortilégios mágicos.
 
-**Na Grécia, a crença nas evocações era geral**. Todos os templos possuíam as chamadas "**pitonisas**", encarregadas de proferir oráculos evocando os deuses, mas às vezes o consultante queria ele próprio ver e falar com a "sombra" desejada e, como na Judéia, conseguia-se colocá-lo em comunicação com o ser ao qual desejava interrogar (Delane, 1937).
+**Na Grécia, a crença nas evocações era geral**. Todos os templos possuíam as chamadas "**pitonisas**", encarregadas de proferir oráculos evocando os deuses, mas às vezes o consultante queria ele próprio ver e **falar com a "sombra" desejada** e, como na Judéia, conseguia-se colocá-lo em comunicação com o ser ao qual desejava interrogar (Delane, 1937).
 
 #### A MEDIUNIDADE NOS CELTAS
 
@@ -44,16 +52,10 @@ Os **celtas, povo pré-histórico** [...] possuíram **grupos fechados** de sace
 ***Curiosidade espírita:***
 Segundo o espírito, de Zéfiro, aproximadamente no ano 100 a.C., Denizar Rivail foi um chefe druida. Marcou tanto essa etapa reencarnatória que o codificador decidiu assinar suas obras espíritas com o nome de Allan Kardec.
 
-
 #### ORÁCULOS GREGOS E ROMANOS
 
 No mundo **greto-romano**, um dos meios mais difundidos foram os **oráculos** [...]
-
 Os oráculos eram núcleos de **intercambio medianímico** onde trabalhavam sibilas [...]
-
-	- 
-- A intuição é o tipo de mediunidade primordial, ela que permitiu o progresso da humanidade.
-
   
 #### A MEDIUNIDADE NA BIBLIA
 
@@ -124,7 +126,7 @@ Livro: Emmanuel
 
 ---
 
-Mediunidade é vida, não fenômeno!
+**Mediunidade é vida, não fenômeno!**
 
 [...]
 O médium, para servir a Jesus de modo positivo e eficiente, no campo da Humanidade, precisa afeiçoar-se à instrução, ao conhecimento, ao preparo e à própria melhoria, a fim de que se faça filtro de luz e paz, elevação e engrandecimento para a vida e para o caminho  as criaturas.
