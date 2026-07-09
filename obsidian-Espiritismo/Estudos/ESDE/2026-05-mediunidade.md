@@ -1,5 +1,23 @@
 # A História da mediunidade
 
+## LE
+
+### Mundo normal primitivo.
+
+[[84]]. Os Espíritos constituem um mundo à parte, fora aquele que vemos?  
+  “Sim, o mundo dos Espíritos, ou das inteligências incorpóreas.”
+
+ 
+ [[85]] Qual dos dois, o mundo espírita ou o mundo corpóreo, é o principal, na ordem das coisas?  
+  
+“O mundo espírita, que preexiste e sobrevive a tudo.”
+
+[[86]] O mundo corporal poderia deixar de existir, ou nunca ter existido, sem que isso alterasse a essência do mundo espírita?  
+  
+“Decerto. Eles são independentes; contudo, é incessante a correlação entre ambos, porquanto um sobre o outro incessantemente reagem.”
+
+---
+
 Desde o aparecimento da raça humana, esta reverenciou algo, criou ritos religiosos/mortuários.
 
 ## O que é mediunidade?

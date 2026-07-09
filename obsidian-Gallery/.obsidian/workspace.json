@@ -25,16 +25,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/finance/02-navigation.md",
+                "file": "projects/Gallery project architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-navigation"
+              "title": "Gallery project architecture"
+            }
+          },
+          {
+            "id": "4e1f8905f15b0829",
+            "type": "leaf",
+            "state": {
+              "type": "diagram",
+              "state": {
+                "file": "projects/BookBlog/mockups.svg"
+              },
+              "icon": "lucide-file",
+              "title": "mockups"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,10 +205,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "51195008d3c17b51",
+  "active": "4e1f8905f15b0829",
   "lastOpenFiles": [
-    "projects/finance/01 - brand-and-logo.md",
+    "projects/BookBlog/_notes.md",
+    "projects/BookBlog/mockups.svg",
+    "projects/BookBlog/mockups.md",
+    "projects/Gallery project architecture.md",
     "projects/finance/02-navigation.md",
+    "projects/BookBlog",
+    "projects/finance/01 - brand-and-logo.md",
     "projects/finance/images/fin-app-example-3-levels.png",
     "projects/finance/images/fin-app-example-2-levels.png",
     "projects/finance/account-pages.md",
@@ -207,7 +224,6 @@
     "projects/mining/Mine Fleet AI Intelligence System.md",
     "projects/mining/about-the-model-1.md",
     "projects/mining/about-the-model-2 -llms-local.md",
-    "projects/Gallery project architecture.md",
     "projects/mining/_draft.md",
     "projects/mining",
     "2026-04-04.md",
