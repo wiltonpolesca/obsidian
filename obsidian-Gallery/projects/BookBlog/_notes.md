@@ -17,13 +17,23 @@
 - https://blog.kleinpixelagency.com/custom-blogging-system-with-react-and-firebase-4a1b1f50aa54
 ## Angular
 
+### domternal
+
 - https://domternal.dev/
 	- https://domternal.dev/tutorials/rich-text-in-angular-reactive-forms/
-- https://stackblitz.com/edit/angular-markdown-editor-jira?file=src%2Fapp%2Fapp.component.ts
-- https://jfcere.github.io/ngx-markdown/get-started
-- https://sibiraj-s.github.io/ngx-editor/#/migration
+
+### Markdown
+
+-  https://stackblitz.com/edit/angular-markdown-editor-jira?file=src%2Fapp%2Fapp.component.ts
+-  https://jfcere.github.io/ngx-markdown/get-started
 - https://jfcere.github.io/ngx-markdown/get-started
 	- https://stackblitz.com/edit/ngx-markdown?file=package.json
+
+### Outros
+
+- https://sibiraj-s.github.io/ngx-editor/#/migration
+
+---
 
 - https://github.com/mehulk05/Angular-Blogging-App
 -

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_inbox/Notes.md",
+                "file": "_notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "_notes"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "873a21df88e085dd",
   "lastOpenFiles": [
+    "_inbox/Notes.md",
     "_inbox/des-ouvres-artitistic.md",
     "_inbox/_a-renforcer.md",
     "Untitled.md",
