@@ -1,4 +1,5 @@
 Servidores para testar o projeto DGST:
+- Oficial (oru3): [Swagger UI](http://10.106.28.65:2901/docs/index.html)
 - [http://10.106.28.66:2901/docs/index.html](http://10.106.28.66:2901/docs/index.html "http://10.106.28.66:2901/docs/index.html")
 - [http://10.106.28.227:2901/docs/index.html](http://10.106.28.66:2901/docs/index.html "http://10.106.28.66:2901/docs/index.html")
 
@@ -6,6 +7,10 @@ Server-Creds
 - User name: admin
 - Pwd: cyme1234
 
+---
+
+Cyme.Model.Enum.DataSourceMainTypestringEnum:  
+[ NotDefined, FileDS, EquipmentDS, NetworkDS, ProjectDS, RepositoryDS, ProfileDS, BillingDS, ResultDS, ConfigurationDS ]
 
 ---
 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Resourses/Daily notes/2026-06-19.md",
-                "mode": "preview",
+                "file": "Sans titre 1.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-19"
+              "title": "Sans titre 1"
             }
           }
         ]
@@ -84,12 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ca3ff4f0a5ba4f64",
@@ -222,32 +222,37 @@
   },
   "active": "acafe341558c9119",
   "lastOpenFiles": [
-    "99 - Permanent/VMs.md",
+    "1 - Resourses/Daily notes/2026-07-13.md",
+    "1 - Resourses/Daily notes/2026-07-10.md",
+    "80 - Clients/ORU/Sans titre.md",
+    "80 - Clients/ORU/CYMDI-5751.md",
+    "1 - Resourses/Daily notes/2026-07-06.md",
+    "_notes.md",
+    "_sprint-meetings.md",
+    "Sans titre 1.md",
+    "80 - Clients/ORU/oru-dgst.md",
+    "1 - Resourses/Daily notes/2026-07-02.md",
+    "2 - Projects/Gateway-Modernization/Avalonia.md",
+    "1 - Resourses/Daily notes/2026-06-25.md",
+    "Pasted image 20260623100906.png",
+    "2 - Projects/Gateway-Modernization/images/project-ui-modernization-avalonia-dependency-check-vs.png",
+    "2 - Projects/Gateway-Modernization/images/project-ui-modernization-avalonia-dependency-check.png",
+    "2 - Projects/Gateway-Modernization/images",
+    "1 - Resourses/Daily notes/2026-06-23.md",
+    "2 - Projects/Gateway-Modernization",
+    "99 - Permanent/FME/python/Sans titre.md",
+    "99 - Permanent/FME/python/script-reading-file.md",
+    "99 - Permanent/FME/python/python-script-equipment-udd-fme.md",
+    "1 - Resourses/usefull-links.md",
+    "Excalidraw/Drawing 2026-04-30 10.51.54.excalidraw.md",
+    "1 - Resourses/Daily notes/2026-06-22.md",
     "1 - Resourses/Daily notes/2026-06-19.md",
+    "99 - Permanent/VMs.md",
     "99 - Permanent/_Eaton important notes.md",
     "1 - Resourses/Daily notes/2026-06-18.md",
     "1 - Resourses/Daily notes/2026-06-15.md",
     "99 - Permanent/Eaton important notes.md",
     "1 - Resourses/Daily notes/2026-06-03.md",
-    "_notes.md",
-    "99 - Permanent/Eaton system and patterns notes.md",
-    "Sans titre.md",
-    "99 - Permanent/_gerar-vesão-gateway.md",
-    "_sprint-meetings.md",
-    "80 - Clients/ORU/CYMDI-5788.md",
-    "1 - Resourses/Daily notes/2026/01/2026-01-23.md",
-    "1 - Resourses/Daily notes/2026-06-12.md",
-    "Sans titre 1.md",
-    "1 - Resourses/Daily notes/2026-06-11.md",
-    "1 - Resourses/Daily notes/2026-06-10.md",
-    "1 - Resourses/Daily notes/2026-05-28.md",
-    "1 - Resourses/usefull-links.md",
-    "1 - Resourses/laptop-from-scratch.md",
-    "1 - Resourses/Learning/Mermaid/Example - gitaction workflos diagram.md",
-    "1 - Resourses/Daily notes/2026-06-09.md",
-    "1 - Resourses/Daily notes/2026-06-08.md",
-    "1 - Resourses/Daily notes/2026-06-04.md",
-    "Excalidraw/Drawing 2026-04-30 10.51.54.excalidraw.md",
     "80 - Clients/DLC",
     "Excalidraw",
     "Pasted image 20260423095959.png",
@@ -257,17 +262,12 @@
     "Pasted image 20260423090542.png",
     "Pasted image 20260423085459.png",
     "Pasted image 20260423084951.png",
-    "Pasted image 20260423090139.png",
     "99 - Permanent/FME/python",
     "1 - Resourses/Learning/FME/Sans titre",
     "99 - Permanent/FME",
     "1 - Resourses/Learning/FME",
     "1 - Resourses/Daily notes/2026/03",
     "80 - Clients/ORU",
-    "99 - Permanent/Tips/scripts/TestHasGitChangedFilesByExt.ps1",
-    "99 - Permanent/Tips/scripts/InvokeVcxprojUpdate.ps1",
-    "99 - Permanent/images/server-diagram.png",
-    "99 - Permanent/images/local-resources-windows-credentials.png",
     "Untitled.canvas"
   ]
 }
