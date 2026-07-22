@@ -11,14 +11,12 @@
             "id": "196a462284c7d340",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Udemy/2026 - Formação completa em IA/sessão 2/02 - Introdução a Classificação.md",
-                "mode": "source",
-                "source": false
+                "file": "section-3-correlacão-como-constuir-a-linha.png"
               },
-              "icon": "lucide-file",
-              "title": "02 - Introdução a Classificação"
+              "icon": "lucide-image",
+              "title": "section-3-correlacão-como-constuir-a-linha"
             }
           }
         ]
@@ -185,18 +183,22 @@
   },
   "active": "196a462284c7d340",
   "lastOpenFiles": [
+    "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-regressão-linear.png",
+    "Udemy/2026 - Formação completa em IA/sessão 3/01 - Introdução a correlação e regressão linear.md",
+    "section-3-correlacão-como-constuir-a-linha.png",
+    "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-correlação-coeficiente-de-determinação-exemplo-1.png",
+    "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-correlação-coeficiente-de-determinação.png",
+    "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-correlação-força.png",
+    "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-correlação-força.png",
+    "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-correlação.png",
+    "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3 - gráfico de dispersão.png",
     "Udemy/2026 - Formação completa em IA/_Instructions.md",
+    "Udemy/2026 - Formação completa em IA/sessão 3/imgs",
+    "Udemy/2026 - Formação completa em IA/sessão 3",
+    "Udemy/2026 - Formação completa em IA/sessão 2/01 - Fundamentos de ML.md",
+    "Udemy/2026 - Formação completa em IA/sessão 2/02 - Introdução a Classificação.md",
     "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-product-recommendation.png",
     "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-cross-validation.png",
-    "Udemy/2026 - Formação completa em IA/sessão 2/02 - Introdução a Classificação.md",
-    "Udemy/2026 - Formação completa em IA/sessão 2/01 - Fundamentos de ML.md",
-    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-supervisoned-vs-no-supervisioned.png",
-    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-example-client-segmentation.png",
-    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-regression-house-price.png",
-    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-ml-types.png",
-    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-data-structure.png",
-    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-using-the-model.png",
-    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-model.png",
     "Udemy/2026 - Formação completa em IA/sessão 2/imgs",
     "Sans titre.base",
     "Udemy/2026 - Formação completa em IA/env-validation.ipynb",
@@ -209,7 +211,6 @@
     "Udemy/Oracle/Seção-2/Section 2 - lab - 1.md",
     "Udemy/DBA Oracle curso completo/Seção-2",
     "Bienvenue.md",
-    "Udemy/DBA Oracle curso completo",
-    "Udemy"
+    "Udemy/DBA Oracle curso completo"
   ]
 }

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03617493338dca23",
+        "id": "6de81eb574e10daf",
         "type": "tabs",
         "children": [
           {
-            "id": "918713206e9dd383",
+            "id": "ee2439af2d36add8",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -170,18 +170,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
-  "active": "af7eb10036045968",
+  "active": "ee2439af2d36add8",
   "lastOpenFiles": [
     "PromptsIA/copilot.md",
+    "tips/c#/add-named-dependency-to-DI.md",
+    "tips/c#",
+    "tips",
     "PromptsIA/claude.md",
     "PromptsIA/LLMs-copilot-architecture-doc.md",
     "git/commands.md",
@@ -211,11 +214,9 @@
     "Databases/Oracle",
     "Databases",
     "z-FAQ.md",
-    "useful-links.md",
     "git",
     "docker/services",
     "docker",
-    "diagrams",
-    "dotnet"
+    "diagrams"
   ]
 }

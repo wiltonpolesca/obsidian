@@ -37,3 +37,22 @@ all is 23 KVa
 Salut Stéphane, c'est tu qui travailles sur le document concepteur pour importer les sous-stations client DLC ?
 Si oui, peux-tu me faire savoir quand tu as quelque chose de prêt pour que je puisse travailler sur le script FME ?
 Jimmy m'a suggéré d'utiliser le script "Extrat.fmw" comme base, mais je pense qu'il existe des différences lors de l'importation des données
+
+---
+
+## Dependencies
+
+### Config
+
+### Extract
+
+### GatewayData
+
+- cyme.framework.esri 1.5.2.29
+- cyme.framework.gateway 1.18.5.28
+- cyme.framework.utils 1.5.3.25
+- esri.arcgis 10.8.27
+
+### GatewayLogic
+
+
