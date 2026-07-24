@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80 - Clients/DLC/_dicas.md",
+                "file": "80 - Clients/DLC/_FME.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_dicas"
+              "title": "_FME"
             }
           }
         ]
@@ -212,13 +212,19 @@
   },
   "active": "9eab1a09c619defb",
   "lastOpenFiles": [
-    "80 - Clients/DLC/_notes.md",
     "80 - Clients/DLC/_dicas.md",
+    "80 - Clients/DLC/_notes.md",
+    "99 - Permanent/FME/map-design-doc-to-output-writer.md",
+    "80 - Clients/DLC/_FME.md",
+    "80 - Clients/ORU/oru-dgst.md",
+    "80 - Clients/ORU/Infos.md",
+    "80 - Clients/ORU/Sans titre.md",
+    "1 - Resourses/Daily notes/2026-05-05.md",
     "1 - Resourses/Daily notes/2026-07-22.md",
+    "1 - Resourses/Daily notes/2026-07-23.md",
+    "1 - Resourses/Daily notes/2026-07-24.md",
     "1 - Resourses/Daily notes/2026-03-27.md",
     "99 - Permanent/Eaton system and patterns notes.md",
-    "80 - Clients/ORU/oru-dgst.md",
-    "1 - Resourses/Daily notes/2026-05-05.md",
     "1 - Resourses/Daily notes/2026-05-27.md",
     "1 - Resourses/Daily notes/2026-05-28.md",
     "1 - Resourses/Daily notes/2026-05-29.md",
@@ -232,12 +238,6 @@
     "1 - Resourses/Daily notes/2026-06-15.md",
     "1 - Resourses/Daily notes/2026-07-02.md",
     "1 - Resourses/Daily notes/2026-07-20.md",
-    "1 - Resourses/laptop-from-scratch.md",
-    "1 - Resourses/usefull-links.md",
-    "2 - Projects/cymdist plugin/Integration-Test-Architecture-Technical-Note.md",
-    "2 - Projects/Gateway-Modernization/Avalonia.md",
-    "_notes.md",
-    "Excalidraw/Drawing 2026-04-30 10.51.54.excalidraw.md",
     "Pasted image 20260623100906.png",
     "2 - Projects/Gateway-Modernization/images/project-ui-modernization-avalonia-dependency-check-vs.png",
     "2 - Projects/Gateway-Modernization/images/project-ui-modernization-avalonia-dependency-check.png",
