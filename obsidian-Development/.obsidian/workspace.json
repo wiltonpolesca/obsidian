@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee2439af2d36add8",
+            "id": "84d3ad3329fd4444",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ia/copilot/github/copilot-instructions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "copilot-instructions"
             }
           }
         ]
@@ -179,13 +183,26 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "ee2439af2d36add8",
+  "active": "84d3ad3329fd4444",
   "lastOpenFiles": [
+    "ia/claude/_notes.md",
+    "ia/claude/claude/skills/ef-core-query-optimizer/SKILL.md",
+    "ia/copilot/github/instructions/project.instructions.md",
+    "ia/copilot/github/copilot-instructions.md",
+    "ia/copilot/github/Sans titre",
+    "ia/copilot/github/instructions",
+    "ia/copilot/github",
+    "ia/copilot",
+    "ia/claude/claude/agents",
+    "ia/claude/net10_CLAUDE.md.md",
+    "ia/claude/claude/skills/ef-core-query-optimizer",
+    "ia/claude/claude/skills",
+    "ia/claude/claude",
+    "PromptsIA/claude.md",
+    "ia/claude",
+    "ia",
     "PromptsIA/copilot.md",
     "tips/c#/add-named-dependency-to-DI.md",
-    "tips/c#",
-    "tips",
-    "PromptsIA/claude.md",
     "PromptsIA/LLMs-copilot-architecture-doc.md",
     "git/commands.md",
     "Databases/Oracle/_drafts.md",
@@ -204,19 +221,6 @@
     "PromptsIA/LLMS-integration-draft.md",
     "PromptsIA/LLMS-creating-one-1.md",
     "PromptsIA/LLMS-creating-one-3.md",
-    "PromptsIA/LLMS-creating-one-2.md",
-    "PromptsIA/images/skills.png",
-    "PromptsIA/images",
-    "Diagrams/Examples.md",
-    "Diagrams/mermaid.md",
-    "Databases/PI-System/_notes.md",
-    "Databases/PI-System",
-    "Databases/Oracle",
-    "Databases",
-    "z-FAQ.md",
-    "git",
-    "docker/services",
-    "docker",
-    "diagrams"
+    "PromptsIA/images/skills.png"
   ]
 }
