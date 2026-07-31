@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ia/copilot/github/copilot-instructions.md",
+                "file": "PromptsIA/skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "copilot-instructions"
+              "title": "skills"
             }
           }
         ]
@@ -185,8 +185,17 @@
   },
   "active": "84d3ad3329fd4444",
   "lastOpenFiles": [
+    "PromptsIA/LLM_creating-one-4.md",
+    "PromptsIA/copilot.md",
+    "PromptsIA/images/skills.png",
+    "ia/claude/net10_CLAUDE.md.md",
     "ia/claude/_notes.md",
     "ia/claude/claude/skills/ef-core-query-optimizer/SKILL.md",
+    "tips/c#/add-named-dependency-to-DI.md",
+    "_notes.md",
+    "z-FAQ.md",
+    "useful-links.md",
+    "new-machine-from-scratch.md",
     "ia/copilot/github/instructions/project.instructions.md",
     "ia/copilot/github/copilot-instructions.md",
     "ia/copilot/github/Sans titre",
@@ -194,20 +203,15 @@
     "ia/copilot/github",
     "ia/copilot",
     "ia/claude/claude/agents",
-    "ia/claude/net10_CLAUDE.md.md",
     "ia/claude/claude/skills/ef-core-query-optimizer",
     "ia/claude/claude/skills",
     "ia/claude/claude",
     "PromptsIA/claude.md",
     "ia/claude",
     "ia",
-    "PromptsIA/copilot.md",
-    "tips/c#/add-named-dependency-to-DI.md",
     "PromptsIA/LLMs-copilot-architecture-doc.md",
     "git/commands.md",
     "Databases/Oracle/_drafts.md",
-    "new-machine-from-scratch.md",
-    "_notes.md",
     "docker/services/oracle.md",
     "PromptsIA/skills.md",
     "PromptsIA/LLMs-copilot-context.md",
@@ -216,11 +220,6 @@
     "PromptsIA/LLMS-integration-one-7.md",
     "PromptsIA/LLMS-integration-one-6.md",
     "PromptsIA/LLMS-integration-one-5.md",
-    "PromptsIA/LLMS-integration-one-4.md",
-    "PromptsIA/LLM_creating-one-4.md",
-    "PromptsIA/LLMS-integration-draft.md",
-    "PromptsIA/LLMS-creating-one-1.md",
-    "PromptsIA/LLMS-creating-one-3.md",
-    "PromptsIA/images/skills.png"
+    "PromptsIA/LLMS-integration-one-4.md"
   ]
 }
