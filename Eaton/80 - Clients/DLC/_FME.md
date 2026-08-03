@@ -1,32 +1,29 @@
 ## 1.3. - Substation (as circuits)
 
-| Property | Problem/Comment           |
-| -------- | ------------------------- |
-| Group1   | property `aor` is missing |
-
 ## 1.3.2 - Substation sources
 
 **GIS Feature: ElectricDistributionDevice where** **AssetGroup****=428/Controller**
 
-CYME_SwitchableShuntBank?
+CYME_Source
 
-| Property   | Problem/Comment                                             |
-| ---------- | ----------------------------------------------------------- |
-| HeadNodeID | Property does not exist in `CYME_SwitchableShuntBank`       |
-| SourceID   | `StructureBoundary.name`?<br>`voltage`? (operating_voltage) |
+| Property   | Problem/Comment                   |
+| ---------- | --------------------------------- |
+| SourceID   | EquipmentID? ???                  |
+| HeadNodeID | Is the destination TopoNodeID ??? |
+|            |                                   |
 
-Note A: If controller is in a high-voltage substation (138 kV or 345 kV), use controller as the source. Group multiple sources together at 1 single node.
-If controller OPERATINGVOLTAGE = 23 kV, use controller as the source, but don’t merge multiple controllers together.
+It requires more information:
+>*Note A: If controller is in a high-voltage substation (138 kV or 345 kV), use controller as the source. Group multiple sources together at 1 single node.*
+>*If controller OPERATINGVOLTAGE = 23 kV, use controller as the source, but don’t merge multiple controllers together.*
 
-(how to do it???)
 
-## 1.3.3 Subnetwords (nested views)
+## 1.3.3 Subnetworks (nested views)
 
-**GIS Feature:** **StructureBoundary where** **ASSETGROUP****=303/Substation Boundary and** **structure_owner****=DLC/”Duquesne Light Co”, that appears in the JSON for a substation.**
+CYME_SubNetwork
 
-**GIS Feature:** **StructureBoundary where** **ASSETGROUP****=303/Substation Boundary, that appears in the JSON for a subtransmission line, without any Busbars assigned to a SubnetworkName ending in “SS” (nested view without a substation)**
+It requires more information:
 
-CYME_SubNetwork?
+>***GIS Feature:** **StructureBoundary where** **ASSETGROUP***=303/Substation Boundary, that appears in the JSON for a subtransmission line, without any Busbars assigned to a SubnetworkName ending in “SS” (nested view without a substation)***
 
 | Property     | Problem/Comment                                                     |
 | ------------ | ------------------------------------------------------------------- |

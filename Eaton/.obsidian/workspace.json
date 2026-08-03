@@ -10,19 +10,48 @@
           {
             "id": "9eab1a09c619defb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Resourses/Daily notes/2026-07-27.md",
+                "file": "99 - Permanent/FME/map-design-doc-to-output-writer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-07-27"
+              "title": "map-design-doc-to-output-writer"
+            }
+          },
+          {
+            "id": "aba97c0b40122546",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80 - Clients/DLC/_FME.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_FME"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +71,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -210,17 +241,20 @@
       "markdown-importer:Ouvrir l'importateur Markdown": false
     }
   },
-  "active": "9eab1a09c619defb",
+  "active": "aba97c0b40122546",
   "lastOpenFiles": [
+    "99 - Permanent/FME/map-design-doc-to-output-writer.md",
     "80 - Clients/DLC/_FME.md",
-    "1 - Resourses/Daily notes/2026-07-27.md",
+    "99 - Permanent/FME/FME-tranformers.md",
+    "1 - Resourses/Daily notes/2026-08-03.md",
     "80 - Clients/DLC/_dicas.md",
     "80 - Clients/DLC/_notes.md",
-    "99 - Permanent/FME/map-design-doc-to-output-writer.md",
+    "1 - Resourses/Daily notes/2026-05-05.md",
+    "1 - Resourses/Daily notes/2026-07-27.md",
+    "1 - Resourses/Daily notes/2026-07-31.md",
     "80 - Clients/ORU/oru-dgst.md",
     "80 - Clients/ORU/Infos.md",
     "80 - Clients/ORU/Sans titre.md",
-    "1 - Resourses/Daily notes/2026-05-05.md",
     "1 - Resourses/Daily notes/2026-07-22.md",
     "1 - Resourses/Daily notes/2026-07-23.md",
     "1 - Resourses/Daily notes/2026-07-24.md",
@@ -235,9 +269,6 @@
     "1 - Resourses/Daily notes/2026-04-30.md",
     "1 - Resourses/Daily notes/2026-04-29.md",
     "1 - Resourses/Daily notes/2026-04-08.md",
-    "1 - Resourses/Daily notes/2026-06-04.md",
-    "1 - Resourses/Daily notes/2026-06-15.md",
-    "1 - Resourses/Daily notes/2026-07-02.md",
     "Pasted image 20260623100906.png",
     "2 - Projects/Gateway-Modernization/images/project-ui-modernization-avalonia-dependency-check-vs.png",
     "2 - Projects/Gateway-Modernization/images/project-ui-modernization-avalonia-dependency-check.png",

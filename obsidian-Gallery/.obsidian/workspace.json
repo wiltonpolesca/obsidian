@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "90bbf5d1d0066dcc",
+        "id": "42b74407ea243d6b",
         "type": "tabs",
         "children": [
           {
-            "id": "f27f0ba2a689ecd2",
+            "id": "417f0332f60554c2",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "projects/finance/images/fin-app-icons.png"
-              },
-              "icon": "lucide-image",
-              "title": "fin-app-icons"
-            }
-          },
-          {
-            "id": "4e1f8905f15b0829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/01 - Brain storm/TASK-0002-Accounts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TASK-0002-Accounts"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -193,10 +178,11 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "6c5b2b0d7ec9fde7",
+  "active": "417f0332f60554c2",
   "lastOpenFiles": [
-    "Tasks/01 - Brain storm/TASK-0003-Transactions.md",
+    "projects/finance/images/fin-app-icons.png",
     "Tasks/01 - Brain storm/TASK-0002-Accounts.md",
+    "Tasks/01 - Brain storm/TASK-0003-Transactions.md",
     "Tasks/03 - To Do/TASK-0001-System-Desktop.md",
     "Tasks/TASK-xxxx - Template.md",
     "projects/Gallery project architecture.md",
@@ -219,7 +205,6 @@
     "projects/finance/images/fin-app-example-2-levels.png",
     "projects/finance/account-pages.md",
     "fin-app-suite.png",
-    "projects/finance/images/fin-app-icons.png",
     "projects/finance/images",
     "projects/mining/question-if-llm-is-a-good-idea.md",
     "projects/mining/Mine Fleet AI Intelligence System.md",
