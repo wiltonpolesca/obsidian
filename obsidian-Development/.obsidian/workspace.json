@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6de81eb574e10daf",
+        "id": "b350fe01c45329c7",
         "type": "tabs",
         "children": [
           {
-            "id": "84d3ad3329fd4444",
+            "id": "730f2a77241dc715",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PromptsIA/skills.md",
+                "file": "Creating DatabaseConnectionPicker/07 - Avalonia  - instructions to create a complex view.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "skills"
+              "title": "07 - Avalonia  - instructions to create a complex view"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -183,10 +185,20 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "84d3ad3329fd4444",
+  "active": "730f2a77241dc715",
   "lastOpenFiles": [
-    "PromptsIA/LLM_creating-one-4.md",
+    "Creating DatabaseConnectionPicker/_notes.md",
+    "Creating DatabaseConnectionPicker/07 - Avalonia  - instructions to create a complex view.md",
+    "Creating DatabaseConnectionPicker/06- Avalonia - Create component.md",
+    "Creating DatabaseConnectionPicker/05 - Extract parameters.md",
+    "Creating DatabaseConnectionPicker/03 - DBConnection tests.md",
+    "Creating DatabaseConnectionPicker/04 - Code review and documentation.md",
     "PromptsIA/copilot.md",
+    "Creating DatabaseConnectionPicker/02 - Sql parameter parser.md",
+    "Creating DatabaseConnectionPicker/01 - Component review.md",
+    "Creating DatabaseConnectionPicker",
+    "PromptsIA/skills.md",
+    "PromptsIA/LLM_creating-one-4.md",
     "PromptsIA/images/skills.png",
     "ia/claude/net10_CLAUDE.md.md",
     "ia/claude/_notes.md",
@@ -208,18 +220,9 @@
     "ia/claude/claude",
     "PromptsIA/claude.md",
     "ia/claude",
-    "ia",
     "PromptsIA/LLMs-copilot-architecture-doc.md",
     "git/commands.md",
     "Databases/Oracle/_drafts.md",
-    "docker/services/oracle.md",
-    "PromptsIA/skills.md",
-    "PromptsIA/LLMs-copilot-context.md",
-    "PromptsIA/LLMs-copilot-1.md",
-    "PromptsIA/LLMS-integration-dockercompose.md",
-    "PromptsIA/LLMS-integration-one-7.md",
-    "PromptsIA/LLMS-integration-one-6.md",
-    "PromptsIA/LLMS-integration-one-5.md",
-    "PromptsIA/LLMS-integration-one-4.md"
+    "docker/services/oracle.md"
   ]
 }

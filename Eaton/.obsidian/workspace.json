@@ -4,54 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3ef00d3d4ff89ace",
+        "id": "2e842f8e97c11a0f",
         "type": "tabs",
         "children": [
           {
-            "id": "9eab1a09c619defb",
+            "id": "7684829e02d80528",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Permanent/FME/map-design-doc-to-output-writer.md",
+                "file": "1 - Resourses/laptop-from-scratch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "map-design-doc-to-output-writer"
-            }
-          },
-          {
-            "id": "aba97c0b40122546",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "80 - Clients/DLC/_FME.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "_FME"
+              "title": "laptop-from-scratch"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "podman",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +77,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,16 +170,6 @@
             }
           },
           {
-            "id": "9c4d27e48bb0ed95",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
             "id": "e6f2cd04fc332b9c",
             "type": "leaf",
             "state": {
@@ -218,9 +180,19 @@
               "icon": "lucide-file-signature",
               "title": "Notes de bas de page"
             }
+          },
+          {
+            "id": "a810a15ab5412444",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -238,40 +210,49 @@
       "bases:Créer une nouvelle base": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "markdown-importer:Ouvrir l'importateur Markdown": false
+      "markdown-importer:Ouvrir l'importateur Markdown": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "workspaces:Gérer les espaces de travail": false
     }
   },
-  "active": "aba97c0b40122546",
+  "active": "7684829e02d80528",
   "lastOpenFiles": [
-    "99 - Permanent/FME/map-design-doc-to-output-writer.md",
+    "80 - Clients/DLC/_notes.md",
     "80 - Clients/DLC/_FME.md",
+    "80 - Clients/DLC/mind-map.excalidraw.md",
+    "80 - Clients/DLC/_dicas.md",
+    "80 - Clients/DLC/Weekly-Meetings/2026-08-04.md",
+    "80 - Clients/DLC/Images/Pasted image 20260804100700.png",
+    "80 - Clients/DLC/Weekly-Meetings",
+    "99 - Permanent/_Eaton important notes.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
+    "_notes.md",
+    "80 - Clients/DLC/Images",
+    "1 - Resourses/Daily notes/2026-08-04.md",
+    "Excalidraw/Drawing 2026-08-04 09.05.41.excalidraw.md",
+    "2 - Projects/Gateway-Modernization/Avalonia.md",
+    "2 - Projects/Gateway-Modernization/images/project-ui-modernization-avalonia-dependency-check-vs.png",
+    "2 - Projects/Gateway-Modernization/images/project-ui-modernization-avalonia-dependency-check.png",
+    "2 - Projects/cymdist plugin/Integration-Test-Architecture-Technical-Note.md",
+    "1 - Resourses/usefull-links.md",
+    "1 - Resourses/Learning/Mermaid/Example - gitaction workflos diagram.md",
+    "1 - Resourses/laptop-from-scratch.md",
+    "Excalidraw/Drawing 2026-08-04 09.00.50.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-04 08.57.32.excalidraw.md",
+    "99 - Permanent/FME/map-design-doc-to-output-writer.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Sans titre.canvas",
     "99 - Permanent/FME/FME-tranformers.md",
     "1 - Resourses/Daily notes/2026-08-03.md",
-    "80 - Clients/DLC/_dicas.md",
-    "80 - Clients/DLC/_notes.md",
     "1 - Resourses/Daily notes/2026-05-05.md",
     "1 - Resourses/Daily notes/2026-07-27.md",
     "1 - Resourses/Daily notes/2026-07-31.md",
     "80 - Clients/ORU/oru-dgst.md",
     "80 - Clients/ORU/Infos.md",
-    "80 - Clients/ORU/Sans titre.md",
-    "1 - Resourses/Daily notes/2026-07-22.md",
-    "1 - Resourses/Daily notes/2026-07-23.md",
-    "1 - Resourses/Daily notes/2026-07-24.md",
-    "1 - Resourses/Daily notes/2026-03-27.md",
-    "99 - Permanent/Eaton system and patterns notes.md",
-    "1 - Resourses/Daily notes/2026-05-27.md",
-    "1 - Resourses/Daily notes/2026-05-28.md",
-    "1 - Resourses/Daily notes/2026-05-29.md",
-    "1 - Resourses/Daily notes/2026-05-22.md",
-    "1 - Resourses/Daily notes/2026-05-04.md",
-    "1 - Resourses/Daily notes/2026-05-01.md",
-    "1 - Resourses/Daily notes/2026-04-30.md",
-    "1 - Resourses/Daily notes/2026-04-29.md",
-    "1 - Resourses/Daily notes/2026-04-08.md",
     "Pasted image 20260623100906.png",
-    "2 - Projects/Gateway-Modernization/images/project-ui-modernization-avalonia-dependency-check-vs.png",
-    "2 - Projects/Gateway-Modernization/images/project-ui-modernization-avalonia-dependency-check.png",
     "2 - Projects/Gateway-Modernization/images",
     "2 - Projects/Gateway-Modernization",
     "80 - Clients/DLC",
@@ -281,14 +262,8 @@
     "Pasted image 20260423095657.png",
     "Pasted image 20260423090907.png",
     "Pasted image 20260423090542.png",
-    "Pasted image 20260423085459.png",
-    "Pasted image 20260423084951.png",
     "99 - Permanent/FME/python",
     "1 - Resourses/Learning/FME/Sans titre",
-    "99 - Permanent/FME",
-    "1 - Resourses/Learning/FME",
-    "1 - Resourses/Daily notes/2026/03",
-    "80 - Clients/ORU",
     "Untitled.canvas"
   ]
 }
