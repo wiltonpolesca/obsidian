@@ -1,4 +1,3 @@
-
 # Os trabalhadores da vinha
 
 ## Ideias principais

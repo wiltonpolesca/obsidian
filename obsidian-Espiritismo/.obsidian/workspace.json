@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48628f710c1e9878",
+        "id": "88b5a244ce4b3c3d",
         "type": "tabs",
         "children": [
           {
-            "id": "9915728041036ba7",
+            "id": "28f805b141998f9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +21,8 @@
               "title": "Psicometria"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,10 +226,7 @@
     "Livros/Livro dos Espíritos/472.md",
     "Personagens/Filósofos/Platão.md",
     "Personagens/Filósofos/Sócrates.md",
-    "Personagens/Filósofos/Marco Aurélio.md",
-    "Personagens/Filósofos/Sêneca.md",
     "Personagens/Filósofos",
-    "Estudos/ESDE/2026-05-mediunidade.md",
     "Assuntos",
     "Livros/Livro dos Espíritos/86.md",
     "Livros/Livro dos Espíritos/85.md",
@@ -243,12 +241,9 @@
     "Estudos/Tipos de Mediunidade",
     "Estudos/ESDE/images/mar-de-vibracoes.png",
     "Estudos/ESDE/images/afinidade-vibracional.png",
-    "Untitled.canvas",
     "_inbox/ideias-estudo-mensal",
     "Livros/Roteiro-Chico Xavier",
     "Livros/Roteiro-Chico Xavier",
-    "Estudos/Reencarnação",
-    "Livros/Livro dos Espíritos/Primeiro Livro - Causas primárias/Capítulo 1 - Deus/Provas da existência de Deus",
-    "Livros/Livro dos Espíritos/Primeiro Livro - Causas primárias/Capítulo 1 - Deus/Deus e o Infinito"
+    "Estudos/Reencarnação"
   ]
 }
