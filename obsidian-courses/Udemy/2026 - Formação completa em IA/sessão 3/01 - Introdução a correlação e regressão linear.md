@@ -60,3 +60,4 @@ Qual a previsão de um cliente com 45 anos de idade?
 - Cria-se a reta e obtem-se o valor na intersecção entre os eixos x e y na idade de 45 anos.
 
 ![[section-3-correlacão-como-constuir-a-linha.png]]
+

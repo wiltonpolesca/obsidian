@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7cf37ce32e9b3604",
+        "id": "fe9c8f97125017cd",
         "type": "tabs",
         "children": [
           {
-            "id": "eb8bc6944608165e",
+            "id": "883fc6cac29a4e68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating DatabaseConnectionPicker/04 - Code review and documentation.md",
+                "file": "ia/copilot/_personal preferences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Code review and documentation"
+              "title": "_personal preferences"
             }
           }
         ]
@@ -185,48 +185,48 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "eb8bc6944608165e",
+  "active": "883fc6cac29a4e68",
   "lastOpenFiles": [
-    "Creating DatabaseConnectionPicker/04 - Code review and documentation.md",
-    "Creating DatabaseConnectionPicker/08 - Check the component and improvements suggestions.md",
-    "Creating DatabaseConnectionPicker/07 - Avalonia  - instructions to create a complex view.md",
+    "Projects/Gateway-V2/01 - Service Architecture.md",
+    "ia/copilot/how to structure prompts/Skills.md",
+    "ia/copilot/how to structure prompts/example coding task.md",
+    "ia/copilot/how to structure prompts/Agents.md",
+    "ia/copilot/how to structure prompts/_copilot-maturity-model.md",
+    "ia/copilot/how to structure prompts/skills/_notes.md",
+    "learn.microsoft.com.md",
+    "new-machine-from-scratch.md",
+    "Projects/Creating DatabaseConnectionPicker/_notes.md",
+    "Projects/Gateway-V2",
+    "Projects",
+    "ia/copilot/_personal preferences.md",
+    "ia/copilot/github/copilot-instructions.md",
+    "ia/copilot/how to structure prompts/skills",
+    "ia/copilot/how to structure prompts",
+    "ia/copilot/github/instructions/project.instructions.md",
+    "Projects/Creating DatabaseConnectionPicker/04 - Code review and documentation.md",
+    "Projects/Creating DatabaseConnectionPicker/08 - Check the component and improvements suggestions.md",
+    "Projects/Creating DatabaseConnectionPicker/07 - Avalonia  - instructions to create a complex view.md",
     "docker/certifications - zscaler.md",
     "Pasted image 20260811084929.png",
     "docker/imgs/getting-certificate-2.png",
     "docker/imgs/getting-certificate-1.png",
     "docker/imgs",
     "Pasted image 20260811084739.png",
-    "Creating DatabaseConnectionPicker/_notes.md",
-    "Creating DatabaseConnectionPicker/06- Avalonia - Create component.md",
-    "Creating DatabaseConnectionPicker/05 - Extract parameters.md",
-    "Creating DatabaseConnectionPicker/03 - DBConnection tests.md",
+    "Projects/Creating DatabaseConnectionPicker/06- Avalonia - Create component.md",
+    "Projects/Creating DatabaseConnectionPicker/05 - Extract parameters.md",
+    "Projects/Creating DatabaseConnectionPicker/03 - DBConnection tests.md",
     "PromptsIA/copilot.md",
-    "Creating DatabaseConnectionPicker/02 - Sql parameter parser.md",
-    "Creating DatabaseConnectionPicker/01 - Component review.md",
-    "Creating DatabaseConnectionPicker",
+    "Projects/Creating DatabaseConnectionPicker/02 - Sql parameter parser.md",
+    "Projects/Creating DatabaseConnectionPicker/01 - Component review.md",
+    "Projects/Creating DatabaseConnectionPicker",
     "PromptsIA/skills.md",
     "PromptsIA/LLM_creating-one-4.md",
     "PromptsIA/images/skills.png",
     "ia/claude/net10_CLAUDE.md.md",
     "ia/claude/_notes.md",
-    "ia/claude/claude/skills/ef-core-query-optimizer/SKILL.md",
-    "tips/c#/add-named-dependency-to-DI.md",
-    "_notes.md",
-    "z-FAQ.md",
-    "useful-links.md",
-    "new-machine-from-scratch.md",
-    "ia/copilot/github/instructions/project.instructions.md",
-    "ia/copilot/github/copilot-instructions.md",
     "ia/copilot/github/Sans titre",
     "ia/copilot/github/instructions",
     "ia/copilot/github",
-    "ia/copilot",
-    "ia/claude/claude/agents",
-    "ia/claude/claude/skills/ef-core-query-optimizer",
-    "ia/claude/claude/skills",
-    "ia/claude/claude",
-    "PromptsIA/claude.md",
-    "PromptsIA/LLMs-copilot-architecture-doc.md",
-    "git/commands.md"
+    "ia/copilot"
   ]
 }

@@ -28,11 +28,12 @@ Default connection:
   **user**: cyme\gateway
   **pwd**: gateway
 
-| Client                               | VM                      |
-| ------------------------------------ | ----------------------- |
-| Softwares to install, including cyme | pnq2448-01.cyme.local   |
-| CYMDist plugin tests                 | vm-PluginFME.cyme.local |
-| Artifacts                            |                         |
+| Client                               | VM                                      |
+| ------------------------------------ | --------------------------------------- |
+| Softwares to install, including cyme | pnq2448-01.cyme.local                   |
+| CYMDist plugin tests                 | vm-PluginFME.cyme.local                 |
+| Artifacts                            |                                         |
+| builds                               | \\vm-cymbuilder.cyme.local\Project_InQA |
 
 ## Configurations
 

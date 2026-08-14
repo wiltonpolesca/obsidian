@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assuntos/Desencarnação coletiva.md",
+                "file": "Estudos/Tipos de Mediunidade/Psicometria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desencarnação coletiva"
+              "title": "Psicometria"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -207,13 +209,14 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "9915728041036ba7",
+  "active": "b893a68c721b70fa",
   "lastOpenFiles": [
+    "Assuntos/Desencarnação coletiva.md",
+    "Estudos/Tipos de Mediunidade/Psicometria.md",
     "Assuntos/Regeneração Planetária.md",
     "Estudos/Reencarnação/2026-04-reencarnacao-e-uma-bencao.md",
     "_inbox/_2 - como-preparar-aula.md",
     "_inbox/_1 - como-preparar-aula.md",
-    "Assuntos/Desencarnação coletiva.md",
     "Livros/Livro dos Espíritos/741.md",
     "Livros/Livro dos Espíritos/740.md",
     "Livros/Livro dos Espíritos/739.md",
@@ -236,7 +239,6 @@
     "84.md",
     "Untitled 3.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Estudos/Tipos de Mediunidade/Intuição",
     "Estudos/Tipos de Mediunidade",
     "Estudos/ESDE/images/mar-de-vibracoes.png",

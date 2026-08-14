@@ -11,12 +11,14 @@
             "id": "196a462284c7d340",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-correlacão-como-constuir-a-linha.png"
+                "file": "Udemy/2026 - Formação completa em IA/sessão 3/03 - Estudo de algoritmos de machine learning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "section-3-correlacão-como-constuir-a-linha"
+              "icon": "lucide-file",
+              "title": "03 - Estudo de algoritmos de machine learning"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -181,13 +185,15 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "f5037963d1d6e357",
+  "active": "196a462284c7d340",
   "lastOpenFiles": [
-    "Udemy/2026 - Formação completa em IA/sessão 2/01 - Fundamentos de ML.md",
+    "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-linha-de-regressão.png",
+    "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-regressão-linear.png",
+    "Udemy/2026 - Formação completa em IA/sessão 3/03 - Estudo de algoritmos de machine learning.md",
+    "Udemy/2026 - Formação completa em IA/sessão 3/01 - Introdução a correlação e regressão linear.md",
     "Udemy/2026 - Formação completa em IA/_Instructions.md",
     "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-correlacão-como-constuir-a-linha.png",
-    "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-regressão-linear.png",
-    "Udemy/2026 - Formação completa em IA/sessão 3/01 - Introdução a correlação e regressão linear.md",
+    "Udemy/2026 - Formação completa em IA/sessão 2/01 - Fundamentos de ML.md",
     "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-correlação-coeficiente-de-determinação-exemplo-1.png",
     "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-correlação-coeficiente-de-determinação.png",
     "Udemy/2026 - Formação completa em IA/sessão 3/imgs/section-3-correlação-força.png",
@@ -198,7 +204,6 @@
     "Udemy/2026 - Formação completa em IA/sessão 3",
     "Udemy/2026 - Formação completa em IA/sessão 2/02 - Introdução a Classificação.md",
     "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-product-recommendation.png",
-    "Udemy/2026 - Formação completa em IA/sessão 2/imgs/section-2-cross-validation.png",
     "Udemy/2026 - Formação completa em IA/sessão 2/imgs",
     "Sans titre.base",
     "Udemy/2026 - Formação completa em IA/env-validation.ipynb",

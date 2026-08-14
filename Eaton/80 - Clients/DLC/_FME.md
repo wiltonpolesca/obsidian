@@ -49,6 +49,10 @@ CYME_ProtectiveDevice?
 |              |                                                                                                                           |
 |              |                                                                                                                           |
 
+### Changes by chat
+
+![[1.3.5-substation-switches-device-number-1.png]]
+
 ## 1.3.5 - Substation internal Breakers
 
 CYME_ProtectiveDevice?
@@ -63,7 +67,19 @@ ProtectiveDeviceType = 2 (Breaker)??
 
 ## 1.3.7 Substation internal reclosers
 
-| Property     | Problem/Comment                                                      |
-| ------------ | -------------------------------------------------------------------- |
-| State        | CYME_ProtectiveDevice does not has `State` property. (Connected = 0) |
-| EquipmentID  | ????                                                                 |
+| Property    | Problem/Comment                                                      |
+| ----------- | -------------------------------------------------------------------- |
+| State       | CYME_ProtectiveDevice does not has `State` property. (Connected = 0) |
+| EquipmentID | ????                                                                 |
+
+## 1.3.8 - Substation internal Breakers
+
+| Property    | Problem/Comment       |
+| ----------- | --------------------- |
+| EquipmentID | device_size not found |
+
+## 1.3.10 - Substation Shunt Capacitor
+
+| Property     | Problem/Comment      |
+| ------------ | -------------------- |
+| DeviceNumber | Sequence number ???? |
