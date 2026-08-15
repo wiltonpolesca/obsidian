@@ -47,7 +47,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "ae9bf6d25f6e7d6c",
@@ -191,23 +192,35 @@
               "icon": "lucide-file-signature",
               "title": "Notes de bas de page"
             }
+          },
+          {
+            "id": "cd613f2f5ee6d917",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "b893a68c721b70fa",
@@ -224,8 +237,6 @@
     "Livros/Livro dos Espíritos/738.md",
     "Livros/Livro dos Espíritos/737.md",
     "Livros/Livro dos Espíritos/472.md",
-    "Personagens/Filósofos/Platão.md",
-    "Personagens/Filósofos/Sócrates.md",
     "Personagens/Filósofos",
     "Assuntos",
     "Livros/Livro dos Espíritos/86.md",
@@ -241,9 +252,6 @@
     "Estudos/Tipos de Mediunidade",
     "Estudos/ESDE/images/mar-de-vibracoes.png",
     "Estudos/ESDE/images/afinidade-vibracional.png",
-    "_inbox/ideias-estudo-mensal",
-    "Livros/Roteiro-Chico Xavier",
-    "Livros/Roteiro-Chico Xavier",
-    "Estudos/Reencarnação"
+    "_inbox/ideias-estudo-mensal"
   ]
 }
