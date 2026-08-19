@@ -83,3 +83,8 @@ ProtectiveDeviceType = 2 (Breaker)??
 | Property     | Problem/Comment      |
 | ------------ | -------------------- |
 | DeviceNumber | Sequence number ???? |
+
+---
+
+VM-DBSQL2019.cyme.local\SQLServer2019
+DLC_96
