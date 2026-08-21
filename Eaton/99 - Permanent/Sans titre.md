@@ -19,8 +19,6 @@ Je ne crois pas que le prochain examen sera très différent du dernier que j'ai
 
 Apprendre le français à l'écrit est un défi et, probablement, j'ai besoin de plus d'encadrement et de temps que je n'en ai actuellement.
 
-Même si le cours offre des ateliers où nous pouvons pratiquer la conversation, il n'y a pas d'ateliers pour pratiquer l'écriture. Comme j'aime lire, j'ai un bon vocabulaire, mais je ne sais pas toujours l'utiliser correctement.
-
 Je vous remercie pour votre attention ainsi que pour le temps que vous m'avez consacré, mais j'ai décidé de mettre fin à ma participation au cours en ligne.
 
 Je vais poursuivre mes études en utilisant YouTube ainsi que quelques outils en ligne.
@@ -28,3 +26,16 @@ Je vais poursuivre mes études en utilisant YouTube ainsi que quelques outils en
 Merci beaucoup.
 
 Cordialement,
+
+
+Bonjour Mme Magali,
+
+J'ai beaucoup réfléchi et je ne pense pas que le prochain examen sera très différent du dernier que j'ai passé.
+
+Apprendre le français à l'écrit est un défi et j'ai probablement besoin de plus d'encadrement et de temps que je n'en ai actuellement.
+
+Je vous remercie pour votre attention ainsi que pour le temps que vous m'avez consacré, mais j'ai décidé de mettre fin à ma participation au cours en ligne.
+
+Je vais poursuivre mes études en utilisant YouTube ainsi que quelques outils en ligne.
+
+Merci beaucoup.
