@@ -30,7 +30,7 @@
                 "file": "Sem título.canvas",
                 "viewState": {
                   "x": 5.2976226806640625,
-                  "y": -161.094482421875,
+                  "y": 154.405517578125,
                   "zoom": 0
                 }
               },
@@ -55,7 +55,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Explorador de arquivos"
