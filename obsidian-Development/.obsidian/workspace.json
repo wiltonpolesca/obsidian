@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "03617493338dca23",
+        "id": "450b52122b0d419c",
         "type": "tabs",
         "children": [
           {
-            "id": "918713206e9dd383",
+            "id": "bf749cfc80bca21d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Gateway-V2/03 - pub-sub insights.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "03 - pub-sub insights"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -49,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -180,43 +186,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "918713206e9dd383",
+  "active": "bf749cfc80bca21d",
   "lastOpenFiles": [
-    "PromptsIA/copilot.md",
-    "PromptsIA/claude.md",
-    "PromptsIA/LLMs-copilot-architecture-doc.md",
-    "git/commands.md",
-    "Databases/Oracle/_drafts.md",
+    "Projects/_sql-server.md",
+    "Projects/Gateway-V2/03 - pub-sub insights.md",
+    "Projects/Gateway-V2/02 - teste.md",
+    "ia/copilot/how to structure prompts/example coding task.md",
+    "ia/copilot/how to structure prompts/_copilot-maturity-model.md",
+    "ia/copilot/_personal preferences.md",
+    "ia/copilot/how to structure prompts/Agents.md",
+    "ia/copilot/how to structure prompts/skills/_notes.md",
+    "Projects/Gateway-V2/01 - Service Architecture.md",
+    "ia/copilot/how to structure prompts/Skills.md",
+    "learn.microsoft.com.md",
     "new-machine-from-scratch.md",
-    "_notes.md",
-    "docker/services/oracle.md",
+    "Projects/Creating DatabaseConnectionPicker/_notes.md",
+    "Projects/Gateway-V2",
+    "Projects",
+    "ia/copilot/github/copilot-instructions.md",
+    "ia/copilot/how to structure prompts/skills",
+    "ia/copilot/how to structure prompts",
+    "ia/copilot/github/instructions/project.instructions.md",
+    "Projects/Creating DatabaseConnectionPicker/04 - Code review and documentation.md",
+    "Projects/Creating DatabaseConnectionPicker/08 - Check the component and improvements suggestions.md",
+    "Projects/Creating DatabaseConnectionPicker/07 - Avalonia  - instructions to create a complex view.md",
+    "docker/certifications - zscaler.md",
+    "Pasted image 20260811084929.png",
+    "docker/imgs/getting-certificate-2.png",
+    "docker/imgs/getting-certificate-1.png",
+    "docker/imgs",
+    "Pasted image 20260811084739.png",
+    "Projects/Creating DatabaseConnectionPicker/06- Avalonia - Create component.md",
+    "Projects/Creating DatabaseConnectionPicker/05 - Extract parameters.md",
+    "Projects/Creating DatabaseConnectionPicker/03 - DBConnection tests.md",
+    "PromptsIA/copilot.md",
+    "Projects/Creating DatabaseConnectionPicker/02 - Sql parameter parser.md",
+    "Projects/Creating DatabaseConnectionPicker/01 - Component review.md",
+    "Projects/Creating DatabaseConnectionPicker",
     "PromptsIA/skills.md",
-    "PromptsIA/LLMs-copilot-context.md",
-    "PromptsIA/LLMs-copilot-1.md",
-    "PromptsIA/LLMS-integration-dockercompose.md",
-    "PromptsIA/LLMS-integration-one-7.md",
-    "PromptsIA/LLMS-integration-one-6.md",
-    "PromptsIA/LLMS-integration-one-5.md",
-    "PromptsIA/LLMS-integration-one-4.md",
-    "PromptsIA/LLM_creating-one-4.md",
-    "PromptsIA/LLMS-integration-draft.md",
-    "PromptsIA/LLMS-creating-one-1.md",
-    "PromptsIA/LLMS-creating-one-3.md",
-    "PromptsIA/LLMS-creating-one-2.md",
     "PromptsIA/images/skills.png",
-    "PromptsIA/images",
-    "Diagrams/Examples.md",
-    "Diagrams/mermaid.md",
-    "Databases/PI-System/_notes.md",
-    "Databases/PI-System",
-    "Databases/Oracle",
-    "Databases",
-    "z-FAQ.md",
-    "useful-links.md",
-    "git",
-    "docker/services",
-    "docker",
-    "diagrams",
-    "dotnet"
+    "ia/copilot/github/Sans titre",
+    "ia/copilot/github/instructions",
+    "ia/copilot/github",
+    "ia/copilot"
   ]
 }

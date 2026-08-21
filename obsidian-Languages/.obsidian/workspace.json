@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_inbox/Notes.md",
+                "file": "_notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "_notes"
             }
           }
         ]
@@ -41,10 +41,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "que",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -74,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,19 +177,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
   "active": "873a21df88e085dd",
   "lastOpenFiles": [
-    "_inbox/des-ouvres-artitistic.md",
     "_inbox/_a-renforcer.md",
+    "_notes.md",
+    "_inbox/Notes.md",
+    "_inbox/des-ouvres-artitistic.md",
     "Untitled.md",
     "Pasted image 20260416191713.png",
     "Français/Grammaire/passé-composé-imparfait.md",
@@ -194,7 +199,6 @@
     "Français/Grammaire/pronome EN.md",
     "Français/Grammaire/Quelques, plusieurs et chaque.md",
     "Français/Grammaire/le-complément-objec-direct-et-indirect-COD-COI.md",
-    "_notes.md",
     "Français/Grammaire/límperatif-pour-donner-des-conseils.md",
     "_inbox/images/circulation.md",
     "Français/Vocabulaire.md",

@@ -34,3 +34,21 @@ Wilton : OK, merci, bisous !
 Belle-mère : Bisous, au revoir.
 
 
+---
+
+Bonjour Simon.
+
+J'ai un rendez-vous lundi après-midi, j'ai un examen de français, j'ai demander un vacânce mais Sylvan, Jimmy et toi son n`avez pas disponible pour aprouver.
+
+Est-ce que il y a une problem se je suis on congé lundi après midi?
+
+
+--
+
+Bonjour Simon,
+
+J'ai un rendez-vous ce lundi après-midi pour passer un examen de français. J'ai demandé un congé, mais Sylvain, Jimmy et toi n'étiez pas disponibles pour l'approuver.
+
+Est-ce qu'il y a un problème si je suis en congé lundi après-midi ?
+
+Merci, Wilton

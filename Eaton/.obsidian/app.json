@@ -1,9 +1,11 @@
 {
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "openBehavior": "daily",
+  "openBehavior": "",
   "showUnsupportedFiles": true,
   "showInlineTitle": false,
-  "readableLineLength": false,
-  "alwaysUpdateLinks": true
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./Pièces jointes"
 }

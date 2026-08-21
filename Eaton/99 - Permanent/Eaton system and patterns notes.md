@@ -24,6 +24,9 @@
 - [DDP](https://github.com/etn-utilities/cyme-di-cust-lucelec)
 - [FME Plugin](https://github.com/etn-utilities/cyme-di-plugins)
 - [Gateway](https://github.com/etn-utilities/cyme-di-gateway-template)
+- [Configuração NPM]([New Employee for ADPS-UI - UDS - ADPS - Confluence](https://eaton-corp.atlassian.net/wiki/spaces/UA/pages/1394475069/New+Employee+for+ADPS-UI))  - [More info]([Local Environment Setup Guide — ADPS Services (Aspire AppHost + Docker + .NET) - UDS - ADPS - Confluence](https://eaton-corp.atlassian.net/wiki/spaces/UA/pages/1476559030/Local+Environment+Setup+Guide+ADPS+Services+Aspire+AppHost+Docker+.NET))
+- [Web developer - confluence]([Web Application - Confluence](https://eaton-corp.atlassian.net/wiki/spaces/UA/folder/1148878865))
+- [Brightlayer UI | Powering Teams to Make What Matters](https://brightlayer-ui.github.io/)
 ## Helpful pages to working on CYMDist Plugin
 
 - [CYMDist Plugin](https://eaton-corp.atlassian.net/wiki/spaces/CYME/pages/653527076/CYMDist+Plugin)

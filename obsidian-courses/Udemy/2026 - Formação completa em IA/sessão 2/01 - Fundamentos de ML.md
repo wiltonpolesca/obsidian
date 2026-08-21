@@ -113,7 +113,7 @@ Exemplo de segmentação de clientes
 
 Exemplo de recomendação de produto por cliente
 
-![[secion-2-product-recommendation.png]]
+![[section-2-product-recommendation.png]]
 
 A partir dessa lista, o algorítimo detecta quais produtos tem mais chance de ser comprados juntos.
 ### Outras menos priorizadas
