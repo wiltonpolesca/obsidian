@@ -58,6 +58,23 @@ Resposta: Importa que cada coisa venha ao seu tempo. A verdade é como a luz; o 
 
 ---
 
+1 - Livros da Codificação
+- O Livro dos Espíritos
+- A Gênesis
+- O Céu e o Inferno
+- O Livro dos Médiuns
+
+2 - Ciclos de estudo
+- Manual ESDE
+- Manual EADE
+
+3 - Coleção André Luiz (A vida no mundo espiritual)
+4 - Coleção Hermínio de Miranda (Mediunidade)
+5 - Coleção Joana D’Angeles (grande desafio)
+6 - Temas diversos
+	- O grupo deverá criar uma lista de temas para que o estudo possa ser preparado
+
+---
 
 
 
