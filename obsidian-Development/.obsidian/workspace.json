@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "addsingl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -76,8 +76,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,19 +176,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
   "active": "bf749cfc80bca21d",
   "lastOpenFiles": [
-    "Projects/_sql-server.md",
+    "Opportunities/software-developer-specialist.md",
+    "Opportunities",
     "Projects/Gateway-V2/03 - pub-sub insights.md",
+    "Projects/_sql-server.md",
     "Projects/Gateway-V2/02 - teste.md",
     "ia/copilot/how to structure prompts/example coding task.md",
     "ia/copilot/how to structure prompts/_copilot-maturity-model.md",
@@ -221,13 +222,10 @@
     "Projects/Creating DatabaseConnectionPicker/03 - DBConnection tests.md",
     "PromptsIA/copilot.md",
     "Projects/Creating DatabaseConnectionPicker/02 - Sql parameter parser.md",
-    "Projects/Creating DatabaseConnectionPicker/01 - Component review.md",
     "Projects/Creating DatabaseConnectionPicker",
-    "PromptsIA/skills.md",
     "PromptsIA/images/skills.png",
     "ia/copilot/github/Sans titre",
     "ia/copilot/github/instructions",
-    "ia/copilot/github",
-    "ia/copilot"
+    "ia/copilot/github"
   ]
 }

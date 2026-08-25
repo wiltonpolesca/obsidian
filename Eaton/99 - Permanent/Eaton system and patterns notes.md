@@ -30,6 +30,7 @@
 ## Helpful pages to working on CYMDist Plugin
 
 - [CYMDist Plugin](https://eaton-corp.atlassian.net/wiki/spaces/CYME/pages/653527076/CYMDist+Plugin)
+- [Version history - Configure Cyme Server with a DDP - CYME - Confluence](https://eaton-corp.atlassian.net/wiki/spaces/CYME/history/2129199159/Configure+Cyme+Server+with+a+DDP?version2=3&version1=2&atl_f=DIGSTEML)
 
 ## Folders
 

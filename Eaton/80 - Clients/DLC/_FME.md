@@ -34,7 +34,6 @@ cyme_section?
 
 | Property | Problem/Comment                                                                   |
 | -------- | --------------------------------------------------------------------------------- |
-| CableID  | Properties: `conductor_type`, `conductor_size` and `conductor_material` not found |
 |          |                                                                                   |
 ## 1.3.5 - Substation Switches
 
@@ -43,7 +42,6 @@ CYME_ProtectiveDevice?
 
 | Property     | Problem/Comment                                                                                                           |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| DeviceNumber | `Global ID` property not found, using `id` instead                                                                        |
 | EquipmentID  | `rated_voltage` AND `device_size` do not exist for ASSETGROUPS 419, 303, it exists for ASSETGROUP 408 (Network Protector) |
 | NewtorkID    | Should remove **SS** from `Subnetworkname`?                                                                               |
 |              |                                                                                                                           |
@@ -53,38 +51,43 @@ CYME_ProtectiveDevice?
 
 ![[1.3.5-substation-switches-device-number-1.png]]
 
-## 1.3.5 - Substation internal Breakers
+## 1.3.6 - Substation internal Breakers
 
-CYME_ProtectiveDevice?
-ProtectiveDeviceType = 2 (Breaker)??
+| Property     | Problem/Comment     |
+| ------------ | ------------------- |
+| DeviceNumber | Missing information |
+|              |                     |
 
-| Property     | Problem/Comment                                                      |
-| ------------ | -------------------------------------------------------------------- |
-| DeviceNumber | Missing information                                                  |
-| State        | CYME_ProtectiveDevice does not has `State` property. (Connected = 0) |
-| EquipmentID  | `device_size` does not exist                                         |
-|              |                                                                      |
-
+- PlumSS
 ## 1.3.7 Substation internal reclosers
 
 | Property    | Problem/Comment                                                      |
 | ----------- | -------------------------------------------------------------------- |
-| State       | CYME_ProtectiveDevice does not has `State` property. (Connected = 0) |
 | EquipmentID | ????                                                                 |
 
-## 1.3.8 - Substation internal Breakers
+## 1.3.8 - Substation internal Regulators
 
 | Property    | Problem/Comment       |
 | ----------- | --------------------- |
 | EquipmentID | device_size not found |
 
+## 1.3.9 - Substation Transformer
+
+- PlumSS
+	- High_Side_Voltage: ID: 9633e3e7-5a32-4fc0-a48b-f76afa890db0 (138000)
 ## 1.3.10 - Substation Shunt Capacitor
 
 | Property     | Problem/Comment      |
 | ------------ | -------------------- |
-| DeviceNumber | Sequence number ???? |
+
+- PlumSS
 
 ---
 
-VM-DBSQL2019.cyme.local\SQLServer2019
-DLC_96
+Networks
+
+- PlumSS - Ok
+- CraftSS - Question sent to Stéphane
+- Robroy - There are strangers Spot loads  (multiples devices in the same area, looks like an error)
+- NarrowsRun - OK
+- 
