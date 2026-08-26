@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Permanent/Sans titre.md",
+                "file": "80 - Clients/DLC/_notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sans titre"
+              "title": "_notes"
             }
           },
           {
@@ -80,7 +80,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -97,7 +97,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -233,33 +233,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "markdown-importer:Ouvrir l'importateur Markdown": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "c9d8ed9ebd76c336",
   "lastOpenFiles": [
+    "99 - Permanent/Sans titre.md",
     "80 - Clients/DLC/_FME.md",
     "0 - Inbox/_feedback-notes.md",
     "99 - Permanent/VMs.md",
-    "99 - Permanent/Sans titre.md",
     "99 - Permanent/Eaton system and patterns notes.md",
     "99 - Permanent/_gerar-versão-gateway.md",
     "99 - Permanent/_Eaton important notes.md",
     "99 - Permanent/VMs.md",
     "80 - Clients/DLC/_FME.md",
     "0 - Inbox/_feedback-notes.md",
-    "99 - Permanent/Sans titre.md",
     "80 - Clients/ORU/Infos.md",
     "80 - Clients/DLC/_notes.md",
     "80 - Clients/DLC/Pièces jointes/Pasted image 20260813140624.png",
@@ -282,9 +282,6 @@
     "0 - Inbox/_notes-web-report-tool.md",
     "13 - Proposals",
     "0 - Inbox",
-    "1 - Resourses/laptop-from-scratch.md",
-    "80 - Clients/DLC/_dicas.md",
-    "80 - Clients/DLC/Weekly-Meetings/2026-08-04.md",
     "80 - Clients/DLC/Weekly-Meetings",
     "80 - Clients/DLC/Images",
     "2 - Projects/Gateway-Modernization/images/project-ui-modernization-avalonia-dependency-check-vs.png",
