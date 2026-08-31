@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Gateway-V2/03 - pub-sub insights.md",
+                "file": "Opportunities/software-developer-specialist-fr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - pub-sub insights"
+              "title": "software-developer-specialist-fr"
+            }
+          },
+          {
+            "id": "b2f8478d646aca8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opportunities/6-introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6-introduction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,7 +61,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -176,20 +191,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "bf749cfc80bca21d",
+  "active": "b2f8478d646aca8d",
   "lastOpenFiles": [
-    "Opportunities/software-developer-specialist.md",
-    "Opportunities",
+    "Opportunities/Linkedin.md",
+    "Opportunities/6-introduction.md",
+    "Opportunities/5 - summary.md",
+    "Opportunities/4-Technical.md",
+    "Opportunities/3-Forward-Thinking & Leadership.md",
+    "Opportunities/2-conflict-resolution.md",
+    "Opportunities/1-cross-collaboration.md",
+    "Opportunities/mind-map-fr.md",
+    "Opportunities/second-interview.md",
+    "Opportunities/mind-map-en.md",
+    "Opportunities/apresentations.md",
+    "Opportunities/software-developer-specialist-fr.md",
+    "Opportunities/software-developer-specialist-fr-2.md",
+    "Opportunities/software-developer-specialist-en.md",
     "Projects/Gateway-V2/03 - pub-sub insights.md",
+    "Opportunities",
     "Projects/_sql-server.md",
     "Projects/Gateway-V2/02 - teste.md",
     "ia/copilot/how to structure prompts/example coding task.md",
@@ -201,27 +229,15 @@
     "ia/copilot/how to structure prompts/Skills.md",
     "learn.microsoft.com.md",
     "new-machine-from-scratch.md",
-    "Projects/Creating DatabaseConnectionPicker/_notes.md",
     "Projects/Gateway-V2",
     "Projects",
-    "ia/copilot/github/copilot-instructions.md",
     "ia/copilot/how to structure prompts/skills",
     "ia/copilot/how to structure prompts",
-    "ia/copilot/github/instructions/project.instructions.md",
-    "Projects/Creating DatabaseConnectionPicker/04 - Code review and documentation.md",
-    "Projects/Creating DatabaseConnectionPicker/08 - Check the component and improvements suggestions.md",
-    "Projects/Creating DatabaseConnectionPicker/07 - Avalonia  - instructions to create a complex view.md",
-    "docker/certifications - zscaler.md",
     "Pasted image 20260811084929.png",
     "docker/imgs/getting-certificate-2.png",
     "docker/imgs/getting-certificate-1.png",
     "docker/imgs",
     "Pasted image 20260811084739.png",
-    "Projects/Creating DatabaseConnectionPicker/06- Avalonia - Create component.md",
-    "Projects/Creating DatabaseConnectionPicker/05 - Extract parameters.md",
-    "Projects/Creating DatabaseConnectionPicker/03 - DBConnection tests.md",
-    "PromptsIA/copilot.md",
-    "Projects/Creating DatabaseConnectionPicker/02 - Sql parameter parser.md",
     "Projects/Creating DatabaseConnectionPicker",
     "PromptsIA/images/skills.png",
     "ia/copilot/github/Sans titre",

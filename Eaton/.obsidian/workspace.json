@@ -110,8 +110,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -248,7 +247,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e5b29fbeaf6e13ce",
+  "active": "c9d8ed9ebd76c336",
   "lastOpenFiles": [
     "80 - Clients/DLC/_FME.md",
     "0 - Inbox/_feedback-notes.md",
