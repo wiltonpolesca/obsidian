@@ -1,0 +1,1 @@
+[AI for .NET Developers](https://www.skool.com/thecodeman-ai-toolkit-9723/about?utm_source=emailoctopus&utm_medium=email&utm_campaign=Producer-Consumer%20in%20.NET%20with%20System.Threading.Channels%20\(copy\))

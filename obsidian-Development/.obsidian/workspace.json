@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "1abc7ffca48cf904",
+        "id": "bb819c104c52201f",
         "type": "tabs",
         "children": [
           {
-            "id": "b53430615680b041",
+            "id": "792e4eeef1c5ee27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PromptsIA/copilot.md",
+                "file": "Opportunities/software-developer-specialist-fr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "copilot"
+              "title": "software-developer-specialist-fr"
             }
           },
           {
-            "id": "54aa65e1f9c20aa2",
+            "id": "b2f8478d646aca8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PromptsIA/claude.md",
+                "file": "Opportunities/6-introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude"
-            }
-          },
-          {
-            "id": "645df7390b2c74ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PromptsIA/LLMs-copilot-architecture-doc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLMs-copilot-architecture-doc"
-            }
-          },
-          {
-            "id": "160553065f5ad2a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/Oracle/_drafts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_drafts"
+              "title": "6-introduction"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -96,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shut",
+                "query": "jimm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,43 +201,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "160553065f5ad2a5",
+  "active": "b2f8478d646aca8d",
   "lastOpenFiles": [
+    "Opportunities/Linkedin.md",
+    "Opportunities/6-introduction.md",
+    "Opportunities/5 - summary.md",
+    "Opportunities/4-Technical.md",
+    "Opportunities/3-Forward-Thinking & Leadership.md",
+    "Opportunities/2-conflict-resolution.md",
+    "Opportunities/1-cross-collaboration.md",
+    "Opportunities/mind-map-fr.md",
+    "Opportunities/second-interview.md",
+    "Opportunities/mind-map-en.md",
+    "Opportunities/apresentations.md",
+    "Opportunities/software-developer-specialist-fr.md",
+    "Opportunities/software-developer-specialist-fr-2.md",
+    "Opportunities/software-developer-specialist-en.md",
+    "Projects/Gateway-V2/03 - pub-sub insights.md",
+    "Opportunities",
+    "Projects/_sql-server.md",
+    "Projects/Gateway-V2/02 - teste.md",
+    "ia/copilot/how to structure prompts/example coding task.md",
+    "ia/copilot/how to structure prompts/_copilot-maturity-model.md",
+    "ia/copilot/_personal preferences.md",
+    "ia/copilot/how to structure prompts/Agents.md",
+    "ia/copilot/how to structure prompts/skills/_notes.md",
+    "Projects/Gateway-V2/01 - Service Architecture.md",
+    "ia/copilot/how to structure prompts/Skills.md",
+    "learn.microsoft.com.md",
     "new-machine-from-scratch.md",
-    "_notes.md",
-    "docker/services/oracle.md",
-    "PromptsIA/LLMs-copilot-architecture-doc.md",
-    "PromptsIA/skills.md",
-    "PromptsIA/LLMs-copilot-context.md",
-    "PromptsIA/LLMs-copilot-1.md",
-    "PromptsIA/LLMS-integration-dockercompose.md",
-    "PromptsIA/LLMS-integration-one-7.md",
-    "PromptsIA/LLMS-integration-one-6.md",
-    "PromptsIA/LLMS-integration-one-5.md",
-    "PromptsIA/LLMS-integration-one-4.md",
-    "PromptsIA/LLM_creating-one-4.md",
-    "PromptsIA/LLMS-integration-draft.md",
-    "PromptsIA/LLMS-creating-one-1.md",
-    "PromptsIA/LLMS-creating-one-3.md",
-    "PromptsIA/LLMS-creating-one-2.md",
-    "PromptsIA/claude.md",
+    "Projects/Gateway-V2",
+    "Projects",
+    "ia/copilot/how to structure prompts/skills",
+    "ia/copilot/how to structure prompts",
+    "Pasted image 20260811084929.png",
+    "docker/imgs/getting-certificate-2.png",
+    "docker/imgs/getting-certificate-1.png",
+    "docker/imgs",
+    "Pasted image 20260811084739.png",
+    "Projects/Creating DatabaseConnectionPicker",
     "PromptsIA/images/skills.png",
-    "PromptsIA/images",
-    "PromptsIA/copilot.md",
-    "Databases/Oracle/_drafts.md",
-    "git/commands.md",
-    "Diagrams/Examples.md",
-    "Diagrams/mermaid.md",
-    "Databases/PI-System/_notes.md",
-    "Databases/PI-System",
-    "Databases/Oracle",
-    "Databases",
-    "z-FAQ.md",
-    "useful-links.md",
-    "git",
-    "docker/services",
-    "docker",
-    "diagrams",
-    "dotnet"
+    "ia/copilot/github/Sans titre",
+    "ia/copilot/github/instructions"
   ]
 }
