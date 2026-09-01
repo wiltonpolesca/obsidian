@@ -11,10 +11,12 @@
             "id": "82bfeed6f5ffb84f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "image",
+              "state": {
+                "file": "Estudos/ESDE/images/afinidade-vibracional.png"
+              },
+              "icon": "lucide-image",
+              "title": "afinidade-vibracional"
             }
           }
         ]
@@ -164,6 +166,8 @@
   },
   "active": "82bfeed6f5ffb84f",
   "lastOpenFiles": [
+    "Estudos/ESDE/images/mar-de-vibracoes.png",
+    "Estudos/ESDE/images/afinidade-vibracional.png",
     "Estudos/ESDE/2026-05-esde-influencia-espirito-mediunidade.md",
     "Livros/Roteiro-Chico Xavier/26 - Afinidade.md"
   ]
