@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b02b4d577e5b6afa",
+        "id": "8352477e89576ba9",
         "type": "tabs",
         "children": [
           {
-            "id": "17ce33d1f59b92af",
+            "id": "102cd56df965a1b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_inbox/O que e o espiritismo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "O que e o espiritismo"
+              "title": "New tab"
             }
           }
         ]
@@ -222,10 +218,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "17ce33d1f59b92af",
+  "active": "102cd56df965a1b6",
   "lastOpenFiles": [
-    "_inbox/O que e o espiritismo.md",
+    "Estudos/Livros/Emmanuel/emmanuel-1.md",
     "Estudos/Livros/Emmanuel/emmanuel - Francisco Candido Xavier.md",
+    "_inbox/O que e o espiritismo.md",
     "2026-05-roteiro-influencia-espirito.md",
     "Untitled.md",
     "Estudos/CESF - Joana de Angelis - O ser Consciente/08 - Silêncio interior.md",
@@ -251,7 +248,6 @@
     "Assuntos/Regeneração Planetária.md",
     "Estudos/Reencarnação/2026-04-reencarnacao-e-uma-bencao.md",
     "_inbox/_2 - como-preparar-aula.md",
-    "Livros/Livro dos Espíritos/741.md",
     "Personagens/Filósofos",
     "Assuntos",
     "Estudos/Tipos de Mediunidade/Intuição",

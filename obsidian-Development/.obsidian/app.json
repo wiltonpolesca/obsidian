@@ -1,5 +1,5 @@
 {
-  "readableLineLength": false,
+  "readableLineLength": true,
   "showInlineTitle": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true
