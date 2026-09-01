@@ -84,10 +84,51 @@ CYME_ProtectiveDevice?
 
 ---
 
-Networks
+# Networks
 
-- PlumSS - Ok
-- CraftSS - Question sent to Stéphane
-- Robroy - There are strangers Spot loads  (multiples devices in the same area, looks like an error)
-- NarrowsRun - OK
-- 
+WolfeRun
+
+## Ok
+
+- Craft
+- Glassport
+- Robroy
+	- "ASSETGROUP": 601, "ASSETTYPE": 701, ??
+- NarrowsRun
+- WestinghouseFoundry
+- Imperial
+## Maybe it is OK ...
+
+- MtNebo
+- Homestead
+- Brentwood
+
+
+10.106.28.65
+
+----
+
+```
+{
+let $Conn := fme:get-json-attribute("networkWithTerminalConnections")
+    
+return {|
+for $key in jn:keys($Conn)
+    let $ConnCompoIds := $Conn($key)
+    where(fn:not(fn:empty($ConnCompoIds(1)("connectedComponentIds"))))
+    group by $key
+  return {  $key :
+{|
+        for $i in (1 to jn:size($ConnCompoIds))
+            for $y in (1 to jn:size($ConnCompoIds($i)("connectedComponentIds")))
+                count $c
+                let $strIds := fn:concat("ConnId",$c)
+                return
+                {
+                    $strIds:$ConnCompoIds($i)("connectedComponentIds")($y)
+                }
+|}
+}
+|}
+}
+```

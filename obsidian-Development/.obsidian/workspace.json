@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf5475f28d564d6b",
+        "id": "bb819c104c52201f",
         "type": "tabs",
         "children": [
           {
-            "id": "2e77d9eb47344fa3",
+            "id": "792e4eeef1c5ee27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "addsingl",
+                "query": "jimm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,7 +242,6 @@
     "Projects/Creating DatabaseConnectionPicker",
     "PromptsIA/images/skills.png",
     "ia/copilot/github/Sans titre",
-    "ia/copilot/github/instructions",
-    "ia/copilot/github"
+    "ia/copilot/github/instructions"
   ]
 }
