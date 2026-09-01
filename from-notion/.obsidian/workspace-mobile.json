@@ -11,10 +11,14 @@
             "id": "aaee7b8d9d06a066",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Personal Home/Receitas/Japones Arroz (canal da Fê).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Japones Arroz (canal da Fê)"
             }
           }
         ]
@@ -33,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Explorador de arquivos"
@@ -161,6 +167,6 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "c31a698600f494c3",
+  "active": "aaee7b8d9d06a066",
   "lastOpenFiles": []
 }
