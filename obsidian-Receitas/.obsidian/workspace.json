@@ -11,10 +11,14 @@
             "id": "095f9f8f36828186",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Angu.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Angu"
             }
           }
         ]
@@ -53,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -194,8 +200,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "2e0cc032df324abe",
+  "active": "095f9f8f36828186",
   "lastOpenFiles": [
+    "Angu.md",
     "Welcome.md"
   ]
 }
