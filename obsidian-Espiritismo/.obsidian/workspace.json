@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assuntos/Pluralidade dos mundos habitados.md",
+                "file": "_oratoria-jorge-elarrat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pluralidade dos mundos habitados"
+              "title": "_oratoria-jorge-elarrat"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -85,7 +85,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Signets"
             }
@@ -197,8 +200,8 @@
             "state": {
               "type": "excalidraw-sidepanel",
               "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Sidepanel"
+              "icon": "lucide-ghost",
+              "title": "excalidraw-sidepanel"
             }
           }
         ],
@@ -211,38 +214,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
   "active": "102cd56df965a1b6",
   "lastOpenFiles": [
-    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw/Drawing 2026-08-10 20.45.16.excalidraw.md",
-    "Excalidraw/Drawing 2026-08-10 20.42.08.excalidraw.md",
-    "Excalidraw",
-    "_inbox/_1 - como-preparar-aula.md",
     "Assuntos/Pluralidade dos mundos habitados.md",
-    "_inbox/ideias-estudo-mensal/temas.md",
-    "_inbox/ideias-estudo-mensal/01 - diretrizes-básicas.md",
+    "_inbox/_1 - como-preparar-aula.md",
     "_inbox/_2 - como-preparar-aula.md",
+    "_oratoria-jorge-elarrat.md",
     "_inbox/Estudo sistematizado.md",
-    "Estudos/Livros/Emmanuel/emmanuel-1.md",
-    "Estudos/Livros/Emmanuel/emmanuel - Francisco Candido Xavier.md",
     "_inbox/O que e o espiritismo.md",
     "2026-05-roteiro-influencia-espirito.md",
+    "Estudos/Livros/Emmanuel/emmanuel-1.md",
+    "Estudos/Livros/Emmanuel/emmanuel - Francisco Candido Xavier.md",
     "Untitled.md",
     "Estudos/CESF - Joana de Angelis - O ser Consciente/08 - Silêncio interior.md",
+    "_inbox/ideias-estudo-mensal/01 - diretrizes-básicas.md",
+    "_inbox/ideias-estudo-mensal/temas.md",
     "Vídeos Doutrinários.md",
     "_notes.md",
     "Estudos/CESF - Joana de Angelis - O ser Consciente/_vocabulario.md",
@@ -254,7 +249,10 @@
     "84.md",
     "Estudos/JAC-EADE/livro3-módulo3-roteiro7-o-tesouro-e-a-perola.md",
     "Estudos/JAC-EADE/livro3-módulo3-roteiro5-o-credor-incompassivo.md",
+    "Livros/Roteiro-Chico Xavier/26 - Afinidade.md",
     "Estudos/Livros",
+    "Estudos/Tipos de Mediunidade/Psicometria.md",
+    "Assuntos/Desencarnação coletiva.md",
     "Personagens/Filósofos",
     "Assuntos",
     "Estudos/Tipos de Mediunidade/Intuição",
