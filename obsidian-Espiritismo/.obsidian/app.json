@@ -2,7 +2,7 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "showInlineTitle": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
