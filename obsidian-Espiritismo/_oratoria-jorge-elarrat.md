@@ -5,7 +5,7 @@
 
 ## Referências para pesquisas
 
-- [Bíblia do caminho](bibliadocaminho.com)
+- [Bíblia do caminho](https://bibliadocaminho.com/)
 	- Tem índice remicívo
 	- Excelente para trabalhar temas evangélicos ou para buscar palavras chave na bíblia
 - [NEPE Search](https://search.nepebrasil.org)
