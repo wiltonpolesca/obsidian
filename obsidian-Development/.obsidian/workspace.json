@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new-machine-from-scratch.md",
+                "file": "PromptsIA/copilot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "new-machine-from-scratch"
+              "title": "copilot"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scra",
+                "query": "select",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +105,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,6 +216,18 @@
   },
   "active": "ac7fd8e2d49442ec",
   "lastOpenFiles": [
+    "PromptsIA/skills.md",
+    "ia/copilot/usefull-prompts.md",
+    "ia/copilot/Configuring-Env/05-setup-recommendations.md",
+    "ia/copilot/Configuring-Env/04-prompts.md",
+    "ia/copilot/Configuring-Env/03-vscode_vsStudio.md",
+    "ia/copilot/Configuring-Env/02-folders.md",
+    "ia/copilot/Configuring-Env/03-vscode-visual_studio",
+    "ia/copilot/Configuring-Env/01-starting.md",
+    "Projects/Creating DatabaseConnectionPicker/_notes.md",
+    "ia/copilot/Configuring-Env",
+    "Databases/PI-System/_notes.md",
+    "new-machine-from-scratch.md",
     "ia/001 - Tools and links.md",
     "ia/_000 - TODO.md",
     "_notes.md",
@@ -233,17 +244,7 @@
     "z-FAQ.md",
     "Opportunities/Linkedin.md",
     "Opportunities/5 - summary.md",
-    "Opportunities/mind-map-fr.md",
-    "Opportunities/second-interview.md",
-    "Opportunities/mind-map-en.md",
-    "Opportunities/software-developer-specialist-fr.md",
-    "Opportunities/software-developer-specialist-fr-2.md",
-    "Opportunities/software-developer-specialist-en.md",
-    "Projects/Gateway-V2/03 - pub-sub insights.md",
     "Opportunities",
-    "Projects/_sql-server.md",
-    "Projects/Gateway-V2/02 - teste.md",
-    "ia/copilot/how to structure prompts/example coding task.md",
     "Projects/Gateway-V2",
     "Projects",
     "ia/copilot/how to structure prompts/skills",
@@ -255,7 +256,6 @@
     "Pasted image 20260811084739.png",
     "Projects/Creating DatabaseConnectionPicker",
     "PromptsIA/images/skills.png",
-    "ia/copilot/github/Sans titre",
-    "ia/copilot/github/instructions"
+    "ia/copilot/github/Sans titre"
   ]
 }
