@@ -11,10 +11,14 @@
             "id": "86e38ba10eccddb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Vai que/Basic-Information.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Basic-Information"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "select",
+                "query": "podman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagrams/mermaid.md",
+                "file": "Projects/Vai que/Basic-Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour mermaid"
+              "title": "Rétroliens"
             }
           },
           {
@@ -167,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +184,17 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "af7eb10036045968",
+  "active": "86e38ba10eccddb8",
   "lastOpenFiles": [
+    "Projects/Vai que/SSO-2.md",
+    "Projects/Vai que/Basic-Information.md",
+    "Projects/Vai que/RAQ/02.md",
+    "Projects/Vai que/SSO.md",
+    "docker/certifications - zscaler.md",
+    "Projects/Vai que/RAQ/01.md",
+    "Projects/Vai que/RAQ",
+    "docker/podman-error.md",
+    "Projects/Vai que",
     "PromptsIA/skills.md",
     "ia/copilot/usefull-prompts.md",
     "ia/copilot/Configuring-Env/05-setup-recommendations.md",
@@ -204,13 +216,6 @@
     "Opportunities/3-Forward-Thinking & Leadership.md",
     "Opportunities/2-conflict-resolution.md",
     "Opportunities/6-introduction.md",
-    "Opportunities/apresentations.md",
-    "Sans titre.md",
-    "hugo.md",
-    "lucca.md",
-    "z-FAQ.md",
-    "Opportunities/Linkedin.md",
-    "Opportunities/5 - summary.md",
     "Opportunities",
     "Projects/Gateway-V2",
     "Projects",
@@ -221,8 +226,6 @@
     "docker/imgs/getting-certificate-1.png",
     "docker/imgs",
     "Pasted image 20260811084739.png",
-    "Projects/Creating DatabaseConnectionPicker",
-    "PromptsIA/images/skills.png",
-    "ia/copilot/github/Sans titre"
+    "PromptsIA/images/skills.png"
   ]
 }

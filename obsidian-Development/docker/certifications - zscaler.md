@@ -15,7 +15,7 @@
 
 ## Updating Podman
 
-- Copy the certificate into podman machine: `podman machine scp YOUR-CERTIFICATE.crt podman-machine-default:/tmp/`
+- Copy the certificate into podman machine: `podman machine cp YOUR-CERTIFICATE.crt podman-machine-default:/tmp/`
 - Connects into the machine:  `podman machine ssh`
 - Install the CA (certificate):
 	- `sudo cp/temp/YOUR-CERTIFICATE.crt /etc/pki/ca-trust/source/anchors/`
