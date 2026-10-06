@@ -11,10 +11,14 @@
             "id": "8ee9c16799cb0e80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Vai que/licenças.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "licenças"
             }
           }
         ]
@@ -42,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Vai que/licenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Rétroliens"
             }
           },
           {
@@ -170,18 +175,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer un nouveau canvas": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
   "active": "8ee9c16799cb0e80",
   "lastOpenFiles": [
     "Projects/Vai que/Basic-Information.md",
+    "Projects/Vai que/licenças.md",
     "trafeik.md",
     "Projects/Vai que/SSO-2.md",
     "Projects/Vai que/RAQ/02.md",
@@ -210,7 +216,6 @@
     "Opportunities/1-cross-collaboration.md",
     "Opportunities/4-Technical.md",
     "Opportunities/3-Forward-Thinking & Leadership.md",
-    "Opportunities/2-conflict-resolution.md",
     "Opportunities",
     "Projects/Gateway-V2",
     "Projects",

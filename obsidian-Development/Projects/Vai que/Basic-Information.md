@@ -14,8 +14,15 @@
 - Angular
 - NATS
 - RAG (integrar a base de dados histórica a uma LLM para obter respostas)
+- Trafeik (reversy proxy)
+	- https://doc.traefik.io/traefik/getting-started/docker/
+	- [https://doc.traefik.io/traefik/getting-started/docker/](https://youtu.be/-hfejNXqOzA?si=cmIUPgq_qfnL4hO4)
+	- https://community.traefik.io/t/serving-an-angular-dockerized-application-with-traefik-in-docker-swarm/9118
+	- https://thecodeman.net/posts/dotnet-docker-and-traefik
+	- https://community.traefik.io/t/how-to-setup-traefik-as-reverse-proxy-for-asp-net-core-app-with-kestrel/16175
 - Zitadel (SSO)
 	- Microsoft integration
+	- https://youtu.be/1T1uxKW06Vs?list=PLDYUG5PASuckFmepTKDYT5cmx6nwlGy9t (exemplo com portainer)
 
 # Licenses
 
