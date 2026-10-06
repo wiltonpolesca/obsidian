@@ -1,14 +1,15 @@
 # Requirements
 
-- On-Promisse
+- On-Promisse first
 - Cloud compatible
 - Scalable
+- Multi-tenant by design
 - With integrated chat (IA)
 
 # Technologies
 
 - PostgreSQL
-	- Production and Visualization (copy)
+	- Production and Visualization (second readonly database that must be a clone from Prouction)
 - C#
 - Angular
 - NATS
@@ -17,6 +18,8 @@
 	- Microsoft integration
 
 # Licenses
+
+The system must have 2 levels of licence:
 
 - Number of users
 - Features

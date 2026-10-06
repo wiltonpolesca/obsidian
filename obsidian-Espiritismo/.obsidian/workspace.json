@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8352477e89576ba9",
+        "id": "6ec76bcc50717f08",
         "type": "tabs",
         "children": [
           {
-            "id": "102cd56df965a1b6",
+            "id": "e70f0efd0d25ae4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_oratoria-jorge-elarrat.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_oratoria-jorge-elarrat"
+              "title": "New tab"
             }
           }
         ]
