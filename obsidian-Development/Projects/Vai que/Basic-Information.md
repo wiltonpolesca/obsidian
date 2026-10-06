@@ -114,3 +114,29 @@ Considerando que o sistema tem todo o histórico de suas transações, como isso
 - PostgreSQL + pgvector
 - Azure AI Search
 - Elasticsearch
+
+---
+2026-10-05
+
+# Data sync
+
+- Cada serviço (módulo) independente, ocasionalmente, precisará sincronizar dados com outro serviço.
+	- Cada serviço terá sua rota própria para receber os dados de syncronismo
+	- O formato dos dados será o mesmo para todos os serviços, somente a rota poderá ser diferente
+
+- Todos os serviços irão escutar um tópico asincrono de pedido de sincronismo, o payload que definirá quem deverá responder e com o quê.
+	- Serviços que receberem e que não são responsáveis pela resposta, simplesmente ignorarão a mensagem.
+
+## Fluxo
+
+1 -> Serviço A solicita, no tópico geral, dados de sincronismo da entidade de dispositivos
+2 -> Serviço C, responsável pelos dispositivos, reconhece a mensagem e inicia o envio de dados para uma rota definida no payload da mensagem de requisição
+3 -> Serviço A consome os dados disponibilizados pelo serviço C
+
+### Importante !
+
+Os dados para sincronismo devem ser persistentes na camada intermediária entre o emissor e o receptor, evitando perda dos dados em caso de queda de energia ou desligamento do sistema
+
+# -- NOTIFICAÇÕES
+
+TBD
