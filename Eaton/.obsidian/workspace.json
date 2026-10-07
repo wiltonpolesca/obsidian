@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Resourses/laptop-from-scratch.md",
+                "file": "80 - Clients/ORU/Sans titre.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "laptop-from-scratch"
+              "title": "Sans titre"
+            }
+          },
+          {
+            "id": "209e5cd073fdbff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80 - Clients/ORU/notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "notes"
             }
           },
           {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -259,23 +282,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Créer un nouveau canvas": false,
+      "audio-recorder:Démarrer/Arrêter l'enregistrement": false,
+      "workspaces:Gérer les dispositions des espaces de travail": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "markdown-importer:Ouvrir l'importateur Markdown": false,
-      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
-      "workspaces:Gérer les espaces de travail": false,
       "bases:Créer une nouvelle base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "01b525b5770ae42c",
+  "active": "209e5cd073fdbff0",
   "lastOpenFiles": [
+    "80 - Clients/ORU/Sans titre.md",
+    "80 - Clients/ORU/notes.md",
+    "1 - Resourses/laptop-from-scratch.md",
     "99 - Permanent/Bitlocker-Drive-Encryption-Recovery-Key.md",
     "99 - Permanent/Eaton system and patterns notes.md",
     "99 - Permanent/_gerar-versão-gateway.md",
@@ -304,9 +329,6 @@
     "2 - Projects/cymdist plugin/Integration-Test-Architecture-Technical-Note.md",
     "1 - Resourses/usefull-links.md",
     "80 - Clients/DLC/mind-map.excalidraw.md",
-    "80 - Clients/LADWP/Notes.md",
-    "80 - Clients/ORU/CYMDI-5751.md",
-    "80 - Clients/ORU/CYMDI-5788.md",
     "13 - Proposals",
     "0 - Inbox",
     "80 - Clients/DLC/Weekly-Meetings",
