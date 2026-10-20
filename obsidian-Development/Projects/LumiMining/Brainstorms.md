@@ -1,0 +1,3 @@
+- Sincronismo com systema de NTP
+- Módulo de gestão de licenças
+- Módulo de gestão de usuários
