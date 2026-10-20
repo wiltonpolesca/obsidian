@@ -1,0 +1,3 @@
+# Lumi
+
+![[Diagram.svg]]!
