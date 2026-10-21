@@ -19,7 +19,7 @@
 ## Frontend
 
 - [storybook](https://storybook.js.org/blog/storybook-8-4/?utm_source=tldrwebdev)
-- [Angular signals][https://www.angulararchitects.io/blog/angular-signals/]
+- [Angular signals](https://www.angulararchitects.io/blog/angular-signals/)
 - [Angular tracking service](https://www.angularspace.com/simple-user-event-tracker-in-angular/)
 
 ## Azure

@@ -7,7 +7,7 @@
 | Jitsi: Online meet        | https://meet.jit.si/                                                                                                                                       |
 | vscode                    |                                                                                                                                                            |
 | visual studio             |                                                                                                                                                            |
-| Respoinsively app         | https://responsively.app/                                                                                                                                  |
+| Respoinsively app         | https://responsively.app/                                                                                                                                  |
 | Windows terminal          | windows store                                                                                                                                              |
 | WinSCP or Filezila        | FTP tools                                                                                                                                                  |
 | ScreenToGif: GIF recorder | https://www.screentogif.com/                                                                                                                               |

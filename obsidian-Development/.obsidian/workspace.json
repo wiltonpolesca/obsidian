@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "73685b733fd244c4",
-        "type": "split",
+        "id": "4702d22510191dbd",
+        "type": "tabs",
         "children": [
           {
-            "id": "1a4d2514908019d7",
-            "type": "tabs",
-            "dimension": 23.255813953488367,
-            "children": [
-              {
-                "id": "ec27165f9eabd5e1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/Vai que/CMMS.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "CMMS"
-                }
-              }
-            ]
-          },
-          {
-            "id": "4702d22510191dbd",
-            "type": "tabs",
-            "dimension": 76.74418604651163,
-            "children": [
-              {
-                "id": "3ed87d3f6ac5a14a",
-                "type": "leaf",
-                "state": {
-                  "type": "diagrams-net",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Diagram"
-                }
-              }
-            ]
+            "id": "3ed87d3f6ac5a14a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/PI-System/_notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_notes"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -200,58 +175,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer un nouveau canvas": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "ec27165f9eabd5e1",
+  "active": "af7eb10036045968",
   "lastOpenFiles": [
+    "Diagrams/mermaid.md",
+    "Diagrams/Examples.md",
+    "docker/services/portainer.md",
+    "docker/services/oracle.md",
+    "dotnet/runnint-unit-tests.md",
+    "dotnet/dotnet-hosts.md",
+    "z-FAQ.md",
+    "useful-links.md",
+    "linux-tip.md",
+    "Untitled 2.md",
+    "Sans titre.base",
+    "Projects/_sql-server.md",
+    "_notes.md",
+    "tips/c#/add-named-dependency-to-DI.md",
+    "Projects/LumiMining/_drafts/Brainstorms.md",
     "Projects/LumiMining/_drafts/architecture.md",
+    "Projects/Vai que/RAQ/02.md",
+    "Projects/Vai que/RAQ/01.md",
+    "Projects/Vai que/Basic-Information.md",
+    "Projects/Vai que/CMMS.md",
+    "Projects/Vai que/CMMS-Arvore de equipamentos.md",
+    "Projects/Vai que/licenças.md",
+    "Projects/Vai que/SSO.md",
+    "Projects/Vai que/SSO-2.md",
+    "Projects/Vai que/trafeik.md",
+    "Projects/Vai que/zitadel.md",
+    "new-machine-from-scratch.md",
     "Projects/LumiMining/digrams/architecture.drawio.svg",
     "Projects/LumiMining/digrams/Diagram.svg",
-    "Projects/LumiMining/_drafts/Brainstorms.md",
     "Projects/LumiMining/digrams",
     "Projects/LumiMining/digrams/Diagram.svg.xml",
-    "Projects/LumiMining/_drafts/Drawing 2026-10-20 13.58.55.excalidraw.md",
     "gear.svg",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "Projects/LumiMining/Training/Angular training.md",
-    "Projects/LumiMining/Sotware requirements.md",
-    "Sans titre.base",
     "Projects/LumiMining/_drafts/Sans titre.canvas",
-    "Projects/LumiMining/_drafts/arquitecture.drawio.svg.md",
-    "Projects/Vai que/Basic-Information.md",
     "Projects/LumiMining/Arquitecture",
-    "Projects/Vai que/RAQ/01.md",
-    "Projects/LumiMining/v1.licence-system.md",
-    "Projects/LumiMining/licence-system-specification-document.md",
     "Projects/LumiMining/_drafts",
     "Projects/LumiMining/Training",
-    "linux-tip.md",
-    "new-machine-from-scratch.md",
     "Pasted image 20260811084929.png",
-    "Repasse de contrato.md",
-    "Sans titre.md",
-    "Untitled 2.md",
-    "useful-links.md",
-    "Projects/LumiMining/v2. licence-system.md",
-    "Projects/Vai que/CMMS-Arvore de equipamentos.md",
-    "Projects/Vai que/licenças.md",
     "Projects/LumiMining",
-    "Projects/Vai que/CMMS.md",
-    "Projects/Vai que/zitadel.md",
-    "dotnet/runnint-unit-tests.md",
-    "Opportunities/software-developer-specialist-fr-2.md",
-    "Opportunities/software-developer-specialist-fr.md",
-    "Opportunities/software-developer-specialist-en.md",
     "docker/imgs/getting-certificate-2.png",
     "docker/imgs/getting-certificate-1.png",
     "Pasted image 20260811084739.png",

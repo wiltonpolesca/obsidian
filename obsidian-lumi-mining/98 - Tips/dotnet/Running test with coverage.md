@@ -1,4 +1,4 @@
-# Running unit tests
+# Running test with coverage
 
 ```bash
 dotnet test .\\FMEPluginsTests\\FMEPluginsTests.csproj /p:CollectCoverage=true /p:CoverletOutput=lcov /p:CoverletOutput=coverage.lcov /p:Exclude='[xunit*]*' /p:ThresholdType=line /p:ThresouldStat=average

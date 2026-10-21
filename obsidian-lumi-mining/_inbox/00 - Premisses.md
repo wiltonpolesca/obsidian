@@ -1,12 +1,13 @@
-# Requirements
+# Premisses
 
 - On-Promisse first
 - Cloud compatible
 - Scalable
 - Multi-tenant by design
 - With integrated chat (IA)
+- NTP syncronism
 
-# Technologies
+echnologies
 
 - PostgreSQL
 	- Production and Visualization (second readonly database that must be a clone from Prouction)
