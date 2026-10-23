@@ -59,24 +59,17 @@
             "id": "209e5cd073fdbff0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "80 - Clients/ORU/notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Sans titre.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "notes"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sans titre"
             }
           },
           {
@@ -102,9 +95,33 @@
               "icon": "lucide-file",
               "title": "Sans titre"
             }
+          },
+          {
+            "id": "d0b18b3f67199f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80 - Clients/ORU/To-Do.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "To-Do"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "podman",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ca3ff4f0a5ba4f64",
@@ -296,17 +314,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "209e5cd073fdbff0",
+  "active": "d0b18b3f67199f9c",
   "lastOpenFiles": [
-    "80 - Clients/ORU/Sans titre.md",
+    "Sans titre.canvas",
+    "80 - Clients/ORU/To-Do.md",
+    "99 - Permanent/VMs.md",
+    "80 - Clients/ORU/oru-dgst.md",
+    "99 - Permanent/Eaton system and patterns notes.md",
+    "99 - Permanent/_Eaton important notes.md",
     "80 - Clients/ORU/notes.md",
+    "80 - Clients/ORU/Sans titre.md",
     "1 - Resourses/laptop-from-scratch.md",
     "99 - Permanent/Bitlocker-Drive-Encryption-Recovery-Key.md",
-    "99 - Permanent/Eaton system and patterns notes.md",
     "99 - Permanent/_gerar-versão-gateway.md",
-    "99 - Permanent/_Eaton important notes.md",
     "Sans titre 1.md",
-    "99 - Permanent/VMs.md",
     "99 - Permanent/Sans titre.md",
     "80 - Clients/DLC/tests.md",
     "80 - Clients/Austin Energy/001 - Questions.md",
@@ -323,12 +344,9 @@
     "80 - Clients/DLC/Images/Pasted image 20260804100700.png",
     "80 - Clients/DLC/Pièces jointes",
     "99 - Permanent/github-recovery-codes.md",
-    "80 - Clients/ORU/oru-dgst.md",
     "1 - Resourses/Daily notes/2026/01/2026-01-20.md",
     "13 - Proposals/Report Tool.md",
     "2 - Projects/cymdist plugin/Integration-Test-Architecture-Technical-Note.md",
-    "1 - Resourses/usefull-links.md",
-    "80 - Clients/DLC/mind-map.excalidraw.md",
     "13 - Proposals",
     "0 - Inbox",
     "80 - Clients/DLC/Weekly-Meetings",
@@ -338,7 +356,6 @@
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Sans titre.canvas",
     "Pasted image 20260623100906.png",
     "2 - Projects/Gateway-Modernization/images",
     "2 - Projects/Gateway-Modernization",
