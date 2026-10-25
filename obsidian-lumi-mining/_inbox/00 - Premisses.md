@@ -21,9 +21,10 @@ echnologies
 	- https://community.traefik.io/t/serving-an-angular-dockerized-application-with-traefik-in-docker-swarm/9118
 	- https://thecodeman.net/posts/dotnet-docker-and-traefik
 	- https://community.traefik.io/t/how-to-setup-traefik-as-reverse-proxy-for-asp-net-core-app-with-kestrel/16175
-- Zitadel (SSO)
+- Zitadel (SSO) - ABANDONED
 	- Microsoft integration
 	- https://youtu.be/1T1uxKW06Vs?list=PLDYUG5PASuckFmepTKDYT5cmx6nwlGy9t (exemplo com portainer)
+- Keycloak (SSO)
 
 # Licenses
 

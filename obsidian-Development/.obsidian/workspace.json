@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/PI-System/_notes.md",
+                "file": "linux-tip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_notes"
+              "title": "linux-tip"
             }
           }
         ]
@@ -186,8 +186,11 @@
       "drawio:Launch draw.io editor": false
     }
   },
-  "active": "af7eb10036045968",
+  "active": "3ed87d3f6ac5a14a",
   "lastOpenFiles": [
+    "Pasted image 20261022110538.png",
+    "useful-links.md",
+    "Databases/PI-System/_notes.md",
     "Diagrams/mermaid.md",
     "Diagrams/Examples.md",
     "docker/services/portainer.md",
@@ -195,7 +198,6 @@
     "dotnet/runnint-unit-tests.md",
     "dotnet/dotnet-hosts.md",
     "z-FAQ.md",
-    "useful-links.md",
     "linux-tip.md",
     "Untitled 2.md",
     "Sans titre.base",
@@ -213,8 +215,6 @@
     "Projects/Vai que/SSO.md",
     "Projects/Vai que/SSO-2.md",
     "Projects/Vai que/trafeik.md",
-    "Projects/Vai que/zitadel.md",
-    "new-machine-from-scratch.md",
     "Projects/LumiMining/digrams/architecture.drawio.svg",
     "Projects/LumiMining/digrams/Diagram.svg",
     "Projects/LumiMining/digrams",
