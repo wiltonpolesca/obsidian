@@ -12,11 +12,11 @@ Confirmar que o trabalho pode ser encerrado do ponto de vista da manutenção e 
 ## Gatilho e pré-condições
 
 - As atividades planejadas foram concluídas ou suas exceções foram aprovadas e documentadas.
-- O equipamento está disponível para os testes previstos e os controles de segurança aplicáveis estão definidos.
+- O equipamento está disponível para os testes previstos e o local é seguro para executá-los.
 
 ## Fluxo principal
 
-1. O responsável revisa o escopo executado, os componentes utilizados, as pendências e os critérios de aceitação definidos no plano.
+1. O responsável revisa o escopo executado, os componentes utilizados, as pendências e os critérios de aceitação definidos no plano. Confere que instalações, remoções, restaurações e destinos de componentes relacionados à intervenção foram registrados antes de encerrar a solicitação.
 2. Executa e registra os testes e inspeções pós-intervenção previstos, incluindo resultados, medições, evidências, data e responsável.
 3. Confirma que todas as atividades críticas passaram, não há defeitos impeditivos conhecidos e o equipamento pode ser apresentado à operação.
 4. A manutenção registra a condição técnica e emite a comunicação de equipamento disponível para avaliação/recebimento pelo CCO. A retirada de bloqueios e a autorização de retorno à operação seguem os procedimentos e as autoridades responsáveis da mina.
@@ -39,6 +39,7 @@ Resultado dos testes documentado, condição técnica comunicada, recebimento do
 
 - Cada teste requerido tem resultado registrado ou uma pendência formalmente justificada e aprovada.
 - O histórico identifica quem executou os testes e quem aprovou o encerramento.
+- Os movimentos de componentes relacionados à intervenção estão registrados e consultáveis no histórico, sem depender do encerramento da solicitação para preservar os eventos.
 - A notificação ao CCO inclui equipamento, condição, limitações conhecidas e referência à solicitação.
 - O recebimento pelo CCO ou a exceção formal que permita prosseguir ficam registrados antes do encerramento.
 - O sistema distingue solicitação encerrada, equipamento tecnicamente disponível e equipamento autorizado pela operação para retorno ao serviço.

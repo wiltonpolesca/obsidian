@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application progid='Excel.Sheet'?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>1</Index>
+    <RGB>#ffffff</RGB>
+   </Color>
+   <Color>
+    <Index>2</Index>
+    <RGB>#000000</RGB>
+   </Color>
+   <Color>
+    <Index>3</Index>
+    <RGB>#d8e4f8</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <Styles>
+  <Style ss:ID="s1">
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+  <Style ss:ID="s2">
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+  <Style ss:ID="s3">
+   <ss:Interior ss:Color="#d8e4f8" ss:Pattern="Solid" />
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+ </Styles>
+ <ss:Worksheet ss:Name="Sheet1">
+  <Table>
+   <Column ss:AutoFit="0" ss:Width="169.5" />
+   <Column ss:AutoFit="0" ss:Width="169.5" />
+   <Column ss:AutoFit="0" ss:Width="169.5" />
+   <Column ss:AutoFit="0" ss:Width="169.5" />
+   <Row>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Default Record</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">EMI Action</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Customer Reported Issue</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Operator</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">1</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">AIMS</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">AMT Report</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Audit</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Backlog</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Call Centre</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Condition Monitoring</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Customer Request</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Equipment Report</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Field Campaign</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Filter Cutting</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">GCOM</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">GET Inspection</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Health Safety and Environment (HSE)</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Inspection</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Magnetic Plug Inspection</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Maintenance Strategy</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Oil Analysis</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">SLAM</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+  </Table>
+ </ss:Worksheet>
+</Workbook>

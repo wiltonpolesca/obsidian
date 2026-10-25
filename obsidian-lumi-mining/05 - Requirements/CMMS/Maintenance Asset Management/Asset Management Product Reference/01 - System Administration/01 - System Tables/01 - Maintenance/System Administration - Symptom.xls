@@ -1,0 +1,622 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application progid='Excel.Sheet'?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>1</Index>
+    <RGB>#ffffff</RGB>
+   </Color>
+   <Color>
+    <Index>2</Index>
+    <RGB>#000000</RGB>
+   </Color>
+   <Color>
+    <Index>3</Index>
+    <RGB>#d8e4f8</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <Styles>
+  <Style ss:ID="s1">
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+  <Style ss:ID="s2">
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+  <Style ss:ID="s3">
+   <ss:Interior ss:Color="#d8e4f8" ss:Pattern="Solid" />
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+ </Styles>
+ <ss:Worksheet ss:Name="Sheet1">
+  <Table>
+   <Column ss:AutoFit="0" ss:Width="137.25" />
+   <Column ss:AutoFit="0" ss:Width="137.25" />
+   <Column ss:AutoFit="0" ss:Width="137.25" />
+   <Column ss:AutoFit="0" ss:Width="137.25" />
+   <Column ss:AutoFit="0" ss:Width="137.25" />
+   <Row>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Symptom</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Description</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Default Record</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Strategy Default</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Catalogue  Profile</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">0 - (None)</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">1</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">A/C Too Cold</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">A/C Too Hot</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Abnormal noise</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Aeration</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Air Lock</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Bent</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Black Smoke</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Blue Smoke</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Broken</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Cavitation</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Clogged</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Contamination</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">coolant Leaking</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String" /></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Corrosion</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Cracked</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Drifts</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Dust Entry</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Erratic Shifting</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Excessive Blowby</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Failing to start</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String" /></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Hard To Engage Or Disengage</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">High Pressure</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">High Voltage</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Hydraulic Oil Leak</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String" /></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Inspection</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Inspection</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Intermittent</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Leak</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Loose</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Low Power</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Low Pressure</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Low Voltage</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Misalignment</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Moves</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Network / Communication Issue</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">No Braking</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">No Pressure</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">No Propel</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">No Signal</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">No Swing</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">No Voltage</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Not engaging</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Oil Consumption Excessive</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Oil Leak</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String" /></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Open Circuit</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Overcharging</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Overheating</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Oversized Or Too Long</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Overspeeds</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Park brake not holding</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Pitted, Spalled Or Eroded</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Planned Maintenance</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Planned Maintenance</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Resonance</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Seized</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Select From List</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Separated</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Short Circuit</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Slipping</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Slobbers</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Slow Movement</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Smoke</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Split</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Strategy Task</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Stuck</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">System Warning</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Transmission don't engage</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Transmission Oil Leak</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String" /></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Tripping</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Undercharging</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Undersized Or Too Short</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Vibration</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Warning light</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Wear</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">White Smoke</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Wobble</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String" /></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Won't Move</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Won't Start</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Worn</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Wrinkled</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Wrong Cycle Time</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Wrong Direction</Data></Cell>
+    <Cell ss:StyleID="s2" />
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Wrong Rotation</Data></Cell>
+    <Cell ss:StyleID="s3" />
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+  </Table>
+ </ss:Worksheet>
+</Workbook>

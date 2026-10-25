@@ -36,6 +36,8 @@ Registrar uma falha com informações suficientes para que o CCO tome as primeir
 - **Equipamento não pode se deslocar com segurança:** o CCO mantém o equipamento no local, aciona o apoio necessário e registra a necessidade de atendimento no local ou de transporte especializado.
 - **Informações incompletas ou comunicação interrompida:** o CCO registra o que foi confirmado, identifica os campos pendentes e tenta contato novamente. Não deve preencher dados desconhecidos como se fossem confirmados.
 - **Relato recebido por rádio:** o operador do CCO registra manualmente a informação no CMMS, identificando o canal e os horários do contato e do registro.
+- **Relato offline ou com anexos:** documentos podem ser anexados à OS. Gravações (de rádio, por exemplo) são transcritas, e a transcrição é registrada no relato.
+- **Relato registrado offline:** o registro feito sem conectividade é enviado e reconhecido automaticamente quando o dispositivo voltar a ficar online, desde que o intervalo entre a geração e o reconhecimento seja de até 24 horas. Acima disso, o CMMS retém o registro e exige intervenção manual para aceitá-lo, verificando duplicidade com solicitações já abertas.
 - **Relato recebido por mensagem embarcada:** o operador do CCO transcreve ou anexa a mensagem conforme os recursos e procedimentos disponíveis; se não houver integração, o registro é manual.
 - **Equipamento ou solicitação já cadastrados:** o CCO verifica se existe uma solicitação aberta para a mesma falha. Se houver, relaciona o novo relato ao registro existente em vez de perder a informação ou criar duplicidade sem justificativa.
 

@@ -17,7 +17,7 @@ Analisar a solicitação recebida do CCO, definir sua prioridade, atribuir respo
 ## Fluxo principal
 
 1. O responsável pela triagem revisa o relato, o estado do equipamento, os riscos informados, a localização e as evidências disponíveis.
-2. Confere se há solicitações abertas relacionadas ao mesmo equipamento ou falha; quando aplicável, relaciona os registros para preservar o histórico.
+2. Confere se há solicitações abertas relacionadas ao mesmo equipamento ou falha; quando aplicável, relaciona os registros para preservar o histórico. Se o problema já ocorreu antes, o atendimento segue o mesmo fluxo e o responsável marca manualmente a tarefa como reincidente, referenciando a OS anterior. Se o CMMS identificar uma possível reincidência, apenas sugere a marcação ao usuário.
 3. Classifica a prioridade usando critérios operacionais aprovados, considerando, no mínimo, segurança, impacto na produção, indisponibilidade do equipamento e consequências de atraso.
 4. Registra a justificativa da prioridade e o prazo ou tempo-alvo de resposta aplicável.
 5. Define a equipe responsável e, quando possível, o responsável inicial e a previsão de atendimento.

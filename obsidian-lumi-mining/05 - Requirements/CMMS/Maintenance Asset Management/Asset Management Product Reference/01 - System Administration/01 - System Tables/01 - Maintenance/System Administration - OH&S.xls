@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application progid='Excel.Sheet'?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>1</Index>
+    <RGB>#ffffff</RGB>
+   </Color>
+   <Color>
+    <Index>2</Index>
+    <RGB>#000000</RGB>
+   </Color>
+   <Color>
+    <Index>3</Index>
+    <RGB>#d8e4f8</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <Styles>
+  <Style ss:ID="s1">
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+  <Style ss:ID="s2">
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+  <Style ss:ID="s3">
+   <ss:Interior ss:Color="#d8e4f8" ss:Pattern="Solid" />
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+ </Styles>
+ <ss:Worksheet ss:Name="Sheet1">
+  <Table>
+   <Column ss:AutoFit="0" ss:Width="222" />
+   <Column ss:AutoFit="0" ss:Width="222" />
+   <Column ss:AutoFit="0" ss:Width="222" />
+   <Row>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Health Safety</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Default Record</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Auditable Record</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">N/A</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Safety</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Environmental</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Statutory</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+   </Row>
+  </Table>
+ </ss:Worksheet>
+</Workbook>

@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application progid='Excel.Sheet'?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>1</Index>
+    <RGB>#ffffff</RGB>
+   </Color>
+   <Color>
+    <Index>2</Index>
+    <RGB>#000000</RGB>
+   </Color>
+   <Color>
+    <Index>3</Index>
+    <RGB>#d8e4f8</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <Styles>
+  <Style ss:ID="s1">
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+  <Style ss:ID="s2">
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+  <Style ss:ID="s3">
+   <ss:Interior ss:Color="#d8e4f8" ss:Pattern="Solid" />
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+ </Styles>
+ <ss:Worksheet ss:Name="Sheet1">
+  <Table>
+   <Column ss:AutoFit="0" ss:Width="222" />
+   <Column ss:AutoFit="0" ss:Width="222" />
+   <Column ss:AutoFit="0" ss:Width="222" />
+   <Row>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Misc Category</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Default Record</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Expense Element</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4010000001-Engineering Civil</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">401 - Building Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4030000001-Civil/Structural/ Steel Works</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">403 - Civil/Structural/ Steel Works</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4050000001-Consultancy</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">405 - Consultants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4050000002-Compliance Testing</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">405 - Consultants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4050000003-Course Fees</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">405 - Consultants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4050000004-Oil Analysis</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">405 - Consultants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4050000005-Non Destructive Test</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">405 - Consultants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4050000006-Geotechnical Survey</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">405 - Consultants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4050000007-Government Licensing Fees</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">405 - Consultants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4060000001-DESLUDGE - KIBBLE (0.7634m3)</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">406 - Desludging</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4060000002-DESLUDGE (Per Settler/Sump)</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">406 - Desludging</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4060000003-DESLUDGING (Per Hour)</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">406 - Desludging</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4060000004-DESLUDGE - SIDE TIPPER (1.5m3)</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">406 - Desludging</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4060000005-DESLUDGING (Per M3)</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">406 - Desludging</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4080000001-Engineering Electrical</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">408 - Electrical Equip Repair/Mtce</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4080000002-Maint &amp; Service Electrical</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">408 - Electrical Equip Repair/Mtce</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4100000001-Fire &amp; Safety Services</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">410 - Fire &amp; Safety Services</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4230000001-Maint &amp; Service Instruments</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">423 - Instrumentation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4230000002-Calibration Of Instruments</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">423 - Instrumentation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4250000001-Laundry Services</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">425 - Laundry Services</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4260000001-Maint &amp; Service-Extra Ordinary</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">426 - Light Vehicle Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4260000002-Maint &amp; Service-Trucks</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">426 - Light Vehicle Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4260000003-Maint &amp; Service-Light Vehicle</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">426 - Light Vehicle Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4260000004-Maint &amp; Service-Mitsubishi</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">426 - Light Vehicle Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4260000005-Maint &amp; Service-Toyota</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">426 - Light Vehicle Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4270000001-Loader Repairs - Pumps</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4270000002-Loader Repairs - General</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4270000003-Loader Repairs-Hydraulic Hoses</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4270000004-Loader Repairs - Seats</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4270000005-Loader Repairs - Buckets</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4270000006-Loader Repairs-Fabricat &amp; Comp</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4270000007-Loader Repairs - Tyres</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4270000008-Loader Repairs - Engines</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4270000009-Loader Repairs - Transmissions</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4270000010-Loader Repairs - Torque Conv</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4270000011-Loader Repairs - Axles</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4270000012-Loader Repairs - Hydraulic Cyl</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4270000013-Her Field Service Technician</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4270000014-Tyre Maintenance</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">427 - Loader Maintenance &amp; Rehabs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4280000001-Processing Services Smelter</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4280000002-Processing Services Refinery</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4280000003-Processing Serv Cobalt Plant</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4280000004-Secondary Crushing</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4280000005-Processing Service Leach Plant</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4280000007-Engineering Acid Related</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4280000008-Engineering Design Fabrication</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4280000009-Engineering Fire Protection</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4280000010-Engineering General</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4280000011-Engineering Machining</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4280000012-Engineering Mechanical</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4280000013-Engineering Procurement</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4280000014-Engineering Steelwork</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4280000015-Maint &amp; Service Buildings</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4280000016-Maint &amp; Service Mech Equipment</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4280000017-Repair &amp; Refurbish Parts</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4280000018-Installation &amp; Commissioning</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4280000019-Strip And Quote Repair</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4280000020-Scaffolding</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4280000021-Enginering Rubber Lining</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4280000022-Engineering Water Treatment</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">428 - Mechanical Repair&amp;Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4300000001-Plant &amp; Equip Hire Wet Rate</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">430 - Plant &amp; Equipment Hire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4300000002-Plant &amp; Equip Hire Dry Rate</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">430 - Plant &amp; Equipment Hire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4300000003-Mobilization</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">430 - Plant &amp; Equipment Hire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4300000004-Demobilization</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">430 - Plant &amp; Equipment Hire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4300000005-Standing Time</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">430 - Plant &amp; Equipment Hire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4300000006-Explosives Charging Units</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">430 - Plant &amp; Equipment Hire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4310000001-Maint &amp; Service Pumps</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">431 - Pump Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4320000001-Rail Maintenance</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">432 - Rail Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4330000001-Road Construction</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">433 - Road Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4330000002-Dust Suppression Above / Road</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">433 - Road Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4330000003-Dust Suppression Underground</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">433 - Road Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4330000004-Road Maintenance</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">433 - Road Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4370000001-Telephone  Hardware &amp; Accessor</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">437 - Telephone&amp;Network Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">5S4370000002-Telephone Fibre Optic Devices</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">437 - Telephone&amp;Network Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">5S4370000003-Telephone&amp;Network Maintenance</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">437 - Telephone&amp;Network Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Consumables</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Documentation</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">General</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">1</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Permits</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Subcontract</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Tooling</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s2" />
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">Transportation</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s3" />
+   </Row>
+  </Table>
+ </ss:Worksheet>
+</Workbook>

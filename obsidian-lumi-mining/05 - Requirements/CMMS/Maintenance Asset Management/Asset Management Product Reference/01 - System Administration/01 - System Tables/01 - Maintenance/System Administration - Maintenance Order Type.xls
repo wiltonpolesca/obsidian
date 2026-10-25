@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application progid='Excel.Sheet'?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>1</Index>
+    <RGB>#ffffff</RGB>
+   </Color>
+   <Color>
+    <Index>2</Index>
+    <RGB>#000000</RGB>
+   </Color>
+   <Color>
+    <Index>3</Index>
+    <RGB>#d8e4f8</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <Styles>
+  <Style ss:ID="s1">
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+  <Style ss:ID="s2">
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+  <Style ss:ID="s3">
+   <ss:Interior ss:Color="#d8e4f8" ss:Pattern="Solid" />
+   <ss:Font ss:FontName="Tahoma" ss:Size="8.25" ss:Color="#000000" />
+  </Style>
+ </Styles>
+ <ss:Worksheet ss:Name="Sheet1">
+  <Table>
+   <Column ss:AutoFit="0" ss:Width="320.25" />
+   <Column ss:AutoFit="0" ss:Width="320.25" />
+   <Row>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Code</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Awaits</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">Approval- Cost</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">DOWN</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">DOWN LONG TERM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">DUPLIC</Data></Cell>
+    <Cell ss:StyleID="s2"><Data ss:Type="String">DUPLICATE TASK</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">HOLD</Data></Cell>
+    <Cell ss:StyleID="s3"><Data ss:Type="String">STRATEGY TASK HOLD</Data></Cell>
+   </Row>
+  </Table>
+ </ss:Worksheet>
+</Workbook>
