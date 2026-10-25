@@ -87,6 +87,8 @@ classDiagram
         +valor
         +dataHora
         +situacao : PREVISTA|VALIDADA
+        +offset
+        +origem
     }
 
     class OrdemServico {
@@ -153,12 +155,20 @@ classDiagram
         +codigo
         +tipo : COMPONENTE_RASTREAVEL|CONSUMIVEL
         +custoUnitarioERP
+        +origemCusto : ERP|MANUAL
     }
     class VidaUtilEsperada {
         +medidor : HORIMETRO|ODOMETRO
         +intervaloTroca
         +horasMaoDeObraTroca
         +paralisacaoEstimadaHoras
+        +reformavel
+    }
+    class HistoricoVidaUtil {
+        +vidaUtilHoras
+        +vigenteDesde
+        +motivo : CADASTRO_INICIAL|REFORMA
+        +responsavel
     }
     class PerfilUso {
         +horasPorDiaProjetadas
@@ -195,6 +205,7 @@ classDiagram
         +serieOuLote
         +medidorBase
         +horasAcumuladas
+        +dataVencimento
         +estadoAtual
     }
     class EventoComponente {
@@ -226,6 +237,7 @@ classDiagram
     VidaUtilEsperada "*" --> "1" ModeloEquipamento
     Equipamento "1" --> "1" PerfilUso
     Componente "1" --> "*" ProjecaoTroca
+    Componente "1" --> "*" HistoricoVidaUtil : vidas úteis anteriores
     ProjecaoTroca "*" --> "1" Equipamento
     ProjecaoTroca ..> PerfilUso : usa
     ProjecaoTroca ..> VidaUtilEsperada : usa
@@ -280,7 +292,8 @@ classDiagram
         +serieOuLote
         +tipo
         +medidorBase : HORIMETRO|ODOMETRO
-        +vidaUtilPrevista
+        +vidaUtilPrevista : horas vigente
+        +dataVencimento
         +horasAcumuladas()
         +localizacaoAtual()
         +estadoAtual()

@@ -190,12 +190,18 @@ Cada ocorrência é valorada (material + mão de obra) e agregada por período. 
 
 ### Pontos a definir
 
-1. Como projetar o uso: média dos últimos 90 dias, plano da mina ou perfil sazonal; quem atualiza e com que frequência.
+1. Como projetar o uso: **proposta inicial** — média diária dos últimos 90 dias a partir das leituras validadas, com ajuste manual identificado pelo planejador e perfil padrão do modelo quando faltar histórico; perfil sazonal ou plano da mina como evolução. A validar com a mina.
 2. Valor de reposição: último custo, custo padrão ou custo com escalonamento por inflação.
 3. Tratamento de vencidos, de vida herdada de instalações anteriores e de componentes reparáveis que voltam ao estoque.
 4. Horizonte e agregação (mês, trimestre, ano; por equipamento, modelo, frota, tipo de custo).
 5. Se a previsão considera mão de obra e paralisação além do material.
 6. ~~Fase de entrega~~ — decidido: a previsão de trocas fica para uma fase posterior; a primeira versão registra vida útil esperada, uso acumulado/leituras de horímetro, perfil de uso e custo de reposição. Orçamento com aprovação, versões e cenários continuam como camada posterior à previsão.
+7. ~~Escopo~~ — decidido: entram trocas por uso, tarefas preventivas e todos os custos que o CMMS consegue prever; custos fora do escopo do CMMS não entram.
+8. Leituras: tolerância de crescimento aceitável, regra de offset para medidor trocado ou zerado e recálculo de períodos após correção retroativa (ver UC-00 e UC-06).
+9. ~~Estoque~~ — decidido: o CMMS é o mestre do saldo físico; o custo vem do ERP e, na ausência, é informado manualmente pelo usuário.
+10. ~~Vida após reforma~~ — decidido: sem limite de reformas; o cadastro do componente é atualizado com a nova vida útil em horas, preservando o histórico de todas as vidas úteis anteriores; componentes não reformáveis são descartados ao fim da vida.
+12. Vencimento: decidido — data controlada, notificações a 90/60/30/15/10 dias, indicação clara após vencido, uso liberado por padrão e interdição só por configuração explícita do cliente. Vida herdada: decidido — o uso acumulado soma as horas em todos os equipamentos em que o componente foi instalado.
+11. Relatório de disponibilidade: o relatório compara a necessidade prevista por horizonte com o saldo em estoque e sinaliza faltas para aquisição preventiva (ver UC-07).
 
 ## Recomendação funcional
 
@@ -213,7 +219,7 @@ Manter como requisito de rastreabilidade a identidade do componente, eventos de 
 
 As dez decisões do [[00 - PT-Visão do fluxo e decisões pendentes|UC-00]] foram respondidas e refletidas nos casos de uso, no [[Mapa de fluxos do sistema]] e no [[Diagrama de classes (sugestão)]]. Efeito nas decisões abaixo:
 
-- **Resolvidas:** 4 (horímetro/odômetro como medida de vida útil, validado no início dos trabalhos), 8 (o CMMS controla saldo, reserva e previsão; o ERP troca informações comerciais/financeiras e, opcionalmente, baixa de estoque), parte da 1 (itens sem série são consumíveis, sem rastreabilidade individual) e parte da 7 (datas retroativas não afetam o período, pois o horímetro real é o validado na análise preliminar).
+- **Resolvidas:** 4 (horímetro/odômetro como medida de vida útil, validado no início dos trabalhos), 8 (o CMMS controla saldo, reserva e previsão; o ERP troca informações comerciais/financeiras e, opcionalmente, baixa de estoque), parte da 1 (itens sem série são consumíveis, sem rastreabilidade individual) e parte da 7 (o horímetro real é o validado na análise preliminar; como a leitura é datada, datas retroativas só entram por correção restrita, com recálculo do período e valor anterior preservado).
 - **Ainda aberta:** pesquisa do algoritmo de sugestão de reincidência (provavelmente aprendizado de máquina) e os pontos de definição da previsão de trocas e custos (seção acima e UC-07). Perfis (grupos com permissões por tela e recurso), hierarquia de locais (Mina → Unidade Operacional → Level → Local) e compatibilidade (no cadastro do componente, por modelo de máquina) estão definidos. As dez decisões originais estão respondidas.
 - **Financeiro:** o custo da OS fica definido como mão de obra (horas × valor-hora do cadastro de profissionais, ou de sistema interno se integrado) + material/equipamento (custo vindo do ERP). Isso fecha o item 8 financeiro para a primeira versão: custo da OS e realizado via ERP. Orçamento, forecast e variação permanecem como fase futura, sem requisitos.
 
