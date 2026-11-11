@@ -22,6 +22,7 @@
 | Remote Desktop manager    | [Devolutions Remote Desktop Manager - Download and install on Windows \| Microsoft Store](https://apps.microsoft.com/detail/xpfcxhf337w98s?hl=en-US&gl=CA) |
 | Obsidian                  |                                                                                                                                                            |
 | Figma                     | Interface design tool                                                                                                                                      |
+| ksnip                     | print screen tool:<br>https://github.com/ksnip/ksnip/releases                                                                                              |
   
 ## Linux (wsl) configurations
 

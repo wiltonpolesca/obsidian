@@ -8,7 +8,7 @@
 	- PHASE 1: Analysis type should be **XFOCHECK** 
 	- PHASE 2: Analysis type will be **PRELIMINARY**
 	- PHASE 3: Analysis type could be **SUPPLEMENTAL** or **CESIR**
-[ ] 4. Some error messages are missing
+[v] 4. Some error messages are missing
 - Result files missing information
 	- CYME Transformer Capacity Study Results
 	- CYME Model Error Message
@@ -23,5 +23,5 @@
 		QUEUED_DATE=2026-12-07 23:26:41.000Z  
 		PROJECT_ID=2b1bdce8-c350-4055-840c-fc6b98640f79
 	  ```
-[ ] 5. Modify the list of "networks" when initiating a session with the "CYME Server" so that it uses the feeders from the list of records to be submitted for analysis ("/transformer-check/run").
+[v] 5. Modify the list of "networks" when initiating a session with the "CYME Server" so that it uses the feeders from the list of records to be submitted for analysis ("/transformer-check/run").
 [ ] 6. Update DI-Gateway DDS document.

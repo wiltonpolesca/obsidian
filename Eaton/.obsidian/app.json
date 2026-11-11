@@ -4,7 +4,7 @@
   "openBehavior": "",
   "showUnsupportedFiles": true,
   "showInlineTitle": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./Pièces jointes"
