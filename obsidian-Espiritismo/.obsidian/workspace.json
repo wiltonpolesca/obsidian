@@ -11,10 +11,14 @@
             "id": "e70f0efd0d25ae4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/LE - Das Leis Morais - Capítulo 1 - Da lei Divina ou Natural.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LE - Das Leis Morais - Capítulo 1 - Da lei Divina ou Natural"
             }
           }
         ]
@@ -42,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -210,19 +214,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer un nouveau canvas": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
-  "active": "b893a68c721b70fa",
+  "active": "e70f0efd0d25ae4a",
   "lastOpenFiles": [
+    "_inbox/Sans titre.md",
+    "_inbox/LE - Das Leis Morais - Capítulo 1 - Da lei Divina ou Natural.md",
     "Estudos/ESDE/2026-05-esde-influencia-espirito-mediunidade.md",
     "Untitled.md",
     "_oratoria-jorge-elarrat.md",
@@ -248,8 +252,6 @@
     "Untitled.canvas",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Untitled 1.md",
-    "84.md",
     "Estudos/Livros",
     "Personagens/Filósofos",
     "Assuntos",

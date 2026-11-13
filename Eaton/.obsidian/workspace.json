@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "860b607ab5db0fb3",
+        "id": "6951860c4eb6daa1",
         "type": "tabs",
         "children": [
           {
-            "id": "1a15d8b57c476d93",
+            "id": "6e8ade2f93a12dce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Gateway/How to prepare a delivery package.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "How to prepare a delivery package"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -86,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,11 +209,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1a15d8b57c476d93",
+  "active": "6e8ade2f93a12dce",
   "lastOpenFiles": [
+    "05 - Gateway/Delivery package.md",
+    "80 - Clients/DLC/Sans titre.md",
     "99 - Permanent/Eaton system and patterns notes.md",
     "99 - Permanent/VMs.md",
-    "05 - Gateway/How to prepare a delivery package.md",
     "80 - Clients/DLC/_notes.md",
     "05 - Gateway",
     "0 - Inbox/ORU - FAT - TODO - 2010-10-29.md",
@@ -236,7 +222,6 @@
     "80 - Clients/Austin Energy/001 - Questions.md",
     "80 - Clients/Austin Energy/000 - access.md",
     "80 - Clients/DLC/Pièces jointes/Pasted image 20261106101501.png",
-    "80 - Clients/DLC/Sans titre.md",
     "80 - Clients/DLC/_FME.md",
     "80 - Clients/DLC/_dicas.md",
     "80 - Clients/DLC/mind-map.excalidraw.md",
