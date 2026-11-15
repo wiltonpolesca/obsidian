@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux-tip.md",
+                "file": "git/commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linux-tip"
+              "title": "commands"
             }
           }
         ]
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -186,8 +186,8 @@
   },
   "active": "3ed87d3f6ac5a14a",
   "lastOpenFiles": [
-    "Untitled.md",
     "linux-tip.md",
+    "Untitled.md",
     "Pasted image 20261022110538.png",
     "useful-links.md",
     "Databases/PI-System/_notes.md",
