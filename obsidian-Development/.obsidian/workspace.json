@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -175,19 +175,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer un nouveau canvas": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "drawio:Launch draw.io editor": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "3ed87d3f6ac5a14a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "linux-tip.md",
     "Pasted image 20261022110538.png",
     "useful-links.md",
     "Databases/PI-System/_notes.md",
@@ -198,7 +198,6 @@
     "dotnet/runnint-unit-tests.md",
     "dotnet/dotnet-hosts.md",
     "z-FAQ.md",
-    "linux-tip.md",
     "Untitled 2.md",
     "Sans titre.base",
     "Projects/_sql-server.md",

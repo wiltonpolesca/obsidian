@@ -4,41 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "fa2fefbcc391b27b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "095f9f8f36828186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Angu"
-            }
-          },
-          {
-            "id": "6c37d9db7ddb95c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bolinho de mandioca.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bolinho de mandioca"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "7006df0b3097bf6f",
         "type": "tabs",
         "children": [
@@ -49,10 +14,25 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "884c7bbb845a03a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Muqueca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Muqueca"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +57,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -205,17 +185,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "google-drive-sync:Push to Google Drive": false
     }
   },
-  "active": "6c37d9db7ddb95c6",
+  "active": "884c7bbb845a03a2",
   "lastOpenFiles": [
+    "Muqueca.md",
     "Angu.md",
     "Bolinho de mandioca.md",
     "Welcome.md"
